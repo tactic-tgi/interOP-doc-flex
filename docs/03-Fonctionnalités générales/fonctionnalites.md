@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Fonctionnalités générales
 
 Les fonctionnalités que vous trouverez ici sont communes à plusieurs modules.

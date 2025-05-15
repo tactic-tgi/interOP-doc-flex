@@ -43,6 +43,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          routeBasePath: '/',
           versions: {
             '2.0.0': {
               banner: 'none',
@@ -82,7 +83,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/introduction',
+                to: '/introduction',
               },
             ],
           },

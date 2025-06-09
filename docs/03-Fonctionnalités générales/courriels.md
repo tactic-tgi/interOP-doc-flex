@@ -47,7 +47,7 @@ Cliquez sur l'**enveloppe** pour visionner l'historique de courriels.
 
 Enveloppe **grisé** : aucun courriel envoyé
 
-Enveloppe **en couleu**r : contient des courriels
+Enveloppe **en couleur** : contient des courriels
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/9b5ef99d-3b5b-4406-9b53-6e9e216ae4af/Screenshot%202024-07-25%20at%2011.24.24%E2%80%AFAM.png)
 
@@ -65,4 +65,8 @@ Enveloppe **en couleu**r : contient des courriels
      Si le bouton est grisé, impossible de faire la suppression.
 4. Envoyez un nouveau courriel en lien avec la demande.
 
+![](../../static/img/logo.png)
+
+
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/1501e5a6-b321-474a-abd4-ecf29afa5d46/Screenshot%202024-07-25%20at%201.57.44%E2%80%AFPM.png)
+

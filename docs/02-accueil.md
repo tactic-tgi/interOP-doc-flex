@@ -12,9 +12,13 @@ Chacun des modules contient des sections spécifiques.
 
 Chaque section est identifiée avec un icône de référence à sa gauche.
 
-Cliquez sur le nom de la section pour y accéder.
+Cliquez sur le nom de la section pour accéder aux modules.
+![](../static/img/Accueil_3_deroulement.gif)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/dc0b59b0-ef51-4e2c-9c45-4e53fa2f9aaa/Screenshot%202024-06-05%20at%203.31.57%E2%80%AFPM.png)
+
+## Boutons du haut : 
+
+![](../static/img/Accueil_1.png)
 
 #### 1\. Retour à l'Accueil
 
@@ -28,7 +32,7 @@ Il contient les 10 derniers enregistrements officiels visités (tables principal
 
 Il permet de retourner rapidement au dernier travail effectué.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/b4220ff0-7627-4be7-988a-8db2e049b568/image.png)
+![](../static/img/Accueil_2.png)
 
 #### 3\. Fermer le menu
 

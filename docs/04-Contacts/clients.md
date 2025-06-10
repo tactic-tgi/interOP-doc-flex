@@ -12,7 +12,9 @@ Ouverture du module en [mode liste](https://app.clickup.com/9017115504/v/dc/8cqc
 
 Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-d334b8fe-d65e-4449-a1d9-a27c07e19a53) est à Actif.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/421a4b81-c19e-4448-b9f3-c1b3cd40aa87/Screenshot%202024-11-13%20at%204.37.21%E2%80%AFPM.png)
+![](../../static/img/Clients_liste.png)
+
+![](../../static/img/Clients_2_filtre.png)
 
 **En mode** [**consultation**](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-fab2c14a-4d75-4bad-9f1c-ba1f4f2460a3)
 
@@ -29,7 +31,7 @@ La portion du **bas** présente l'historique pour :
 
 Le dernier onglet permet de consigner différentes [notes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-26797?block=block-5a6456ba-b0e7-4627-a40b-138e6c08bd0c) segmentées par catégorie.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/b2ef53b2-07f8-4b38-b66d-ae29da7c6ac6/Screenshot%202025-01-23%20at%202.04.24%E2%80%AFPM.png)
+![](../../static/img/Clients_3.png)
 
 ---
 

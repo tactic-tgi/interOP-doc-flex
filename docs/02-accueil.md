@@ -13,6 +13,7 @@ Chacun des modules contient des sections spécifiques.
 Chaque section est identifiée avec un icône de référence à sa gauche.
 
 Cliquez sur le nom de la section pour accéder aux modules.
+
 ![](../static/img/Accueil_3_deroulement.gif)
 
 

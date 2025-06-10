@@ -37,21 +37,22 @@ Le dernier onglet permet de consigner différentes [notes](https://app.clickup.c
 
 ### Création d'un client
 
-1. Cliquez sur le bouton **Créer un client**
+1. Revenir dans la liste des clients et cliquer sur **Créer un client**
+![](../../static/img/Clients_4_création.png)
    - **Coordonnées**
-     Les champs en [bleus sont obligatoires](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) .
-     Pour compléter l'adresse ; cliquez dans l'encadré rouge.![](https://t9017115504.p.clickup-attachments.com/t9017115504/51b7ea23-6654-42b1-9349-5594944d11dd/image.png)
+     Les champs marqués d'une [étoile](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) sont obligatoires.
+     ![](../../static/img/Clients_5.png)
      **Abonnement requis** pour cette [fonction](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27177?block=block-2e10d61b-8a21-40a6-bb11-4d5cbc05c3f7).
      ![](https://t9017115504.p.clickup-attachments.com/t9017115504/fb8511e4-23ea-4b14-8886-c7fd93d2de46/Screenshot%202025-01-23%20at%2011.40.14%E2%80%AFAM.png)
-     Adresse à compléter ici ⤵️ ![](https://t9017115504.p.clickup-attachments.com/t9017115504/75c94d09-fba4-4e85-9348-3bd9f0321dbc/image.png)
+     Adresse à compléter ici ⤵️ ![](../../static/img/Clients_6_google.png)
      - **Renseignement additionnels**
        Identification expéditeur sur le bon d'expédition et les étiquettes.
        **Standard** ➝ Logo & coordonnées de votre entreprise.
        **Client** ➝ Logo de votre client à ajouter.
-       **Aucune** ➝ Blank shipping (aucun logo/identification) ![](https://t9017115504.p.clickup-attachments.com/t9017115504/75ec3e06-9543-4706-b746-7b592caf0451/Screenshot%202025-01-22%20at%2010.39.25%E2%80%AFAM.png)
+       **Aucune** ➝ Blank shipping (aucun logo/identification) ![](../../static/img/Clients_7_infosadd_std.png)
    - **Administration**
-     Les champs à compléter sont en fonction de votre système comptable.
-     ![](https://t9017115504.p.clickup-attachments.com/t9017115504/fc178dfe-50e9-4b7d-aeb3-ade3c1211531/image.png)
+     Les champs à compléter sont en fonction de votre système comptable. À noter que vous pouvez choisir de facturer à une autre entité (autre client de votre base de donnée).
+     ![](../../static/img/Clients_8_admin.png)
 
 2\. **Enregistrer**
 

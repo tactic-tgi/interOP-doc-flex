@@ -151,7 +151,7 @@ Les [notes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?
 #### Ajouter une note
 
 1. Cliquez sur l'onglet Notes
-2. Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
+2. Cliquez sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 
 Sélectionnez une catégorie.
 

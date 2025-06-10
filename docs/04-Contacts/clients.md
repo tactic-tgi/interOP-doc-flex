@@ -159,6 +159,7 @@ Suivre les [instructions suivantes](https://app.clickup.com/9017115504/v/dc/8cqc
 
 ![](../../static/img/Notes_1.png)
 ![](../../static/img/Notes_2.png)
+
 Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-1f474c9b-58a9-4128-a20e-cd371aa4ac37).
 
 ---
@@ -201,7 +202,7 @@ Dans l'onglet **Facture.**
 
 L'actualisation des totaux ne se fait pas automatiquement.
 
-Cliquer pour actualiser le total des ventes pour les 5 dernières années.
+Cliquez pour actualiser le total des ventes pour les 5 dernières années.
 ![](../../static/img/Clients_facture_refresh.png)
 
 #### Créer une facture

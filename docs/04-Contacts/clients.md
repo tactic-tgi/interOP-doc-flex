@@ -70,14 +70,15 @@ Contact **Actif** : en couleur
 
 Contact **Inactif** : grisé
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/525e9914-0e48-4580-af47-593136e8c7f4/Screenshot%202025-01-23%20at%202.07.01%E2%80%AFPM.png)
+![](../../static/img/Contacts_1.png)
 
 #### Ajouter un contact
 
-- Cliquer sur **\+ Ajouter**
-- Remplir la fiche : les champs en [bleus sont obligatoires](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61)
+- Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
+- Remplir la fiche : les champs marqués d'une [étoile](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) sont obligatoires.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/9b92e809-b8e6-4ba0-8813-a6a07922e567/Screenshot%202025-01-23%20at%201.55.53%E2%80%AFPM.png)
+  ![](../../static/img/Contacts_3.png)
+- Spécifiez si le contact est celui par défaut, s'il est responsable de la facturation et/ou de l'envoi courriel de la facturation.
 
 - **Enregistrer**
 
@@ -86,7 +87,7 @@ Contact **Inactif** : grisé
 - Consulter
 
   - cliquez sur le nom d'un des contacts pour afficher sa fiche
-  - cliquez sur le X en haut à droite pour fermer la fenêtre
+  - cliquez sur Enregistrer pour sortir de la fenêtre.
 
 - Modifier
 
@@ -98,7 +99,7 @@ Contact **Inactif** : grisé
 
   Si le bouton est grisé, impossible de faire la suppression car le contact est utilisé dans le système.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/9c5bcf3f-a1cd-4c90-9ff9-9c29089049ef/Screenshot%202025-01-23%20at%202.07.51%E2%80%AFPM.png)
+![](../../static/img/Contacts_4_supprimer.png)
 
 ---
 
@@ -107,21 +108,22 @@ Contact **Inactif** : grisé
 Icônes possibles à côté d'une adresse :
 
 - Maison ➝ Adresse principale ( possiblité d'en désigner 1 seule)
+- Petite planète : permet de voir l'itinéraire
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/da1f4a2a-abe9-41f8-81e8-d1f309dd4a81/Screenshot%202025-01-23%20at%202.40.18%E2%80%AFPM.png)
+![](../../static/img/AdressesExp_1.png)
 
 #### Ajouter une adresse d'expédition
 
-- Cliquez sur **\+ Ajouter à** droite d'Adresses.
+- Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 - Remplir la fiche
 
   **Abonnement requis** pour cette [fonction](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27177?block=block-2e10d61b-8a21-40a6-bb11-4d5cbc05c3f7).
 
   ![](https://t9017115504.p.clickup-attachments.com/t9017115504/3406ff3e-57a9-4524-913c-01f5307abd21/image.png)
 
-  Adresse à compléter ⤵️ les champs en [bleus sont obligatoires](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61)
+  Adresse à compléter ⤵️ les champs marqués d'une [étoile](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) sont obligatoires.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/f1f81cbf-b949-4610-96ce-212a1587bf79/Screenshot%202025-01-23%20at%202.37.53%E2%80%AFPM.png)
+  ![](../../static/img/AdressesExp_2_creation.png)
 
 - **Enregistrer**
 
@@ -130,7 +132,7 @@ Icônes possibles à côté d'une adresse :
 - Consulter
 
   - cliquez sur le nom de l'entreprise d'une des adresses pour afficher sa fiche
-  - cliquez sur le X en haut à droite pour fermer la fenêtre
+  - cliquez sur Enregistrer pour fermer la fenêtre
 
 - Modifier
 
@@ -139,8 +141,6 @@ Icônes possibles à côté d'une adresse :
 - Supprimer
 
   dans la fiche, cliquez sur **Supprimer** Si le bouton est grisé, impossible de faire la suppression car l'adresse est utilisée dans le système.
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/e21bcb9f-350a-4bdc-b61a-98694b56f5d6/Screenshot%202025-01-23%20at%202.39.19%E2%80%AFPM.png)
 
 ---
 
@@ -151,14 +151,14 @@ Les [notes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?
 #### Ajouter une note
 
 1. Cliquez sur l'onglet Notes
-2. Cliquez sur le bouton **Ajouter +**
+2. Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 
 Sélectionnez une catégorie.
 
 Suivre les [instructions suivantes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-f629445e-37c8-4518-83ba-9e80b9267668).
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/4837966c-9b1b-4ead-8058-e23766afd9c5/Module%20Clients%20-%20Notes.png)
-
+![](../../static/img/Notes_1.png)
+![](../../static/img/Notes_2.png)
 Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-1f474c9b-58a9-4128-a20e-cd371aa4ac37).
 
 ---
@@ -166,7 +166,7 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 ### [Actions diverses](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
 
 #### En mode [consultation](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-fab2c14a-4d75-4bad-9f1c-ba1f4f2460a3)
-
+![](../../static/img/Clients_actions.png)
 - Modifier ce client
 
   Apporter vos modifications dans l'écran d'édition et **Enregistrer**
@@ -202,6 +202,7 @@ Dans l'onglet **Facture.**
 L'actualisation des totaux ne se fait pas automatiquement.
 
 Cliquer pour actualiser le total des ventes pour les 5 dernières années.
+![](../../static/img/Clients_facture_refresh.png)
 
 #### Créer une facture
 

@@ -97,7 +97,7 @@ Contact **Inactif** : grisé
 
   dans la fiche, cliquez sur **Supprimer**
 
-  Si le bouton est grisé, impossible de faire la suppression car le contact est utilisé dans le système.
+  À noter : Si le bouton est grisé, impossible de faire la suppression car le contact est utilisé dans le système.
 
 ![](../../static/img/Contacts_4_supprimer.png)
 

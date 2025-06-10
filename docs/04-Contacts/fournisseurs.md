@@ -10,7 +10,9 @@ Ouverture du module en [mode liste](https://app.clickup.com/9017115504/v/dc/8cqc
 
 Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-d334b8fe-d65e-4449-a1d9-a27c07e19a53) est à Actif.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/c9bd0af2-52eb-4a41-80e7-4c1cde6607b6/Screenshot%202024-06-12%20at%2010.56.48%E2%80%AFAM.png)
+![](../../static/img/Fournisseurs_1.png)
+
+![](../../static/img/Fournisseurs_2.png)
 
 **En mode** [**consultation**](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-fab2c14a-4d75-4bad-9f1c-ba1f4f2460a3)
 
@@ -24,22 +26,26 @@ La portion du **bas** présente l'historique pour :
 
 Le dernier onglet permet de consigner différentes [notes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-26977?block=block-bd056f4a-150f-48e4-bf86-389d17b24767).
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/a7903529-bdcb-49a1-b20c-ab5c5bdb5f29/image.png)
+![](../../static/img/Fournisseurs_4.png)
 
 ---
 
 ### Création d'un fournisseur
 
-1. Cliquez sur le bouton **Créer un fournisseur**
+1. Revenir dans la liste des clients et cliquer sur **Créer un client**
+![](../../static/img/Fournisseurs_3.png)
    - **Coordonnées**
-     Les champs en [bleus sont obligatoires](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) ![](https://t9017115504.p.clickup-attachments.com/t9017115504/5b348484-40ea-4a52-9034-29b960b425d3/image.png)
+     Les champs marqués d'une [étoile](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) sont obligatoires.
+     ![](../../static/img/urnisseurs_5.png)
+
      **Abonnement requis** pour cette [fonction](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27177?block=block-2e10d61b-8a21-40a6-bb11-4d5cbc05c3f7).
      ![](https://t9017115504.p.clickup-attachments.com/t9017115504/0329555e-60ec-4156-afb2-894b83378d77/image.png)
-     Adresse à compléter ici ⤵️ ![](https://t9017115504.p.clickup-attachments.com/t9017115504/849a01d9-15e8-4b5e-8394-7a79d072db0d/Screenshot%202025-02-06%20at%201.53.23%E2%80%AFPM.png)
-     - **Renseignement additionnels**
-       ![](https://t9017115504.p.clickup-attachments.com/t9017115504/18013b4e-b87d-4f3d-b2d7-bca127410a74/Screenshot%202025-01-23%20at%201.39.44%E2%80%AFPM.png)
-   - **Administration**
-     ![](https://t9017115504.p.clickup-attachments.com/t9017115504/b0193767-c60d-4ed1-8847-7f72d4ed082b/Screenshot%202025-01-23%20at%201.40.29%E2%80%AFPM.png)
+     Adresse à compléter ici ⤵️ 
+     ![](../../static/img/Fournisseurs_5.png)
+    - **Renseignement additionnels**
+    ![](../../static/img/Fournisseurs_6.png)
+    - **Administration**
+    ![](../../static/img/Fournisseurs_7.png)
 
 2\. **Enregistrer**
 
@@ -53,18 +59,19 @@ Icônes possibles à côté de chaque contact :
 
 Contact **Actif** : en couleur
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/0b66cf2d-e9ee-48f9-bb7f-dd1eb457479f/Screenshot%202024-07-25%20at%2011.09.09%E2%80%AFAM.png)
+![](../../static/img/Fournisseurs_8_contact.png)
 
 Contact **Inactif** : grisé
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/6c8c3010-cb66-4850-8970-12dac8364249/Screenshot%202025-01-23%20at%2012.04.51%E2%80%AFPM.png)
+![](../../static/img/Fournisseurs_8_contactinactif.png)
 
 #### Ajouter un contact
 
-- Cliquez sur **\+ Ajouter**
-- Remplir la fiche : les champs en bleus sont [obligatoires](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61)
+- Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
+- Remplir la fiche : les champs marqués d'une [étoile](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) sont obligatoires.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/2012c5ec-48c6-46ff-be0a-3cc4fdf97d6d/Screenshot%202025-01-23%20at%2012.00.47%E2%80%AFPM.png)
+  ![](../../static/img/Fournisseurs_9_contact.png)
+- Spécifiez si le contact est celui par défaut, s'il est responsable de la facturation et/ou de l'envoi courriel de la facturation.
 
 - **Enregistrer**
 
@@ -73,7 +80,7 @@ Contact **Inactif** : grisé
 - Consulter
 
   - cliquez sur le nom d'un des contacts pour afficher sa fiche
-  - cliquez sur le X en haut à droite pour fermer la fenêtre
+  - cliquez sur Enregistrer pour fermer la fenêtre
 
 - Modifier
 
@@ -83,9 +90,9 @@ Contact **Inactif** : grisé
 
   dans la fiche, cliquez sur **Supprimer**
 
-  Si le bouton est grisé, impossible de faire la suppression car le contact est utilisé dans le système.
+  À noter : Si le bouton est grisé, impossible de faire la suppression car le contact est utilisé dans le système.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/34190160-4aff-4fd9-862a-a758463558da/Screenshot%202025-01-23%20at%2011.59.26%E2%80%AFAM.png)
+  ![](../../static/img/Fournisseurs_10.png)
 
 ---
 
@@ -96,11 +103,12 @@ Les [notes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?
 #### Ajouter une note
 
 1. Cliquer sur l'onglet Notes
-2. Cliquer sur le bouton **Ajouter +**
+2. Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 
 Suivre les [instructions suivantes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-f629445e-37c8-4518-83ba-9e80b9267668).
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/b02579cf-2425-4d7a-92c8-aff816338af2/Screenshot%202024-06-12%20at%2011.20.13%E2%80%AFAM.png)
+![](../../static/img/Fournisseurs_11_notes_1.png)
+![](../../static/img/Fournisseurs_11_notes_2.png)
 
 Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-1f474c9b-58a9-4128-a20e-cd371aa4ac37).
 
@@ -109,6 +117,7 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 ### [Actions diverses](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
 
 #### En mode consultation
+![](../../static/img/Fournisseurs_12.png)
 
 - Modifier ce fournisseur
 
@@ -145,7 +154,7 @@ L'actualisation des totaux ne se fait pas automatiquement.
 
 Cliquez pour actualiser le total des achats pour les 5 années.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/6cf32124-c9bb-47c6-a130-c461b44b6e24/Screenshot%202024-06-13%20at%205.04.48%E2%80%AFPM.png)
+![](../../static/img/Fournisseurs_13.png)
 
 ---
 

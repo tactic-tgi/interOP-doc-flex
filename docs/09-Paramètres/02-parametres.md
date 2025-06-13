@@ -10,7 +10,9 @@
 
 Cette section du logiciel vous permet de le personnaliser selon votre entreprise.
 
-Tout changement ici , sera reproduit ailleurs dans le logiciel.
+Tout changement ici, sera reproduit ailleurs dans le logiciel.
+
+![](../../static/img/Parametres_Systeme_1.png) 
 
 ###   
 
@@ -26,7 +28,7 @@ Tout changement ici , sera reproduit ailleurs dans le logiciel.
 
 Inscrire vos coordonnées d'entreprise , ajouter vos logos et sélectionner le logo à utiliser dans les différents formulaires.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/6e7395d7-3ef5-4ec3-bd7b-dd5bf6f62749/Screenshot%202024-10-24%20at%205.32.00%E2%80%AFPM.png)
+![](../../static/img/Parametres_Systeme_2.png) 
 
   
   
@@ -35,14 +37,14 @@ Inscrire vos coordonnées d'entreprise , ajouter vos logos et sélectionner le l
 
 Gérez ici les différents textes/salutations qui apparaitront par défaut sur la proposition aux clients.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/31484e00-170d-4292-b282-6dc7c5a6704e/Screenshot%202024-10-24%20at%205.00.02%E2%80%AFPM.png)
+![](../../static/img/Parametres_Systeme_3.png) 
 
   
   
 
 Voici la liste des modèles disponibles et utilisés dans le logiciel lors de l'envoi d'un courriel.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/f87fdff0-bc3a-4f47-9912-541fda710693/Screenshot%202024-10-25%20at%209.26.57%E2%80%AFAM.png)
+![](../../static/img/Parametres_Systeme_3a.png) 
 
   
 
@@ -54,7 +56,7 @@ Utilisez les données variables admissibles pour les personnaliser.
 
 **Exemple** : Avis d'expédition
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/95b769f9-ba3d-4a65-bb84-7f7ccf2c6061/Screenshot%202024-10-25%20at%209.43.52%E2%80%AFAM.png)
+![](../../static/img/Parametres_Systeme_3b.png) 
 
   
   
@@ -70,7 +72,7 @@ Vous avez la possibilité, pour chaque message, de les faire afficher sur :
 *   le bon d'expédition
 *   la facture
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/c61b424a-e3c9-424d-ab4e-fc45bb3ca946/Screenshot%202024-10-24%20at%203.50.00%E2%80%AFPM.png)
+![](../../static/img/Parametres_Systeme_4.png) 
 
   
   
@@ -79,7 +81,7 @@ Vous avez la possibilité, pour chaque message, de les faire afficher sur :
 
 Ayez la latitude de modifier les termes qui apparaissent sur les différents formulaires envoyés aux clients.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/2a902cd7-d222-4b25-bed8-29ab47090041/Screenshot%202024-10-24%20at%205.52.13%E2%80%AFPM.png)
+![](../../static/img/Parametres_Systeme_5.png) 
 
   
   
@@ -89,7 +91,8 @@ Ayez la latitude de modifier les termes qui apparaissent sur les différents for
 *   Personnalisez la numérotation de vos différents formulaires.
 *   Définir les valeurs par défaut de votre système.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/fa32af62-bf4c-4292-8b51-6bfbad849efb/Screenshot%202024-11-13%20at%2012.58.44%E2%80%AFPM.png)
+![](../../static/img/Parametres_Systeme_6.png) 
+![](../../static/img/Parametres_Systeme_7.png) 
 
   
   
@@ -98,7 +101,7 @@ Ayez la latitude de modifier les termes qui apparaissent sur les différents for
 
 Ces listes peuvent être modifiées. Elles apparaissent comme menu déroulant dans différents modules.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/44a2e203-fc5b-4d6f-a56f-78c26cf749aa/Screenshot%202024-10-24%20at%203.56.58%E2%80%AFPM.png)
+![](../../static/img/Parametres_Systeme_8.png) 
 
 ####   
 
@@ -108,13 +111,19 @@ Ces listes peuvent être modifiées. Elles apparaissent comme menu déroulant da
 
 Pour rendre **actif** un Pays, une Province ou une Devise cliquez sur le bouton au bout de la ligne.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/c8879fae-a7c3-46d3-9714-69a8913d08f9/Screenshot%202025-04-22%20at%2011.23.58%E2%80%AFPM.png)
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/1d2064e4-347b-4576-a60d-65f314ad77dd/Screenshot%202025-04-22%20at%2011.23.45%E2%80%AFPM.png)
+![](../../static/img/Parametres_Systeme_9.png) 
 
   
+ 
+
+* * *
+
   
-  
+
+### **Comptabilité**
+
+Cette section permet la configuration selon votre logiciel de comptabilité.
+
 
 **Devise**
 
@@ -135,20 +144,10 @@ Paramètres modifiables
 *   Le supplément appliqué au taux d'achat
 *   Le suffixe de la devise
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/f54caea0-5633-4b9a-8f89-37fef48089ba/Screenshot%202025-04-22%20at%2011.20.33%E2%80%AFPM.png)
+![](../../static/img/Parametres_Systeme_10.png) 
 
   
   
-  
-
-* * *
-
-  
-
-### **Comptabilité**
-
-Cette section permet la configuration selon votre logiciel de comptabilité.
-
   
 
 #### **Taxes**
@@ -158,7 +157,7 @@ Dans cette section, déterminez les éléments suivants :
 *   Numéro TPS / TVQ
 *   Groupes de taxes
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/802e7470-55d5-4688-977c-f0acc0cc7280/Screenshot%202024-11-18%20at%2011.29.59%E2%80%AFAM.png)
+![](../../static/img/Parametres_Systeme_11.png) 
 
   
   
@@ -173,7 +172,7 @@ Dans cette section, déterminez les éléments suivants :
 *   Montant de la marge par défaut
 *   Devises - unité monétaire
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/3d6ccf63-c2c2-41e0-9dc1-57665290268f/Screenshot%202024-11-18%20at%2011.31.19%E2%80%AFAM.png)
+![](../../static/img/Parametres_Systeme_12.png) 
 
   
   
@@ -182,14 +181,15 @@ Dans cette section, déterminez les éléments suivants :
 
 Inscrivez la liste de vos comptes GL (Revenus et Dépenses)
 
+![](../../static/img/Parametres_Systeme_13.png) 
   
   
 
 #### **Produits standards facturation**
 
-Section à compléter si vous travaillez avec des produits dans votre système comptable
+Section à compléter si vous travaillez avec des produits dans votre système comptable.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/8bfcffe0-1709-4131-95e4-92f850c393d6/Screenshot%202024-11-18%20at%2011.32.10%E2%80%AFAM.png)
+![](../../static/img/Parametres_Systeme_14.png) 
 
   
   
@@ -200,28 +200,11 @@ Section à compléter si vous travaillez avec des produits dans votre système c
 
 ### **Applications connectées**
 
-  
+#### **Transporteurs**
 
-#### **Acomba**
+Gestion de vos différents transporteurs.
 
-Configuration propre à ce logiciel de comptabilité.
-
-*       *   Territoire pour les clients
-    *   Groupe de produits
-
-  
-
-#### **Quickbooks**
-
-Configuration propre à ce logiciel de comptabilité.
-
-*       *   Champs personnalisés
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/14e4042d-e5a8-446a-81c3-7af99b51de49/Screenshot%202024-11-18%20at%2011.23.47%E2%80%AFAM.png)
-
-####   
-
-  
+![](../../static/img/Parametres_Systeme_15.png) 
 
 #### **Printnode**
 
@@ -229,24 +212,19 @@ Système de gestion des imprimantes
 
 Private ([https://app.clickup.com/9017115504/docs/8cqcgvg-19917/8cqcgvg-13117](https://app.clickup.com/9017115504/docs/8cqcgvg-19917/8cqcgvg-13117))
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/2b0c559c-01fd-4b2e-9c2e-f565af596a23/Screenshot%202024-11-13%20at%2011.49.48%E2%80%AFAM.png)
+![](../../static/img/Parametres_Systeme_16.png) 
 
   
   
 
-#### **Hubspot**
+#### **Cédule Dayback (Abonnement requis)**
 
-Configuration pour l'utilisation de l'application CRM.
+Vous devez avoir activé le module pour avoir accès au calendrier Dayback. Voir section zzzzz****URL à placer****zzzzz
 
-**Abonnement requis.**
+Dans cette section, vous pourrez contrôler les statuts d'opérations qui se trouvent dans le calendrier.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/612ebd2c-e646-4f79-8c11-86c4b866d373/Screenshot%202024-11-14%20at%209.19.48%E2%80%AFAM.png)
+![](../../static/img/Parametres_Systeme_17_DB.png) 
 
   
   
 
-#### **Transporteurs**
-
-Gestion de vos différents transporteurs.
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/dea1271e-38cb-424a-9e96-a225e5cc6a34/Screenshot%202024-11-13%20at%2011.50.21%E2%80%AFAM.png)

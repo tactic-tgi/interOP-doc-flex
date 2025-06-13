@@ -17,7 +17,7 @@ Cliquez sur le nom de la section pour accéder aux modules.
 ![](../static/img/Accueil_3_deroulement.gif)
 
 
-## Boutons du haut : 
+## Boutons du haut 
 
 ![](../static/img/Accueil_1.png)
 

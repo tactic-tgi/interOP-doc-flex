@@ -35,7 +35,7 @@ Dans le coin supérieur droit, la flèche envoie le courriel et la poubelle le s
 
 **Exemple d'envoi d'une demande de Sous-traitance**
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/5eb3b4dd-7f12-4539-bea9-209578a903ee/image.png)
+![](../../static/img/Courriels_Nouveau_1.png)
 
 ---
 
@@ -49,14 +49,17 @@ Enveloppe **grisé** : aucun courriel envoyé
 
 Enveloppe **en couleur** : contient des courriels
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/9b5ef99d-3b5b-4406-9b53-6e9e216ae4af/Screenshot%202024-07-25%20at%2011.24.24%E2%80%AFAM.png)
+![](../../static/img/Courriels_Historique_1.png)
 
 #### Informations générales
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/d0b92fdb-e0f0-490b-a4af-af55d370c8d5/Screenshot%202024-07-25%20at%2011.53.55%E2%80%AFAM.png)
+![](../../static/img/Courriels_Historique_2.png)
 
 1. Cliquez pour un insérer un courriel supplémentaire sous forme de **eml**
    - **eml** = courrier électronique sauvegardé en texte brut.
+   - Cliquez sur le bouton pour choisir votre pièce jointe.
+   ![](../../static/img/Courriels_Historique_3.png)
+
 2. Consultez un courriel
    - Cliquez sur l'un des courriels afin d'afficher son contenu dans la partie de droite
 3. Actions
@@ -65,8 +68,5 @@ Enveloppe **en couleur** : contient des courriels
      Si le bouton est grisé, impossible de faire la suppression.
 4. Envoyez un nouveau courriel en lien avec la demande.
 
-![](../../static/img/logo.png)
-
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/1501e5a6-b321-474a-abd4-ecf29afa5d46/Screenshot%202024-07-25%20at%201.57.44%E2%80%AFPM.png)
+![](../../static/img/Courriels_Nouveau_2.png)
 

@@ -14,7 +14,7 @@ Ouverture du module en mode liste.
 
 Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-d334b8fe-d65e-4449-a1d9-a27c07e19a53) est à Actif.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/bfa265f3-4fca-45ec-9bf5-3c7b689d5a5e/Screenshot%202024-10-16%20at%204.58.48%E2%80%AFPM.png)
+![](../../static/img/Parametres_Utilisateurs_1.png)
 
   
 
@@ -24,7 +24,7 @@ La partie **gauche** présente les informations générales de l'usager.
 
 La partie **droite** présente les divers accès à interOP.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/c6d8d508-20bf-42fe-954a-cccc35ea8906/Screenshot%202024-10-16%20at%204.58.17%E2%80%AFPM.png)
+![](../../static/img/Parametres_Utilisateurs_2.png)
 
   
 
@@ -39,48 +39,43 @@ La partie **droite** présente les divers accès à interOP.
 1. Cliquez sur **Créer un utilisateur**
 2. Remplir les informations de base
     *   **Partie gauche**
-        Voici les informations facultatives :
-        *   Ajoutez sa photo.
-        *   Insérez sa signature ; qui sera utilisée dans les différents formulaires.
+        *   Entrer son nom, son courriel, sa fonction et son département.
         *   Cochez dans quel(s) menu(s) son nom doit se retrouver.
-            Si la case représentant est cochée ; ne pas oublier d'inscrire la commissions par défaut .
+            Si la case représentant est cochée ; ne pas oublier d'inscrire son code de représentant et la commissions par défaut.
+
+            ![](../../static/img/Parametres_Utilisateurs_Rep_1.gif)
+        *   *Facultatif* Ajoutez un numéro d'employé.
+        *   *Facultatif* Ajoutez sa photo.
+        *   *Facultatif* Insérez sa signature ; qui sera utilisée dans les différents formulaires.
     *   **Partie droite**
         *   Entrez un nom d'utilisateur qui servira à la connexion au système.
         *   Cliquez sur **Créer l'accès à interOP**. Un courriel s'ouvrira pour faire parvenir à l'utilisateur son mot de passe lors de sa première connexion.
 
 ### Accès & privilèges aux modules
 
-*       *       *   Pour attribuer les accès aux différents modules, 2 choix sont possibles :
-        ![](https://t9017115504.p.clickup-attachments.com/t9017115504/815c70c5-f3e1-4cdd-9da7-993e70b7395f/image.png)
-
-  
-
+*       Pour attribuer les accès aux différents modules, 2 choix sont possibles :
+ 
 1\. Copier les accès d'un autre utilisateur
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/936e67fb-2352-40f6-a10f-05b551e206cb/image.png)
+![](../../static/img/Parametres_Utilisateurs_acces_1a.png)
+![](../../static/img/Parametres_Utilisateurs_acces_1b.png)
 
   
-
 2\. Attribuez à l'usager, pour chacune des sections, les privilèges dont il aura besoin.
+![](../../static/img/Parametres_Utilisateurs_acces_2.gif)
 
-  
   
 
 3\. Autres informations
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/98a9ea57-3433-4c4f-b64d-44fe5b44a8d8/Screenshot%202024-10-25%20at%204.00.34%E2%80%AFPM.png)
-
-*       *   Par défaut l'impression automatique du dossier lors du lancement est coché.
-    *   Possibilité d'être en mode plein écran
-    *   Ajoutez une signature courriel lors d'envoie de courriel en texte ou en html.
-    *   Définir une imprimante par défaut en sélectionnant l'ordinateur et l'imprimante à utiliser.
-        Vous devez avoir l'application [PrintNode](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17537?block=block-21d59441-ab57-411c-b9cb-8488ecf14c33) pour la gestion des imprimantes.
+Ajoutez une signature courriel lors d'envoie de courriel en texte ou en html.
+![](../../static/img/Parametres_Utilisateurs_Signature.gif)
+  
 
   
 
 #### Modifier un utilisateur ou ces accès
 
-Simplement modifier les informations directement dans la fiche de l'utilisateur.
+À moins d'un changement de nom de compte Filemaker (où à ce moment, une désactivation du compte est requise), simplement modifier les informations directement dans la fiche de l'utilisateur.
 
 Aucun enregistrement n'est nécessaire.
 
@@ -88,7 +83,7 @@ Aucun enregistrement n'est nécessaire.
 
 #### Suppression
 
-Utilisez le bouton **Supprimer l'accès à interOP** dans la fiche du client pour lui enlever l'accès.
+Utilisez le bouton rouge **Supprimer l'accès à interOP** dans la fiche du client pour lui enlever l'accès.
 
   
 
@@ -102,17 +97,10 @@ Utilisez le bouton **Supprimer l'accès à interOP** dans la fiche du client pou
 
   
 
-#### En mode liste
-
-*   Mise à jour utilisateurs Hubspot
-    
-    Si grisé , c'est que vous n'avez pas l'application dans votre contrat.
-    
-
-  
+ 
 
 #### En mode consultation
-
+![](../../static/img/Parametres_Utilisateurs_Consultation.png)
 *   Changer le mot de passe
 *   Désactiver la fiche
 
@@ -122,6 +110,6 @@ Cette partie est en lien avec la [Saisie de temps](https://app.clickup.com/90171
 
 Permet de définir des tâches, équipements et opérations liés à l'employé afin qu'il ne voit pas des informations qu'il ne devrait pas ou qui sont non pertinents pour lui.
 
-**Exemple** : Un pressier pourrait voir seulement les tâches d'impression des dossiers et les tâches connexes comme : la calibration de machine, l'entretien, l'inventaire , etc.
+**Exemple** : Un pressier pourrait être attribué aux équipements numériques seulement, puis voir seulement les tâches d'impression des dossiers et les tâches connexes comme : la calibration de machine, l'entretien, l'inventaire , etc.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/ca643ef8-3f7b-4ebe-9f1f-f0a62228d6b5/image.png)
+![](../../static/img/Parametres_Utilisateurs_SaisieTemps.gif)

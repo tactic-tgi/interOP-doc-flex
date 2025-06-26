@@ -7,6 +7,7 @@
 ## Survol
 
 Avec ce module, gérez facilement l'accès de tous vos employés.
+![](../../static/img/Parametres_Utilisateurs_menu.png) 
 
   
 

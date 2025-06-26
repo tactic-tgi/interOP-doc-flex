@@ -32,11 +32,11 @@ Le dernier onglet permet de consigner différentes [notes](https://app.clickup.c
 
 ### Création d'un fournisseur
 
-1. Revenir dans la liste des clients et cliquer sur **Créer un client**
+1. Revenir dans la liste des clients et cliquer sur **Créer un fournisseur**
 ![](../../static/img/Fournisseurs_3.png)
    - **Coordonnées**
      Les champs marqués d'une [étoile](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) sont obligatoires.
-     ![](../../static/img/urnisseurs_5.png)
+    
 
      **Abonnement requis** pour cette [fonction](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27177?block=block-2e10d61b-8a21-40a6-bb11-4d5cbc05c3f7).
      ![](https://t9017115504.p.clickup-attachments.com/t9017115504/0329555e-60ec-4156-afb2-894b83378d77/image.png)

@@ -30,6 +30,8 @@ En mode Liste, on retrouve l'étoile bleue à l'extrémité de chaque ligne.
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/5ca7ea3d-1353-4142-8cd3-ec0477d25146/image.png)
 
+À noter que tous vos favoris se retrouveront dans le module [Mes Préférences](../09-Paramètres/01a-preferences.md), dans la Gestion des enregistrements, où vous pourrez facilement y retourner en cliquant sur celui-ci. 
+
 ### Fiche annulée
 
 Son statut changera pour Annulée

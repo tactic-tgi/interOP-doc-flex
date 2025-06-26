@@ -4,19 +4,6 @@
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/1f71c5cd-4b29-4039-99bf-6c873c4c6916/Page%20Accueil%20-%20Menu.png)
 
-## Menu
-
-Le menu latéral, au coin supérieur gauche de l'écran, est accessible à travers le logiciel et permet la navigation entre les sections des différents modules.
-
-Chacun des modules contient des sections spécifiques.
-
-Chaque section est identifiée avec un icône de référence à sa gauche.
-
-Cliquez sur le nom de la section pour accéder aux modules.
-
-![](../static/img/Accueil_3_deroulement.gif)
-
-
 ## Boutons du haut 
 
 ![](../static/img/Accueil_1.png)

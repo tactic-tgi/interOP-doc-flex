@@ -43,13 +43,8 @@ Un item avec une quantité produite ( colonne **Produits**) ne peut pas être su
 #### Épreuves
 
 ![](../../static/img/Parametres_Standards_4.png)
+
   
-#### Procédés d'impression
-
-Définissez les procédés d'impression que vous avez dans votre entreprise, ceci permettra d'activer ou non certaines fonctionnalités à la soumission. Elle est donc très importante. 
-
-![](../../static/img/Parametres_Standards_5.png)  
-
 #### Divers
 
 Sur la **Proposition client,** vous avez la possibilité de :
@@ -87,7 +82,7 @@ Un **frais d'ouverture de dossier** peut être ajouté à votre soumission.
 
 Noter que si un frais d'ouverture a été ajouté dans la [fiche du client](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17277?block=block-e03bd967-dc48-4109-9e2e-dbb764001323) , ce dernier aura préséance sur celui-ci.
 
-![](../../static/img/Parametres_Standards_6.png)  
+![](../../static/img/Parametres_Standards_5.png)  
   
 
   

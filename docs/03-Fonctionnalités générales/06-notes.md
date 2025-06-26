@@ -1,3 +1,6 @@
+# Notes
+
+---
 
 
 ### Notes provenant de la fiche client ou fournisseur
@@ -10,7 +13,7 @@ Vous avez la possibilité d'en créer de nouvelles au besoin.
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/47f93230-ccc4-49c8-aac8-bd92dc0b4da9/Screenshot%202024-07-17%20at%201.39.21%E2%80%AFPM.png)
 
-### Notes
+### Notes (actions)
 
 Lors de la création d'une nouvelle notes :
 

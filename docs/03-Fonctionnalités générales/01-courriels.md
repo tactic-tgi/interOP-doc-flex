@@ -2,7 +2,7 @@
 
 ---
 
-## Survol
+### Survol
 
 Tous les envois de courriel passe par ce module-ci.
 

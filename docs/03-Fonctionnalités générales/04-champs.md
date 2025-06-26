@@ -1,3 +1,7 @@
+# Champs
+
+---
+
 ### **Champs éditables**
 
 Tous les champs qui ont un encadré et un fond bleu lorsqu'ils sont survolés avec la souris, sont éditables.
@@ -8,7 +12,7 @@ Tous les champs qui ont un encadré et un fond bleu lorsqu'ils sont survolés av
 
 ### **Champs obligatoires**
 
-Tous les champs, avec un fond bleu, doivent être obligatoirement remplis.
+Tous les champs avec une petite étoile rouge doivent être obligatoirement remplis.
 
 Vous ne pourrez enregistrer sans les avoir complétés
 

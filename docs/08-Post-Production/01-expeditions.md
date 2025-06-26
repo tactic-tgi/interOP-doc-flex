@@ -12,9 +12,9 @@ Créez facilement des bons d’expédition et des étiquettes selon la mise en f
 
   
 
-Ouverture du module en [mode liste](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-56d3904d-8421-44c4-8d23-f01b57d0f037).
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md).
 
-Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-d334b8fe-d65e-4449-a1d9-a27c07e19a53) est à statut : En préparation
+Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à statut : En préparation
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/d9388c89-e907-45b2-a2d4-a5fbeeb9ce36/Screenshot%202024-10-24%20at%202.56.28%E2%80%AFPM.png)
 
@@ -180,7 +180,7 @@ Provient de la [fiche contact](https://app.clickup.com/9017115504/v/dc/8cqcgvg-2
 
   
 
-#### En mode [consultation](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-fab2c14a-4d75-4bad-9f1c-ba1f4f2460a3)
+#### En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
 
 *   Visualiser le bon
 *   Supprimer

@@ -6,15 +6,15 @@
 
 Ce module permet de saisir toutes les informations liées à vos sous-traitants et autres fournisseurs.
 
-Ouverture du module en [mode liste](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-56d3904d-8421-44c4-8d23-f01b57d0f037).
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md).
 
-Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-d334b8fe-d65e-4449-a1d9-a27c07e19a53) est à Actif.
+Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à Actif.
 
 ![](../../static/img/Fournisseurs_1.png)
 
 ![](../../static/img/Fournisseurs_2.png)
 
-**En mode** [**consultation**](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-fab2c14a-4d75-4bad-9f1c-ba1f4f2460a3)
+**En mode** [**consultation**](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
 
 La portion du **haut** présente les coordonnées de base de l'entreprise.
 
@@ -24,7 +24,7 @@ La portion du **bas** présente l'historique pour :
 
 - les bons de commande d’achat et l'analyse des achats totaux pour les 5 dernières années.
 
-Le dernier onglet permet de consigner différentes [notes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-26977?block=block-bd056f4a-150f-48e4-bf86-389d17b24767).
+Le dernier onglet permet de consigner différentes [notes](../03-Fonctionnalités%20générales/06-notes.md).
 
 ![](../../static/img/Fournisseurs_4.png)
 
@@ -35,7 +35,7 @@ Le dernier onglet permet de consigner différentes [notes](https://app.clickup.c
 1. Revenir dans la liste des clients et cliquer sur **Créer un fournisseur**
 ![](../../static/img/Fournisseurs_3.png)
    - **Coordonnées**
-     Les champs marqués d'une [étoile](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) sont obligatoires.
+     Les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
     
 
      **Abonnement requis** pour cette [fonction](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27177?block=block-2e10d61b-8a21-40a6-bb11-4d5cbc05c3f7).
@@ -68,7 +68,7 @@ Contact **Inactif** : grisé
 #### Ajouter un contact
 
 - Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
-- Remplir la fiche : les champs marqués d'une [étoile](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) sont obligatoires.
+- Remplir la fiche : les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
 
   ![](../../static/img/Fournisseurs_9_contact.png)
 - Spécifiez si le contact est celui par défaut, s'il est responsable de la facturation et/ou de l'envoi courriel de la facturation.
@@ -98,7 +98,7 @@ Contact **Inactif** : grisé
 
 ### Notes
 
-Les [notes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-420eb67f-36d7-4f80-9b26-17ac642f4cd5) ajoutées ici seront visible dans le haut du module de commande où le fournisseur est utilisé.
+Les [notes](../03-Fonctionnalités%20générales/06-notes.md) ajoutées ici seront visible dans le haut du module de commande où le fournisseur est utilisé.
 
 #### Ajouter une note
 

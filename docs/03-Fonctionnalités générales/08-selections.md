@@ -1,3 +1,8 @@
+# Sélections
+
+---
+
+
 ### Sélection/Dé-sélection multiples
 
 En mode liste, lorsqu'une sélection est possible, cette fonction permet de sélectionner plusieurs éléments de manière continue.

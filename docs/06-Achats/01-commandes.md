@@ -8,9 +8,9 @@ Un outil essentiel pour créer des bons d’achat de sous-traitance ou de matiè
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/82179e49-adf4-4130-be15-1053ff3d9e9b/image.png)
 
-Ouverture du module en [mode liste](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-56d3904d-8421-44c4-8d23-f01b57d0f037).
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md).
 
-Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-d334b8fe-d65e-4449-a1d9-a27c07e19a53) est à statut : En préparation + Envoyée + Reçue partiellement.
+Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à statut : En préparation + Envoyée + Reçue partiellement.
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/5315dba1-31a4-4c26-b363-0f3370d9b662/Screenshot%202024-09-18%20at%2011.51.33%E2%80%AFAM.png)
 
@@ -70,7 +70,7 @@ Affiche les réquisitions liées à la commande, lorsque celles-ci ont été uti
 
 [](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
 
-#### En mode consultation
+#### En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
 
 - Modifier le numéro de la commande
 

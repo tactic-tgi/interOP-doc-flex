@@ -1,3 +1,8 @@
+# Menus
+
+---
+
+
 ## Menu latéral
 
 Le menu latéral, au coin supérieur gauche de l'écran, est accessible à travers le logiciel et permet la navigation entre les sections des différents modules.
@@ -8,19 +13,18 @@ Chaque section est identifiée avec un icône de référence à sa gauche.
 
 Cliquez sur le nom de la section pour accéder aux modules.
 
-![](../static/img/Accueil_3_deroulement.gif)
+![](../../static/img/Accueil_3_deroulement.gif)
 
 
 
 
 
-### **Menu déroulant - e**ffacer le contenu
+## Menu déroulant - effacer le contenu
 
-Voici les deux méthodes pour effacer le contenu d'une rubrique lorsque celle-ci est complétée avec un menu déroulant.
+À travers le logiciel, vous aurez des menus déroulants vous permettant d'avoir une constance dans l'inscription des données. Ils sont habituellement populés par des données se trouvant ailleurs dans InterOP, dans les paramètres ou bien ont été configurés avec des données fixes.
 
-- Méthode 1 : Clic droit « Effacer »
-- Méthode 2 : Sélectionner + Backspace
+Lorsque vous désirez effacer le contenu d'un menu déroulant, appuyez sur le petit X se trouvant à la droite du menu.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/48e3f4e6-e346-4128-8b7d-1bdd8a8b32a1/image.png)
+![](../../static/img/Fonctionnalites_Menus_1.png)
 
 ###

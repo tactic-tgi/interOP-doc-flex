@@ -12,15 +12,15 @@ Le module Produits permet de consigner toute l’information pertinente pour cha
 
   
 
-Ouverture du module en [mode liste.](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-56d3904d-8421-44c4-8d23-f01b57d0f037)
+Ouverture du module en [mode liste.](../03-Fonctionnalités%20générales/02-navigation.md)
 
-Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-d334b8fe-d65e-4449-a1d9-a27c07e19a53) est à Actif.
+Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à Actif.
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/ba97684d-9511-41de-84ae-c304b79385c2/Screenshot%202024-09-18%20at%2012.31.22%E2%80%AFPM.png)
 
   
 
-Fiche en mode [**consultation**](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-fab2c14a-4d75-4bad-9f1c-ba1f4f2460a3).
+Fiche en mode [**consultation**](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation).
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/0506704d-59c7-482d-84a4-5ea50cae73eb/Screenshot%202024-12-02%20at%207.31.06%E2%80%AFPM.png)
 

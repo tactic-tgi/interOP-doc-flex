@@ -1,37 +1,47 @@
-## **Navigation**
+# Navigation
 
-### **Mode liste**
+---
+
+## Mode liste
 
 La plupart des modules, se présente sous forme de liste à l'ouverture.
+Une barre verticale vous permet de dérouler par le bas. 
 
-Au bas, on retrouve le nombre de pages totales ainsi que les flèches de navigation.
+![](../../static/img/Fonctionnalites_Navigation_02.png)
 
-Cliquer sur l'entête d'une colonne pour trier la liste en fonction de cette colonne.
+Pour trier les informations de la liste, cliquez sur l'entête d'une colonne pour trier la liste en fonction de celle-ci.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/9eb4d4fa-e756-42e9-82b2-7f64324515ae/Screenshot%202025-01-22%20at%2011.48.51%E2%80%AFAM.png)
-
-#### **1\. Barre de recherche**
+## Barre de recherche
 
 Inscrire l'information à rechercher.
+Cliquez sur le X pour effacer la recherche.
 
-Cliquer sur le X pour effacer la recherche.
+![](../../static/img/Fonctionnalites_Navigation_04.png)
 
-#### **2.** **Filtres et tris**
+## Filtres et tris
 
 Propre à chaque module, il vous est possible d'appliquer différents filtres et/ou tris afin d'avoir une sélection plus précise des fiches à afficher.
 
 Cliquez sur le bouton Appliquer au bas pour confirmer votre sélection.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/8b0cf01d-e34d-4ad0-98da-703821d20f65/Screenshot%202025-01-22%20at%2011.51.45%E2%80%AFAM.png)
+![](../../static/img/Fonctionnalites_Navigation_03.png)
 
-#### **3\. Consultation / Édition**
+
+
+## Consultation / Édition
 
 Un clique sur une ligne va vous diriger vers la fiche détaillée de celle-ci, en mode consultation ou édition selon le module.
 
-### **Mode consultation**
+## Mode consultation
 
 Vous permet de consulter la fiche détaillée d'un des enregistrements.
 
-C'est dans cet interface qu'il vous sera possible d'aller modifier et/ou supprimer des éléments.
+Pour modifier des informations, vous devrez généralement passer par le menu Actions, puis modifier, pour ouvrir une fenêtre d'édition. 
+
+## Retour en arrière
+
+Lorsque vous êtes en mode consultation, une icône en flèche vous permet de revenir à la liste. 
+
+![](../../static/img/Fonctionnalites_Navigation_01.png)
 
 ---

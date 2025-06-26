@@ -6,7 +6,7 @@
 
 Avec ce module, acheminez rapidement vos demandes de prix de sous-traitance à un ou plusieurs fournisseurs potentiels.
 
-Ouverture du module en [mode liste](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-56d3904d-8421-44c4-8d23-f01b57d0f037).
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md).
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/b774987b-4d30-4904-bc79-91e7f0b99cf6/Screenshot%202024-09-18%20at%2011.27.46%E2%80%AFAM.png)
 
@@ -76,7 +76,7 @@ Enveloppe **en couleu**r : courriel envoyé
 
 [](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
 
-#### **En mode consultation**
+#### **En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)**
 
 - Dupliquer
 - Supprimer

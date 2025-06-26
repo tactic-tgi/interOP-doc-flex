@@ -8,15 +8,15 @@ Parfait pour l’estimation facile et complète du coût d’un travail (main-d�
 
 Les paramètres de calcul sont entièrement personnalisables afin de refléter vos méthodes de calcul existantes.
 
-Ouverture du module en [mode liste](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-56d3904d-8421-44c4-8d23-f01b57d0f037)
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md)
 
-Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-d334b8fe-d65e-4449-a1d9-a27c07e19a53) est à statut : En calcul + Envoyée + Imprimée.
+Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à statut : En calcul + Envoyée + Imprimée.
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/f7bcde18-7652-4fcf-97a2-d7d3afaaf216/Screenshot%202024-11-27%20at%208.15.38%E2%80%AFAM.png)
 
 #### Statut
 
-En mode consultation, le statut d'une soumission est indiqué dans le coin supérieur droit.
+En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation), le statut d'une soumission est indiqué dans le coin supérieur droit.
 
 - En calcul
 

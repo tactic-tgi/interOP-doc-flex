@@ -1,5 +1,7 @@
 
-## **Divers**
+# Divers
+
+---
 
 ### **Alertes**
 

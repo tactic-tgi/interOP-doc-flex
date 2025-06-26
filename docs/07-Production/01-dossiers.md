@@ -12,9 +12,9 @@ En plus, un bon de travail peut être imprimé lors du lancement du contrat en p
 
   
 
-Ouverture du module en [mode liste.](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-56d3904d-8421-44c4-8d23-f01b57d0f037)
+Ouverture du module en [mode liste.](../03-Fonctionnalités%20générales/02-navigation.md)
 
-Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-d334b8fe-d65e-4449-a1d9-a27c07e19a53) est à statut : Attente lancement + En production + Expédié + Complété.
+Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à statut : Attente lancement + En production + Expédié + Complété.
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/2ed1a3b6-2be5-4783-9197-ef9bbc957c38/Screenshot%202024-11-13%20at%201.10.05%E2%80%AFPM.png)
 
@@ -28,7 +28,7 @@ Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8
     
 *   Annulé
     
-    un dossier **annulé** apparaitra grisé dans la liste et avec un fond rouge en mode consultation.
+    un dossier **annulé** apparaitra grisé dans la liste et avec un fond rouge en mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation).
     
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/696f3abf-6072-454f-861f-4d8f03e34a28/Screenshot%202025-04-22%20at%2011.46.08%E2%80%AFPM.png)
@@ -610,7 +610,7 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 
   
 
-#### En mode consultation
+#### En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
 
 *   Lancer en production
 *   Visualiser bon production

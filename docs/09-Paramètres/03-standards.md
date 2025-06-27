@@ -3,9 +3,6 @@
   
 
 * * *
-
-  
-
 ## Survol
 
 Cette section a été élaborée pour consigner tous les standards requis afin de produire une soumission. Vous y consignerez vos différentes majorations, vos taux horaires (coûtant/vendant), la liste de vos équipements d'impression, les opérations diverses internes et externes, etc.
@@ -14,14 +11,9 @@ Cette section a été élaborée pour consigner tous les standards requis afin d
   
 
 * * *
+## Général & Prépresse
 
-###   
-
-### Général & Prépresse
-
-####   
-
-#### Items
+### Items
 
 Définissez tous les nom d'items qui pourront être utilisé dans la soumission.
 
@@ -31,7 +23,7 @@ Un item avec une quantité produite ( colonne **Produits**) ne peut pas être su
 
   
 
-#### Prépresse
+### Prépresse
 
   
 
@@ -40,12 +32,12 @@ Un item avec une quantité produite ( colonne **Produits**) ne peut pas être su
   
   
 
-#### Épreuves
+### Épreuves
 
 ![](../../static/img/Parametres_Standards_4.png)
 
   
-#### Divers
+### Divers
 
 Sur la **Proposition client,** vous avez la possibilité de :
 
@@ -80,7 +72,7 @@ En lien avec le **Sommaire** de votre soumission :
  
 Un **frais d'ouverture de dossier** peut être ajouté à votre soumission.
 
-Noter que si un frais d'ouverture a été ajouté dans la [fiche du client](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17277?block=block-e03bd967-dc48-4109-9e2e-dbb764001323) , ce dernier aura préséance sur celui-ci.
+Noter que si un frais d'ouverture a été ajouté dans la [fiche du client](../04-Contacts/clients.md) , ce dernier aura préséance sur celui-ci.
 
 ![](../../static/img/Parametres_Standards_5.png)  
   
@@ -89,10 +81,9 @@ Noter que si un frais d'ouverture a été ajouté dans la [fiche du client](http
   
 
 * * *
+## Impression
 
-### Impression
-
-#### Équipements & Opérations simultanées
+### Équipements & Opérations simultanées
 
 ![](../../static/img/Parametres_Standards_7.png)  
 ![](../../static/img/Parametres_Standards_8.png) 
@@ -100,7 +91,7 @@ Noter que si un frais d'ouverture a été ajouté dans la [fiche du client](http
   
   
 
-#### Encres
+### Encres
 
   ![](../../static/img/Parametres_Standards_9.png) 
 
@@ -110,16 +101,16 @@ Noter que si un frais d'ouverture a été ajouté dans la [fiche du client](http
 
 * * *
 
-### Matières premières
+## Matières premières
 
-#### Majoration, valeurs par défaut et réquisitions
+### Majoration, valeurs par défaut et réquisitions
 
 ![](../../static/img/Parametres_Standards_10.png)  
 
   
   
 
-#### Catégories
+### Catégories
 
 Définissez vos catégories de produits ( matières premières ou autres), les couleurs et finis possible.
 
@@ -129,30 +120,30 @@ Définissez vos catégories de produits ( matières premières ou autres), les c
 
   
   
-#### Couleurs et finis
+### Couleurs et finis
 
 ![](../../static/img/Parametres_Standards_12.png) 
 
   
 
-#### Réquisitions
+### Réquisitions
 
 ![](../../static/img/Parametres_Standards_13.png) 
 
   
 
-#### Opérations
+### Opérations
 
-#### Paramètres généraux
+### Paramètres généraux
 
 ![](../../static/img/Parametres_Standards_14.png) 
 
 
-#### Familles
+### Familles
 
 ![](../../static/img/Parametres_Standards_15.png) 
 
-#### Tâches
+### Tâches
 
 ![](../../static/img/Parametres_Standards_16.png) 
 
@@ -161,13 +152,13 @@ Définissez vos catégories de produits ( matières premières ou autres), les c
 
 * * *
 
-### Emballage & Transport
+## Emballage & Transport
 
   
 
-#### Emballage
+### Emballage
 ![](../../static/img/Parametres_Standards_17.png) 
 
-#### Transport
+### Transport
 
 ![](../../static/img/Parametres_Standards_18.png) 

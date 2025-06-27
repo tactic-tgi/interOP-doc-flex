@@ -6,13 +6,13 @@
 
 Tous les envois de courriel passe par ce module-ci.
 
-Les [modèles de courriels](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17537?block=block-0c182199-7d5a-4d2d-9e9b-23375e477919) déjà remplit dans vos paramètres système vous ferons sauver du temps.
+Les [modèles de courriels](../09-Paramètres/02-parametres.md#textes--modèles-de-courriels) déjà remplit dans vos paramètres système vous ferons sauver du temps.
 
 De plus, comme l'information est centralisé, il vous sera facile de retrouver vos communications et d'y visionner l'historique.
 
 ---
 
-### Envoie de formulaire par courriel
+### Envoi de formulaire par courriel
 
 Par défaut, les champs suivants seront remplis mais demeurent éditables :
 

@@ -8,7 +8,7 @@ Ce module a été élaboré pour consigner toutes les informations relatives aux
 
 De plus, l’utilisation de nos passerelles de connexion à votre logiciel comptable et/ou logiciel CRM permettent également de créer ou mettre ces informations à jour à un seul endroit dans interOP, puis déclencher la mise à jour automatiquement dans les logiciels connectés.
 
-Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md).
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste).
 
 Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à Actif.
 
@@ -35,15 +35,14 @@ Le dernier onglet permet de consigner différentes [notes](../03-Fonctionnalité
 
 ---
 
-### Création d'un client
+## Création d'un client
 
 1. Revenir dans la liste des clients et cliquer sur **Créer un client**
 ![](../../static/img/Clients_4_création.png)
    - **Coordonnées**
      Les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
      ![](../../static/img/Clients_5.png)
-     **Abonnement requis** pour cette [fonction](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27177?block=block-2e10d61b-8a21-40a6-bb11-4d5cbc05c3f7).
-     ![](https://t9017115504.p.clickup-attachments.com/t9017115504/fb8511e4-23ea-4b14-8886-c7fd93d2de46/Screenshot%202025-01-23%20at%2011.40.14%E2%80%AFAM.png)
+     **Abonnement requis** pour cette [fonction](../03-Fonctionnalités%20générales/07-rechercheadresse.md)
      Adresse à compléter ici ⤵️ ![](../../static/img/Clients_6_google.png)
      - **Renseignement additionnels**
        Identification expéditeur sur le bon d'expédition et les étiquettes.
@@ -58,13 +57,13 @@ Le dernier onglet permet de consigner différentes [notes](../03-Fonctionnalité
 
 ---
 
-### **Contact**
+## **Contact**
 
 Icônes possibles à côté de chaque contact :
 
 - Étoile ➝ Contact par défaut
 - Calculatrice ➝ Responsable de la facturation ( possibilité d'un seul par client)
-- Rond vert ➝ Identifie que le contact est synchronisé avec [Hubspot](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27077?block=block-50ac6ca8-f137-49bb-a9c9-b295a6682714)
+- Rond vert ➝ Identifie que le contact est synchronisé avec Hubspot
 
 Contact **Actif** : en couleur
 
@@ -72,7 +71,7 @@ Contact **Inactif** : grisé
 
 ![](../../static/img/Contacts_1.png)
 
-#### Ajouter un contact
+### Ajouter un contact
 
 - Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 - Remplir la fiche : les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
@@ -82,7 +81,7 @@ Contact **Inactif** : grisé
 
 - **Enregistrer**
 
-#### Consulter, modifier ou supprimer un contact
+### Consulter, modifier ou supprimer un contact
 
 - Consulter
 
@@ -103,7 +102,7 @@ Contact **Inactif** : grisé
 
 ---
 
-### Adresses
+## Adresses
 
 Icônes possibles à côté d'une adresse :
 
@@ -112,14 +111,14 @@ Icônes possibles à côté d'une adresse :
 
 ![](../../static/img/AdressesExp_1.png)
 
-#### Ajouter une adresse d'expédition
+### Ajouter une adresse d'expédition
 
 - Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 - Remplir la fiche
 
-  **Abonnement requis** pour cette [fonction](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27177?block=block-2e10d61b-8a21-40a6-bb11-4d5cbc05c3f7).
+  **Abonnement requis** pour cette [fonction](../03-Fonctionnalités%20générales/07-rechercheadresse.md).
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/3406ff3e-57a9-4524-913c-01f5307abd21/image.png)
+  ![](../../static/img/Googlemaps.png)
 
   Adresse à compléter ⤵️ les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
 
@@ -127,7 +126,7 @@ Icônes possibles à côté d'une adresse :
 
 - **Enregistrer**
 
-#### Consulter, modifier ou supprimer une adresse
+### Consulter, modifier ou supprimer une adresse
 
 - Consulter
 
@@ -144,31 +143,31 @@ Icônes possibles à côté d'une adresse :
 
 ---
 
-### Notes
+## Notes
 
 Les [notes](../03-Fonctionnalités%20générales/06-notes.md) ajoutées ici seront visible dans le haut de tous les modules où le client est utilisé.
 
-#### Ajouter une note
+### Ajouter une note
 
 1. Cliquez sur l'onglet Notes
 2. Cliquez sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 
 Sélectionnez une catégorie.
 
-Suivre les [instructions suivantes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-f629445e-37c8-4518-83ba-9e80b9267668).
+Suivre les [instructions suivantes](../03-Fonctionnalités%20générales/06-notes.md#notes-actions).
 
 ![](../../static/img/Notes_1.png)
 
 ![](../../static/img/Notes_2.png)
 
 
-Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-1f474c9b-58a9-4128-a20e-cd371aa4ac37).
+Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](../03-Fonctionnalités%20générales/06-notes.md#notes-actions).
 
 ---
 
-### [Actions diverses](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
+### Actions diverses
 
-#### En mode [consultation](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-fab2c14a-4d75-4bad-9f1c-ba1f4f2460a3)
+#### En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
 ![](../../static/img/Clients_actions.png)
 - Modifier ce client
 
@@ -196,20 +195,20 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 
 ---
 
-### Autres fonctionnalités
+## Autres fonctionnalités
 
 Dans l'onglet **Facture.**
 
-#### Mettre à jour le total des ventes
+### Mettre à jour le total des ventes
 
 L'actualisation des totaux ne se fait pas automatiquement.
 
 Cliquez pour actualiser le total des ventes pour les 5 dernières années.
 ![](../../static/img/Clients_facture_refresh.png)
 
-#### Créer une facture
+### Créer une facture
 
-Suivre les étapes de la [création](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17497?block=block-70a68f39-4342-45db-a2a7-0e1511584dc8) de nouvelle facture.
+Suivre les étapes de la [création](../08-Post-Production/02-factures.md#création-dune-facture) de nouvelle facture.
 
 ---
 

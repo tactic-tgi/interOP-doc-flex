@@ -6,7 +6,7 @@
 
 Ce module permet de saisir toutes les informations liées à vos sous-traitants et autres fournisseurs.
 
-Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md).
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste).
 
 Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à Actif.
 
@@ -18,7 +18,7 @@ Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#f
 
 La portion du **haut** présente les coordonnées de base de l'entreprise.
 
-À droite, se retrouvent les personnes [contacts](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-26977?block=block-ac08fd6a-7041-46da-ad1c-076e0f8de9bb) associées à ce fournisseur.
+À droite, se retrouvent les personnes [contacts](../04-Contacts/clients.md#contact) associées à ce fournisseur.
 
 La portion du **bas** présente l'historique pour :
 
@@ -30,7 +30,7 @@ Le dernier onglet permet de consigner différentes [notes](../03-Fonctionnalité
 
 ---
 
-### Création d'un fournisseur
+## Création d'un fournisseur
 
 1. Revenir dans la liste des clients et cliquer sur **Créer un fournisseur**
 ![](../../static/img/Fournisseurs_3.png)
@@ -38,8 +38,8 @@ Le dernier onglet permet de consigner différentes [notes](../03-Fonctionnalité
      Les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
     
 
-     **Abonnement requis** pour cette [fonction](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27177?block=block-2e10d61b-8a21-40a6-bb11-4d5cbc05c3f7).
-     ![](https://t9017115504.p.clickup-attachments.com/t9017115504/0329555e-60ec-4156-afb2-894b83378d77/image.png)
+     **Abonnement requis** pour cette [fonction](../03-Fonctionnalités%20générales/07-rechercheadresse.md).
+     ![](../../static/img/Googlemaps.png)
      Adresse à compléter ici ⤵️ 
      ![](../../static/img/Fournisseurs_5.png)
     - **Renseignement additionnels**
@@ -51,7 +51,7 @@ Le dernier onglet permet de consigner différentes [notes](../03-Fonctionnalité
 
 ---
 
-### **Contact**
+## Contact
 
 Icônes possibles à côté de chaque contact :
 
@@ -65,7 +65,7 @@ Contact **Inactif** : grisé
 
 ![](../../static/img/Fournisseurs_8_contactinactif.png)
 
-#### Ajouter un contact
+### Ajouter un contact
 
 - Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 - Remplir la fiche : les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
@@ -75,7 +75,7 @@ Contact **Inactif** : grisé
 
 - **Enregistrer**
 
-#### Consulter, modifier ou supprimer un contact
+### Consulter, modifier ou supprimer un contact
 
 - Consulter
 
@@ -96,25 +96,25 @@ Contact **Inactif** : grisé
 
 ---
 
-### Notes
+## Notes
 
 Les [notes](../03-Fonctionnalités%20générales/06-notes.md) ajoutées ici seront visible dans le haut du module de commande où le fournisseur est utilisé.
 
-#### Ajouter une note
+### Ajouter une note
 
 1. Cliquer sur l'onglet Notes
 2. Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 
-Suivre les [instructions suivantes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-f629445e-37c8-4518-83ba-9e80b9267668).
+Suivre les [instructions suivantes](../03-Fonctionnalités%20générales/06-notes.md#notes-actions).
 
 ![](../../static/img/Fournisseurs_11_notes_1.png)
 ![](../../static/img/Fournisseurs_11_notes_2.png)
 
-Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-1f474c9b-58a9-4128-a20e-cd371aa4ac37).
+Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](../03-Fonctionnalités%20générales/06-notes.md#notes-actions).
 
 ---
 
-### [Actions diverses](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
+## Actions diverses
 
 #### En mode consultation
 ![](../../static/img/Fournisseurs_12.png)
@@ -142,13 +142,13 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 
 ---
 
-### Autres fonctionnalités
+## Autres fonctionnalités
 
-#### Créer une commande
+### Créer une commande
 
-Consultez cette [documentation](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17357?block=block-c30e9952-5b55-4d68-859c-28ed7b7a99de) .
+Consultez cette [documentation](../06-Achats/01-commandes.md#création-dune-commande) .
 
-#### Mettre à jour le total des achats
+### Mettre à jour le total des achats
 
 L'actualisation des totaux ne se fait pas automatiquement.
 

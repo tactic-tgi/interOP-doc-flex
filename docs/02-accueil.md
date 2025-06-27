@@ -2,7 +2,7 @@
 
 ---
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/1f71c5cd-4b29-4039-99bf-6c873c4c6916/Page%20Accueil%20-%20Menu.png)
+![](../static/img/Accueil_principal.png)
 
 ## Menu latéral
 

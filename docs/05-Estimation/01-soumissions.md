@@ -8,7 +8,7 @@ Parfait pour l’estimation facile et complète du coût d’un travail (main-d�
 
 Les paramètres de calcul sont entièrement personnalisables afin de refléter vos méthodes de calcul existantes.
 
-Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md)
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste)
 
 Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à statut : En calcul + Envoyée + Imprimée.
 

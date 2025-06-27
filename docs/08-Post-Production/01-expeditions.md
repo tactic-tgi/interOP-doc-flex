@@ -12,7 +12,7 @@ Créez facilement des bons d’expédition et des étiquettes selon la mise en f
 
   
 
-Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md).
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste).
 
 Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à statut : En préparation
 

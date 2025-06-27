@@ -12,7 +12,7 @@ En plus, un bon de travail peut être imprimé lors du lancement du contrat en p
 
   
 
-Ouverture du module en [mode liste.](../03-Fonctionnalités%20générales/02-navigation.md)
+Ouverture du module en [mode liste.](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste)
 
 Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à statut : Attente lancement + En production + Expédié + Complété.
 

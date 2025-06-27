@@ -7,19 +7,20 @@
 ## Survol
 
 Avec ce module, gérez facilement l'accès de tous vos employés.
+
 ![](../../static/img/Parametres_Utilisateurs_menu.png) 
 
   
 
 Ouverture du module en mode liste.
 
-Par défaut, le [filtre](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-d334b8fe-d65e-4449-a1d9-a27c07e19a53) est à Actif.
+Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à Actif.
 
 ![](../../static/img/Parametres_Utilisateurs_1.png)
 
   
 
-**En mode** [**consultation**](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-fab2c14a-4d75-4bad-9f1c-ba1f4f2460a3)
+**En mode** [**consultation**](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
 
 La partie **gauche** présente les informations générales de l'usager.
 
@@ -33,7 +34,7 @@ La partie **droite** présente les divers accès à interOP.
 
   
 
-### Création d'utilisateur
+## Création d'utilisateur
 
   
 
@@ -52,7 +53,7 @@ La partie **droite** présente les divers accès à interOP.
         *   Entrez un nom d'utilisateur qui servira à la connexion au système.
         *   Cliquez sur **Créer l'accès à interOP**. Un courriel s'ouvrira pour faire parvenir à l'utilisateur son mot de passe lors de sa première connexion.
 
-### Accès & privilèges aux modules
+## Accès & privilèges aux modules
 
 *       Pour attribuer les accès aux différents modules, 2 choix sont possibles :
  
@@ -92,22 +93,20 @@ Utilisez le bouton rouge **Supprimer l'accès à interOP** dans la fiche du clie
 
   
 
-### Actions diverses
+## Actions diverses
 
-[](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
 
-  
 
  
 
-#### En mode consultation
+#### En mode [**consultation**](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
 ![](../../static/img/Parametres_Utilisateurs_Consultation.png)
 *   Changer le mot de passe
 *   Désactiver la fiche
 
 #### Définir attributions
 
-Cette partie est en lien avec la [Saisie de temps](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17457?block=block-f4c08a26-6ee4-4871-b251-e8675be858ea).
+Cette partie est en lien avec la [Saisie de temps](../07-Production/04-saisietemps.md).
 
 Permet de définir des tâches, équipements et opérations liés à l'employé afin qu'il ne voit pas des informations qu'il ne devrait pas ou qui sont non pertinents pour lui.
 

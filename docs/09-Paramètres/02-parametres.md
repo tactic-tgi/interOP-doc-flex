@@ -5,8 +5,7 @@
   
 
 ## Survol
-
-  
+ 
 
 Cette section du logiciel vous permet de le personnaliser selon votre entreprise.
 
@@ -17,14 +16,13 @@ Tout changement ici, sera reproduit ailleurs dans le logiciel.
 ###   
 
 * * *
+ 
+
+## Personnalisation du logiciel
 
   
 
-### Personnalisation du logiciel
-
-  
-
-#### **Coordonnées**
+### Coordonnées
 
 Inscrire vos coordonnées d'entreprise , ajouter vos logos et sélectionner le logo à utiliser dans les différents formulaires.
 
@@ -33,7 +31,7 @@ Inscrire vos coordonnées d'entreprise , ajouter vos logos et sélectionner le l
   
   
 
-#### **Textes & Modèles de courriels**
+### Textes / Modèles de courriels
 
 Gérez ici les différents textes/salutations qui apparaitront par défaut sur la proposition aux clients.
 
@@ -62,7 +60,7 @@ Utilisez les données variables admissibles pour les personnaliser.
   
   
 
-#### **Messages sur formulaires**
+### Messages sur formulaires
 
 Gérez ici les messages qui apparaitront par défaut sur les formulaires d'envois aux clients.
 
@@ -77,7 +75,7 @@ Vous avez la possibilité, pour chaque message, de les faire afficher sur :
   
   
 
-#### **Traductions**
+### Traductions
 
 Ayez la latitude de modifier les termes qui apparaissent sur les différents formulaires envoyés aux clients.
 
@@ -86,7 +84,7 @@ Ayez la latitude de modifier les termes qui apparaissent sur les différents for
   
   
 
-#### **Numérotations et Valeurs par défauts**
+### Numérotations et Valeurs par défauts
 
 *   Personnalisez la numérotation de vos différents formulaires.
 *   Définir les valeurs par défaut de votre système.
@@ -97,7 +95,7 @@ Ayez la latitude de modifier les termes qui apparaissent sur les différents for
   
   
 
-#### **Listes de valeurs modifiables**
+### Listes de valeurs modifiables
 
 Ces listes peuvent être modifiées. Elles apparaissent comme menu déroulant dans différents modules.
 
@@ -107,7 +105,7 @@ Ces listes peuvent être modifiées. Elles apparaissent comme menu déroulant da
 
   
 
-#### **Gestion des pays, provinces et devises**
+### Gestion des pays, provinces et devises
 
 Pour rendre **actif** un Pays, une Province ou une Devise cliquez sur le bouton au bout de la ligne.
 
@@ -120,12 +118,12 @@ Pour rendre **actif** un Pays, une Province ou une Devise cliquez sur le bouton 
 
   
 
-### **Comptabilité**
+## Comptabilité
 
 Cette section permet la configuration selon votre logiciel de comptabilité.
 
 
-**Devise**
+### Devises
 
 Le bouton **Synchroniser avec Passerelle** récupère les taux en vigueur pour la journée. Ces taux sont actualisés une fois par jour via la passerelle. Ainsi, même si vous cliquez plusieurs fois sur le bouton de mise à jour, les taux resteront inchangés jusqu'au jour suivant.
 
@@ -150,7 +148,7 @@ Paramètres modifiables
   
   
 
-#### **Taxes**
+### Taxes
 
 Dans cette section, déterminez les éléments suivants :
 
@@ -162,7 +160,7 @@ Dans cette section, déterminez les éléments suivants :
   
   
 
-#### **Paiement & Crédit**
+### Paiement & Crédit
 
 Dans cette section, déterminez les éléments suivants :
 
@@ -177,7 +175,7 @@ Dans cette section, déterminez les éléments suivants :
   
   
 
-#### **Comptes GL**
+### Comptes GL
 
 Inscrivez la liste de vos comptes GL (Revenus et Dépenses)
 
@@ -185,7 +183,7 @@ Inscrivez la liste de vos comptes GL (Revenus et Dépenses)
   
   
 
-#### **Produits standards facturation**
+### Produits standards facturation
 
 Section à compléter si vous travaillez avec des produits dans votre système comptable.
 
@@ -198,26 +196,25 @@ Section à compléter si vous travaillez avec des produits dans votre système c
 
   
 
-### **Applications connectées**
+## Applications connectées
 
-#### **Transporteurs**
+### Transporteurs
 
 Gestion de vos différents transporteurs.
 
 ![](../../static/img/Parametres_Systeme_15.png) 
 
-#### **Printnode**
+### Printnode
 
-Système de gestion des imprimantes
+Système de gestion des imprimantes. Lié à votre compte Printnode, choisissez votre ordinateur et sur quelle imprimante vous voudrez imprimer par défaut. 
 
-Private ([https://app.clickup.com/9017115504/docs/8cqcgvg-19917/8cqcgvg-13117](https://app.clickup.com/9017115504/docs/8cqcgvg-19917/8cqcgvg-13117))
 
 ![](../../static/img/Parametres_Systeme_16.png) 
 
   
   
 
-#### **Cédule Dayback (Abonnement requis)**
+### Calendrier Dayback (Abonnement requis)
 
 Vous devez avoir activé le module pour avoir accès au calendrier Dayback. Voir section zzzzz****URL à placer****zzzzz
 

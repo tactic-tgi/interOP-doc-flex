@@ -8,7 +8,7 @@ Un outil essentiel pour créer des bons d’achat de sous-traitance ou de matiè
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/82179e49-adf4-4130-be15-1053ff3d9e9b/image.png)
 
-Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md).
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste).
 
 Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à statut : En préparation + Envoyée + Reçue partiellement.
 

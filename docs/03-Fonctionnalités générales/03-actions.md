@@ -4,13 +4,13 @@
 
 Les actions principales et secondaires se retrouvent tant en mode liste qu'en mode consultation ou édition.
 
-### **Action principale**
+### Action principale
 
 Le bouton pour l'action principale d'un module se retrouve toujours en haut à droite.
 
-Cliquer sur le bouton pour effectuer l'action.
+Cliquer sur le bouton pour effectuer l'action (exemple : créer un client).
 
-### **Actions secondaires**
+### Actions secondaires
 
 Les différentes actions d'un module se trouve également en haut à droite.
 

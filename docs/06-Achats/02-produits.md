@@ -12,7 +12,7 @@ Le module Produits permet de consigner toute l’information pertinente pour cha
 
   
 
-Ouverture du module en [mode liste.](../03-Fonctionnalités%20générales/02-navigation.md)
+Ouverture du module en [mode liste.](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste)
 
 Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à Actif.
 

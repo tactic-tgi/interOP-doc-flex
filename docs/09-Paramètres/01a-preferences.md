@@ -5,6 +5,7 @@
 ## Survol
 
 Avec ce module, gérez facilement vos paramètres du logiciel, selon vos préférences à vous ! Il sert également à le personnalisé pour votre accès. Chaque utilisateur devrait donc aller entrer les différentes données et faire les choix de base, lors de la toute première connexion à InterOP.
+
 ![](../../static/img/Parametres_Preferences_menu.png) 
 
 ## Informations personnelles

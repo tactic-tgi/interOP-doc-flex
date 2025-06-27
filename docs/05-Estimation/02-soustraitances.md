@@ -6,7 +6,7 @@
 
 Avec ce module, acheminez rapidement vos demandes de prix de sous-traitance à un ou plusieurs fournisseurs potentiels.
 
-Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md).
+Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste).
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/b774987b-4d30-4904-bc79-91e7f0b99cf6/Screenshot%202024-09-18%20at%2011.27.46%E2%80%AFAM.png)
 

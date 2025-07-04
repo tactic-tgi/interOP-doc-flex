@@ -12,9 +12,9 @@ Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navi
 
 Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à statut : En calcul + Envoyée + Imprimée.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/f7bcde18-7652-4fcf-97a2-d7d3afaaf216/Screenshot%202024-11-27%20at%208.15.38%E2%80%AFAM.png)
+![](../../static/img/Soumissions_01.png)
 
-#### Statut
+### Statut
 
 En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation), le statut d'une soumission est indiqué dans le coin supérieur droit.
 
@@ -30,107 +30,111 @@ En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mod
 
   Soumission lancée en production.
 
-- [Modèle](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-26817?block=block-3a0ccd9f-a48f-4425-9c15-84ab93132cf2)
+- [Modèle](../05-Estimation/01-soumissions.md#types-de-soumission)
 
 ---
 
-## Soumission
+N'oubliez pas que tous les temps, coûts etc. proviennent de vos [Standards](../09-Paramètres/03-standards.md).
 
-N'oubliez pas que tous les temps, coûts etc. proviennent de vos [Standards](https://tactic-tgi.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17557).
-
-#### Créer une soumission
+### Créer une soumission
 
 Cliquez sur **Créer une soumission** et choisissez un type.
 
-N'oubliez pas de remplir toutes les [champs obligatoires](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61).
+N'oubliez pas de remplir tous les [champs obligatoires](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires).
+Si des champs sont manquants, vous verrez un message lorsque vous sortirez de la soumission en cours.
+Vous pourrez cliquer sur Corriger pour voir les champs en surbrillance (contour rouge).
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/cdf4bd58-1b80-4ee8-96e9-aac473370e62/Screenshot%202025-01-22%20at%202.53.48%E2%80%AFPM.png)
+![](../../static/img/Soumissions_02.png)
 
-#### Types de soumission
+![](../../static/img/Soumissions_03.png)
+
+
+### Types de soumission
 
 - Régulière
 - Modèle
 
   Sert de modèle de base duquel repartir pour créer une nouvelle soumission (dupliquer), permet de sauver du temps et d'avoir des soumissions uniformes. Les items d'une soumission modèle ne peuvent être ni révisés ni servir pour la création d'un dossier.
 
-### Informations de base
+## Informations de base
 
 La portion du **haut** contient les informations de bases de la soumission.
 
 **Vendu à**
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/093bed33-c555-4dd8-baf3-2377e70a6e7e/Screenshot%202024-12-02%20at%209.15.06%E2%80%AFAM.png)
+![](../../static/img/Soumissions_04.png)
 
 **Facturé à**
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/0977a674-20f0-495d-b444-333b7f31a478/Screenshot%202024-12-02%20at%209.15.28%E2%80%AFAM.png)
+![](../../static/img/Soumissions_05.png)
 
 **Divers**
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/01511d4c-1b11-412b-80d5-9496cd363a72/Screenshot%202024-12-02%20at%209.15.53%E2%80%AFAM.png)
+![](../../static/img/Soumissions_06.png)
 
 - Pour changer le client
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/405ffd86-5225-4095-b5e0-e5903d305bf8/Screenshot%202024-12-02%20at%209.16.33%E2%80%AFAM.png)
+    Cliquez sur la **loupe** ![](../../static/img/Soumissions_loupe.png) pour faire une recherche et sélectionnez un client.
+    ![](../../static/img/Soumissions_07.png)
 
-  Cliquez sur la **loupe** pour faire une recherche et sélectionnez un client.
 
-  Si le client est manquant, cliquez sur **\+ Créer un nouveau client.**![](https://t9017115504.p.clickup-attachments.com/t9017115504/30ffab39-6de9-4c33-b70e-f4c17b792111/Screenshot%202024-12-02%20at%209.21.15%E2%80%AFAM.png)
+  Si le client est manquant, veuillez aller le créer dans le module [Clients](../04-Contacts/clients.md#création-dun-client).
 
 - Pour éditer le contact
 
   Cliquez sur le **crayon.**
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/b8779539-71ab-4cbf-98c3-4020a5756784/image.png)
+  ![](../../static/img/Soumissions_08.png)
 
   Les changements apportés lors de l'édition du contact seront appliqués dans le système au complet.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/65fe5ae6-c6a1-4146-aada-d94e7d1b23a2/image.png)
+  ![](../../static/img/Soumissions_09.png)
 
 La portion du **bas à gauche** contient des informations relatives au projet.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/4432ecf8-6f0e-42d3-a7da-ebeb59895244/Screenshot%202024-12-02%20at%209.25.28%E2%80%AFAM.png)
+![](../../static/img/Soumissions_10.png)
 
-#### Notes générales
+### Notes générales
 
-Cette section de notes est propre à la soumission et ne sera pas transféré au dossier de production.
+Cette section de notes est propre à la soumission et ne sera pas transférée au dossier de production.
 
 **Ajouter une note**
 
-Cliquez sur le bouton **Ajouter +**
+Cliquez sur l'icône![](../../static/img/Contacts_2_iconeajout.png)
 
-Suivre les [instructions suivantes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-f629445e-37c8-4518-83ba-9e80b9267668).
+![](../../static/img/Soumissions_11.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/984b7735-003c-4cf3-860d-b0ba9c52c769/Screenshot%202025-01-22%20at%204.07.06%E2%80%AFPM.png)
+Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](../03-Fonctionnalités%20générales/06-notes.md#notes-actions).
 
-Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-1f474c9b-58a9-4128-a20e-cd371aa4ac37).
-
-#### Notes de production
+### Notes de production
 
 Des cases de notes sont disponibles pour chaque section de la soumission (Prépresse, Infographie, Impression, Support) et seront associées au dossier de production correspondant.
+![](../../static/img/Soumissions_Notes03.png)
 
 Cliquer sur cet icône pour faire afficher la case de notes.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/a35be710-efba-4a57-bd9a-38314687734e/Screenshot%202025-04-22%20at%2011.13.50%E2%80%AFPM.png)![](https://t9017115504.p.clickup-attachments.com/t9017115504/b63f460d-ff17-4a79-9232-ec85e8a5f3fb/Screenshot%202025-04-22%20at%2011.13.45%E2%80%AFPM.png)
-
 Aucune note : icône grisé
+
+![](../../static/img/Soumissions_Notes01.png)
 
 Contient des notes : icône en couleur
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/99770712-2f53-4599-9f67-9395aaccde77/Screenshot%202025-04-22%20at%2011.12.04%E2%80%AFPM.png)
+![](../../static/img/Soumissions_Notes02.png)
+
+
 
 ---
 
-### Items
+## Items
 
 Une soumission doit contenir au minimum un item.
 
-Consultez cette [section](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-5a00e764-aed1-4253-9203-0c49dc38575d) pour en apprendre d'avantage sur les diverses actions possibles par item.
+Consultez la section [Actions diverses](../05-Estimation/01-soumissions.md#actions-diverses) pour découvrir les actions possibles pour un item (duplication, révision, etc).
 
 Cliquez sur la ligne d'un des items pour consulter sa fiche, apporter des modifications et le supprimer.
 
 **Masquer un item de la proposition**
-
+ 
 Cliquez sur l'oeil pour que le l'item soit masqué de la proposition client; il deviendra alors rouge. Re-cliquez dessus pour faire afficher l'item sur la proposition.
 
 Fonctionnalité **⤵️**
@@ -145,7 +149,7 @@ Si l'icône dossier est visible, c'est qu'un dossier de production a été ouver
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/03040c54-2558-4a26-81f9-d2fd52f8be68/Screenshot%202024-12-10%20at%203.36.56%E2%80%AFPM.png)
 
-#### Créer un item
+### Créer un item
 
 Cliquez sur **Ajouter +**
 
@@ -167,7 +171,7 @@ Cliquez sur **Ajouter +**
 
   Créer un item depuis un [modèle existant](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-584784c4-1163-4c70-bb34-c0e2dc9b287f) viendra créer automatiquement l'item et ses [composantes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-bab639d2-aaa8-41a4-ab4d-8e29211159ac). Modifiez au besoin les informations.![](https://t9017115504.p.clickup-attachments.com/t9017115504/63b36a41-38a6-4d6d-9e8d-17eeabfee057/Screenshot%202024-12-02%20at%209.51.39%E2%80%AFAM.png)
 
-#### Quantité(s)
+### Quantité(s)
 
 Il est possible de modifier une quantité déjà existante ou d'en ajouter de nouvelles en cliquant sur le **+**
 
@@ -175,7 +179,7 @@ Il est possible de modifier une quantité déjà existante ou d'en ajouter de no
 
 ---
 
-### Composantes
+## Composantes
 
 Chaque item doit contenir au minimum 1 composante.
 
@@ -183,7 +187,7 @@ Ce sont la ou les composantes qui composent l'item lié.
 
 À tout moment il est possible de **Supprimer**, **Enregistrer** ou **Dupliquer** une composante.
 
-#### Informations supplémentaires
+### Informations supplémentaires
 
 - Informations communes versus informations modifiables (selon quantité)
 
@@ -211,7 +215,7 @@ Ce sont la ou les composantes qui composent l'item lié.
 
   ![](https://t9017115504.p.clickup-attachments.com/t9017115504/87a2d834-0180-4994-9e58-fc55f0264924/image.png)
 
-#### Informations de base
+### Informations de base
 
 Remplir les informations.
 
@@ -239,7 +243,7 @@ Le bouton avec les deux flèches permet d'afficher d'autres options d'imposition
 
 ####
 
-#### Prépresse
+### Prépresse
 
 La portion **Infographie** permet d'ajouter du temps additionnel pour le traitement des fichiers.
 
@@ -253,13 +257,13 @@ Exemple ➝ Du graphisme, de la mise en page, de la calibration de couleurs etc.
 
   ![](https://t9017115504.p.clickup-attachments.com/t9017115504/28e1473a-82a5-4620-bbe9-7811897fef38/Screenshot%202024-12-02%20at%203.49.50%E2%80%AFPM.png)
 
-#### Plaques
+### Plaques
 
 Section disponible seulement lorsque le procédé d'impression est à Offset.
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/1f527d9e-1c1c-4f9d-9003-784d739a964e/Screenshot%202024-12-02%20at%204.17.53%E2%80%AFPM.png)
 
-#### Support & Impression
+### Support & Impression
 
 Cette section contient tous les détails relatifs au support à imprimer et l'équipement d'impression.
 
@@ -271,7 +275,7 @@ Cette section contient tous les détails relatifs au support à imprimer et l'é
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/b8a2c92f-30c6-49f7-ae9f-baad6e0b5c59/Screenshot%202024-12-02%20at%2010.20.59%E2%80%AFPM.png)
 
-#### Opérations et emballages
+### Opérations et emballages
 
 Ici les opérations et l'emballage sont propres à une composante.
 
@@ -305,7 +309,7 @@ La procédure pour ajouter un [nouvel emballage](https://app.clickup.com/9017115
 
 ---
 
-### Opérations globales
+## Opérations globales
 
 Ici les opérations sont globales pour l'item.
 
@@ -349,7 +353,7 @@ Pour consulter, modifier et/ou supprimer une opération, cliquez sur sa ligne.
 
 ---
 
-### Emballages globaux
+## Emballages globaux
 
 Ici l'emballage est global pour l'item.
 
@@ -371,7 +375,7 @@ Pour consulter, modifier et/ou supprimer un emballage, cliquez sur sa ligne.
 
 ---
 
-### Transports & Livraisons
+## Transports & Livraisons
 
 ![](https://t9017115504.p.clickup-attachments.com/t9017115504/ff8b27e5-e8e3-42f4-9a80-bc30dca854e9/Screenshot%202024-12-02%20at%205.29.12%E2%80%AFPM.png)
 

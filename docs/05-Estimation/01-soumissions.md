@@ -42,11 +42,7 @@ Cliquez sur **Créer une soumission** et choisissez un type.
 
 N'oubliez pas de remplir tous les [champs obligatoires](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires).
 Si des champs sont manquants, vous verrez un message lorsque vous sortirez de la soumission en cours.
-Vous pourrez cliquer sur Corriger pour voir les champs en surbrillance (contour rouge).
-
-![](../../static/img/Soumissions_02.png)
-
-![](../../static/img/Soumissions_03.png)
+Vous pourrez cliquer sur Corriger pour voir les champs en surbrillance (contour rouge). Voir section [Composantes](../05-Estimation/01-soumissions.md#informations-supplémentaires).
 
 
 ### Types de soumission
@@ -100,7 +96,7 @@ Cette section de notes est propre à la soumission et ne sera pas transférée a
 
 **Ajouter une note**
 
-Cliquez sur l'icône![](../../static/img/Contacts_2_iconeajout.png)
+Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
 ![](../../static/img/Soumissions_11.png)
 
@@ -137,45 +133,50 @@ Cliquez sur la ligne d'un des items pour consulter sa fiche, apporter des modifi
  
 Cliquez sur l'oeil pour que le l'item soit masqué de la proposition client; il deviendra alors rouge. Re-cliquez dessus pour faire afficher l'item sur la proposition.
 
+![](../../static/img/Soumissions_12.png)
+
 Fonctionnalité **⤵️**
 
 Maintenez \[ CTRL sur PC ou Command sur Mac\] + cliquez sur l'oeil pour faire afficher seulement cet item. Tous les autres seront masqués, et ce, peu importe si l'item sur lequel on clique était masqué ou non avant le clic.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/ea6a74c6-b9ff-4f09-8d38-78724f1d76e0/Screenshot%202024-12-02%20at%2010.29.53%E2%80%AFPM.png)
 
 **Dossier lié**
 
 Si l'icône dossier est visible, c'est qu'un dossier de production a été ouvert pour cet item. Cliquez dessus pour l'afficher.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/03040c54-2558-4a26-81f9-d2fd52f8be68/Screenshot%202024-12-10%20at%203.36.56%E2%80%AFPM.png)
+![](../../static/img/Soumissions_13.png)
 
 ### Créer un item
 
-Cliquez sur **Ajouter +**
+Cliquez sur l'icône ![](../../static/img/Contacts_2_iconeajout.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/19592507-e0b7-4ab6-a38a-40f9f9c533c0/Screenshot%202024-12-02%20at%209.49.36%E2%80%AFAM.png)
+
+![](../../static/img/Soumissions_14.png)
 
 - Nouveau
 
   Sélectionnez un item.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/86d4ab05-856e-4c14-9fcb-dec24b95b477/image.png)
+  ![](../../static/img/Soumissions_15.png)
 
   Inscrivez vos quantités.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/64723ba0-f638-4dd0-a5e8-663413cf9dbc/image.png)
+  ![](../../static/img/Soumissions_16.png)
 
-  Remplissez les informations de la [composante.](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-bab639d2-aaa8-41a4-ab4d-8e29211159ac)
+  Remplissez les informations de la [composante.](../05-Estimation/01-soumissions.md#composantes)
 
 - Depuis un modèle
 
-  Créer un item depuis un [modèle existant](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-584784c4-1163-4c70-bb34-c0e2dc9b287f) viendra créer automatiquement l'item et ses [composantes](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-bab639d2-aaa8-41a4-ab4d-8e29211159ac). Modifiez au besoin les informations.![](https://t9017115504.p.clickup-attachments.com/t9017115504/63b36a41-38a6-4d6d-9e8d-17eeabfee057/Screenshot%202024-12-02%20at%209.51.39%E2%80%AFAM.png)
+  Créer un item depuis un [modèle existant](../05-Estimation/01-soumissions.md#types-de-soumission) viendra créer automatiquement l'item et ses [composantes](../05-Estimation/01-soumissions.md#composantes)
+. Modifiez au besoin les informations.
+
+  ![](../../static/img/Soumissions_17.png)
 
 ### Quantité(s)
 
-Il est possible de modifier une quantité déjà existante ou d'en ajouter de nouvelles en cliquant sur le **+**
+Il est possible de modifier une quantité déjà existante ou d'en ajouter de nouvelles en cliquant sur le ![](../../static/img/Contacts_2_iconeajout.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/18261179-8842-4a7b-8551-548c0d06c9bc/image.png)
+![](../../static/img/Soumissions_18.png)
 
 ---
 
@@ -185,7 +186,10 @@ Chaque item doit contenir au minimum 1 composante.
 
 Ce sont la ou les composantes qui composent l'item lié.
 
-À tout moment il est possible de **Supprimer**, **Enregistrer** ou **Dupliquer** une composante.
+À tout moment il est possible de **Supprimer**, **Dupliquer** une composante, en passant par le menu Actions. L'enregistrement des données se fait de façon automatique, dès que vous sortez d'une case.
+
+![](../../static/img/Soumissions_19.png)
+
 
 ### Informations supplémentaires
 
@@ -193,53 +197,60 @@ Ce sont la ou les composantes qui composent l'item lié.
 
   **Communes ➝** Informations de base communes peu importe la quantité.
 
-  Exemple onglet Prépresse ![](https://t9017115504.p.clickup-attachments.com/t9017115504/9b9f4c6b-ba2b-4ea0-b062-81886a80c433/image.png)
+  Exemple onglet Prépresse 
+  ![](../../static/img/Soumissions_21.png)
 
   **Modifiables ➝** Certaines informations sont modifiables selon la quantité. On peut les modifier dans les onglets où les options de quantités sont visibles dans le haut.
 
-  Exemple onglet Support & Impression ![](https://t9017115504.p.clickup-attachments.com/t9017115504/84365c28-51b4-4758-824e-2be1c4fe5deb/image.png)
+  Exemple onglet Support & Impression 
+  ![](../../static/img/Soumissions_22.png)
 
-- Enregistrer une composante
+- Valider une composante en la quittant
 
-  Si la composante est incomplète ou s'il y a des incongruités, vous aurez ce message d'erreur.![](https://t9017115504.p.clickup-attachments.com/t9017115504/84252618-94ab-4fd7-9e81-37a90cc69cdf/image.png)
+  Bien que l'enregistrement des données se fassent automatiquement, dès que vous sortez d'une case, une validation a été mise en place lorsque vous quittez la fenêtre de la composante.
 
-  **Corriger :** vous devez corriger l'information encadré en rouge. N'oubliez pas de remplir tous les [champs obligatoires](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61).
+  Pour sortir, vous pouvez utiliser les petites inscriptions en haut, pour reculer aux items ou bien reculer à la soumission. Si vous utilisez la flèche du haut, vous reculez d'un écran à la fois, jusqu'à pouvoir revenir à la liste des soumissions.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/1a374b4e-d21b-4981-9e99-890a77ffb5e0/image.png)
+  ![](../../static/img/Soumissions_23.png)
+
+  Si la composante est incomplète ou s'il y a des incongruités, vous aurez ce message d'erreur.
+  ![](../../static/img/Soumissions_02.png)
+
+  **Corriger :** vous devez corriger l'information encadrée en rouge. N'oubliez pas de remplir tous les [champs obligatoires](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires).
+
+  ![](../../static/img/Soumissions_03.png)
 
   **Sortir** : il est possible de sortir de l'enregistrement sans le corriger. Par contre, il ne sera pas possible de se rendre au Sommaire et d'envoyer la soumission au client tant qu'il ne sera pas corrigé.
 
-  Cet icone indique que la ligne contient des informations erronées et/ou des [champs obligatoires](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) non remplis.
+  Cet icone indique que la ligne contient des informations erronées et/ou des [champs obligatoires](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) non remplis.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/dae38a8f-a65e-44e3-8455-1e5512eb2740/image.png)
+  ![](../../static/img/triangle_rouge.png)
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/87a2d834-0180-4994-9e58-fc55f0264924/image.png)
+  ![](../../static/img/Soumissions_24.png)
 
 ### Informations de base
 
 Remplir les informations.
 
-Le procédé d'impression par défaut provient de vos [standards.](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17557?block=block-fa6b5c92-5791-466e-8e95-4f632ff66f62)
-
-Selon le procédé d'impression choisit, les champs [obligatoires](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-aeef2813-739d-4f73-8be3-fad739556f61) sont différents.
+Selon le procédé d'impression choisit, les champs [obligatoires](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont différents.
 
 - Exemple des informations de base d'une brochure auto-couvert
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/a8b092b1-d92c-4e2d-ad1d-ce7bc72f67b0/Screenshot%202024-12-13%20at%204.49.21%E2%80%AFPM.png)
+  ![](../../static/img/Soumissions_20.png)
 
 **Dessin d'imposition**
 
-Cliquez sur le **crayon** situé au-dessus de **Nb Ups** pour afficher le dessin d'imposition.
+Cliquez sur le **crayon** situé à côté du **Nb Ups** pour afficher le dessin d'imposition.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/26e23d3b-d599-4907-96ce-63591b4da413/Screenshot%202025-04-22%20at%2011.02.46%E2%80%AFPM.png)
+![](../../static/img/Soumissions_25.png)
 
 Les valeurs des marges et du **bleed** peuvent être modifiées selon vos besoins. En cas d’ajustements, cliquez sur **Utiliser Ups et Bleed du dessin** pour valider les modifications.
 
-Le bouton avec les deux flèches permet d'afficher d'autres options d'imposition disponibles.
+![](../../static/img/Soumissions_26.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/861e99b7-cd40-452c-9df9-e36ead80ebd5/image.png)
+Le bouton avec les deux flèches permet de pivoter l'item pour valider l'optimisation de son format, dans la grandeur de feuille d'impression que vous avez pour votre composante.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/98209efa-3174-4b93-9300-32678adced22/9443c2c7-432d-4cb5-a951-91945a133a2d_medium.png)
+![](../../static/img/Soumissions_27.png)
 
 ####
 
@@ -249,19 +260,18 @@ La portion **Infographie** permet d'ajouter du temps additionnel pour le traitem
 
 Exemple ➝ Du graphisme, de la mise en page, de la calibration de couleurs etc.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/d0d8a5c0-e250-4da1-aa16-164e9293bb90/Screenshot%202024-12-02%20at%204.08.34%E2%80%AFPM.png)
+![](../../static/img/Soumissions_28.png)
 
 - Il est possible d'avoir plusieurs épreuves par composante.
 
-  Cliquez sur **\+ Ajouter.**
-
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/28e1473a-82a5-4620-bbe9-7811897fef38/Screenshot%202024-12-02%20at%203.49.50%E2%80%AFPM.png)
+  Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
+  ![](../../static/img/Soumissions_29.png)
 
 ### Plaques
 
 Section disponible seulement lorsque le procédé d'impression est à Offset.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/1f527d9e-1c1c-4f9d-9003-784d739a964e/Screenshot%202024-12-02%20at%204.17.53%E2%80%AFPM.png)
+![](../../static/img/Soumissions_30.png)
 
 ### Support & Impression
 
@@ -269,35 +279,35 @@ Cette section contient tous les détails relatifs au support à imprimer et l'é
 
 **Support à imprimer**
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/5c2adfef-fd65-4254-b21e-7b20fdcd24ec/Screenshot%202024-12-02%20at%2010.20.27%E2%80%AFPM.png)
+![](../../static/img/Soumissions_31.png)
 
 **Impression**
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/b8a2c92f-30c6-49f7-ae9f-baad6e0b5c59/Screenshot%202024-12-02%20at%2010.20.59%E2%80%AFPM.png)
+![](../../static/img/Soumissions_32.png)
 
 ### Opérations et emballages
 
 Ici les opérations et l'emballage sont propres à une composante.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/2e0a9c77-3b31-4750-bcb6-538054bfb0cf/Screenshot%202024-12-02%20at%2010.08.54%E2%80%AFPM.png)
+![](../../static/img/Soumissions_33.png)
 
 **Opérations**
 
-La procédure pour ajouter une [nouvelle opération](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-7ee5d826-8697-4422-a236-c5ede45edbd4) est la même que pour les opérations globales.
+La procédure pour ajouter une nouvelle opération est la même que pour les [opérations globales](../05-Estimation/01-soumissions.md#opérations-globales).
 
 Une seule différence est visible : l'encadré informatif **Composante visée**.
 
 - Interne
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/d70117f4-d218-4908-bf00-1fefcf937855/Screenshot%202024-12-02%20at%2010.01.33%E2%80%AFPM.png)
+  ![](../../static/img/Soumissions_34.png)
 
 - Externe
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/c5b99c93-3a4c-4f2a-91ea-c8612a0241e6/Screenshot%202024-12-02%20at%2010.01.33%E2%80%AFPM.png)
+  ![](../../static/img/Soumissions_35.png)
 
 - **Notion pour la coupe** : Omettre couteau avant ou après auto.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/107dc870-e8cc-4e00-83b1-d415934e8154/image.png)
+  ![](../../static/img/Soumissions_36.png)
 
   Le système évalue systématiquement la nécessité de couteau avant et/ou après impression. Dans certains cas, il est possible que vous n'en ayez pas besoin, dans ces cas précis cochez la case. Cela évite un recalcul constant.
 
@@ -305,7 +315,7 @@ Une seule différence est visible : l'encadré informatif **Composante visée**.
 
 **Emballages**
 
-La procédure pour ajouter un [nouvel emballage](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?&block=block-0f57af07-6882-4c7a-9fe4-577de789e5b3) est la même que pour les emballages globaux.
+La procédure pour ajouter un nouvel emballage est la même que pour les [emballages globaux](../05-Estimation/01-soumissions.md#emballages-globaux).
 
 ---
 
@@ -313,43 +323,47 @@ La procédure pour ajouter un [nouvel emballage](https://app.clickup.com/9017115
 
 Ici les opérations sont globales pour l'item.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/64930cc8-7227-4f59-a318-ba8a01f74559/Screenshot%202024-12-02%20at%205.20.15%E2%80%AFPM.png)
+![](../../static/img/Soumissions_37.png)
 
-Pour ajouter une nouvelle opération, cliquez sur **Ajouter +** .
+Pour ajouter une nouvelle opération, cliquez sur l'icône ![](../../static/img/Contacts_2_iconeajout.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/7acf3692-88d9-4be9-9fb4-d45efc2107da/Screenshot%202024-12-02%20at%207.48.12%E2%80%AFPM.png)
+![](../../static/img/Soumissions_38.png)
 
 - Interne
 
   Sélectionnez une famille d'opération. Ici on choisit **Pliage sur plieuse**.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/94cd513c-b29e-4db8-ae57-19053f6e8f17/image.png)
+  ![](../../static/img/Soumissions_39.png)
 
-  Sélectionnez une opération. Ici on choisit **Pliage 8 pages angle droit.**
+  Sélectionnez une opération. Ici on choisit **Pliage 6 pages accordéon.**
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/4dc62e9a-d832-433d-87f6-5f2805057b5d/image.png)
+  ![](../../static/img/Soumissions_40.png)
 
-  Remplir les informations dans la fiche et **Enregistrer.**
+  Remplir les informations dans l'écran. 
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/5da2a0b6-6488-4cd0-8e78-edf03c991263/image.png)
+  ![](../../static/img/Soumissions_41.png)
 
 - Externe
 
-  Sélectionnez une famille d'opération. Ici on choisit **Reliure Externe**.![](https://t9017115504.p.clickup-attachments.com/t9017115504/60178f0a-e3a3-4f38-ba66-202fbc0a5cca/image.png)
+  Sélectionnez une famille d'opération. Ici on choisit **Reliure Externe**.
+  ![](../../static/img/Soumissions_42.png)
 
-  Sélectionnez une opération. Ici on choisit **Broché à cheval**.![](https://t9017115504.p.clickup-attachments.com/t9017115504/5fd60b74-fc25-4131-b74b-48bbac802c08/image.png)
+  Sélectionnez une opération. Ici on choisit **Broché à cheval**.
 
-  Remplir les informations dans la fiche et **Enregistrer.**![](https://t9017115504.p.clickup-attachments.com/t9017115504/0a1959c6-92ea-4655-bc8a-0399ca7ad9f9/image.png)
+   ![](../../static/img/Soumissions_43.png)
 
-  Pour créer ou ajouter une demande de sous-traitance , cliquez sur le **+**
+  Remplir les informations  dans l'écran, en choisissant le fournisseur.
+   ![](../../static/img/Soumissions_44.png)
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/39a74179-7dfb-4698-ac30-837b7ccbbfaa/image.png)
+  Pour créer ou ajouter une demande de sous-traitance , cliquez sur le bouton Actions
 
-  **Créer une demande** : vous référez à cette [section](https://tactic-tgi.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17337?block=block-9a2b1aa3-fdae-4b4c-9fa3-9d29509f4cc1).
+  ![](../../static/img/Soumissions_45.png)
 
-  Pour lier l'opération à une demande déjà existante, cliquez sur **Lier une demande** et sélectionnez la dans la liste
+  **Créer une demande** : vous référez à cette [section](../05-Estimation/02-soustraitances.md)
 
-Pour consulter, modifier et/ou supprimer une opération, cliquez sur sa ligne.
+  Pour lier l'opération à une demande déjà existante, cliquez sur **Lier une demande** et sélectionnez la dans la liste.
+
+Pour modifier et/ou supprimer une opération globale, cliquez sur sa ligne pour l'ouvrir et pour le supprimer, appuyer sur Supprimer dans le menu Actions.
 
 ---
 
@@ -357,57 +371,59 @@ Pour consulter, modifier et/ou supprimer une opération, cliquez sur sa ligne.
 
 Ici l'emballage est global pour l'item.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/dc3ee037-0f4f-43d7-8a4f-6b66bd35a6b8/Screenshot%202024-12-02%20at%205.19.54%E2%80%AFPM.png)
+![](../../static/img/Soumissions_46.png)
 
 - Ajouter un emballage
 
-  Cliquez sur **Ajouter + ,** sélectionnez un produit\* et remplir les informations dans la nouvelle fenêtre et **Enregistrer.**
+  Cliquez sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png), sélectionnez un produit\* et remplir les informations dans la nouvelle fenêtre.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/68a807c8-5598-42cd-a135-1a84fc27e806/image.png)
+  ![](../../static/img/Soumissions_47.png)
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/a5ee1a62-7d8d-451f-b87e-91e50d03d616/image.png)
+ Pour modifier et/ou supprimer un emballage, cliquez sur sa ligne pour l'ouvrir et pour le supprimer, appuyer sur Supprimer dans le menu Actions.
 
-  \* Pour créer un produit, cliquez sur **\+ Créer un nouveau produit** et consultez cette [section](https://tactic-tgi.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17377?block=block-72f47df3-eeb7-4a9e-85ea-056b3b71604a).
-
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/a22f984d-42df-40f8-abb7-472e20dd4fef/image.png)
-
-Pour consulter, modifier et/ou supprimer un emballage, cliquez sur sa ligne.
+ ![](../../static/img/Soumissions_48.png)
 
 ---
 
 ## Transports & Livraisons
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/ff8b27e5-e8e3-42f4-9a80-bc30dca854e9/Screenshot%202024-12-02%20at%205.29.12%E2%80%AFPM.png)
+![](../../static/img/Soumissions_49.png)
 
 - Ajouter une livraison
 
-  Cliquez sur **Ajouter + ,** sélectionnez une destination, un transporteur ,remplir les informations dans la nouvelle fenêtre et **Enregistrer.**
+  Cliquez sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png), sélectionnez une région, puis le transporteur et remplir les informations dans la nouvelle fenêtre.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/da982a47-f9f6-4e81-bffc-bd2e2b176d40/image.png)
+  ![](../../static/img/Soumissions_50.png)
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/0d08ed10-dd50-4a08-b78b-ed15387edd21/image.png)![](https://t9017115504.p.clickup-attachments.com/t9017115504/140ae39c-fc65-4962-851e-646e7abeb864/image.png)
+  ![](../../static/img/Soumissions_51.png)
+  ![](../../static/img/Soumissions_52.png)
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/9ed88807-cedd-4ecb-90d4-275b8a5b4d59/image.png)
-
-Pour consulter, modifier et/ou supprimer un transport, cliquez sur sa ligne.
+ Pour modifier et/ou supprimer un transport, cliquez sur sa ligne pour l'ouvrir et pour le supprimer, appuyer sur Supprimer dans le menu Actions.
 
 ---
 
-### Sommaire & Proposition
+## Sommaire & Proposition
 
 #### **Sommaire des coûts**
 
 Permet de consulter le sommaire des coûts d'un item pour toutes ses quantités.
+Nous y accédons directement dans un item, en haut à droite.
+![](../../static/img/Soumissions_54.png)
+
+![](../../static/img/Soumissions_53.png)
+
+
 
 La partie du bas permet de faire des modification, cliquez dessus pour y accéder.
 
+![](../../static/img/Soumissions_56.png)
+
 - Modifications
 
-  - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17557?block=block-fd477eca-adcb-43cb-9a90-7be0799db836), mais peuvent aussi être propre à un client.
-  - Commission peut être définit par défaut dans les [standards](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17557?block=block-fd477eca-adcb-43cb-9a90-7be0799db836), mais peut aussi être propre à un [représentant](https://tactic-tgi.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17517?block=block-cd8d6f12-7ac9-4a54-919e-5dac4c89ecd2).
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/11e68fd6-a1a2-467b-9ae5-622d6c8880d0/Screenshot%202024-12-02%20at%203.24.08%E2%80%AFPM.png)
+  - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../09-Paramètres/03-standards.md#majoration-valeurs-par-défaut-et-réquisitions), mais peuvent aussi être propre à un client.
+  - Commission peut être définit par défaut dans les [standards](../09-Paramètres/03-standards.md#majoration-valeurs-par-défaut-et-réquisitions), mais peut aussi être propre à un [représentant](../09-Paramètres/01b-utilisateurs.md#création-dutilisateur).
+    ![](../../static/img/Soumissions_55.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/62048004-9995-4c74-abb9-dfdbb0f44d0c/Screenshot%202024-12-02%20at%203.26.22%E2%80%AFPM.png)
 
 Une fois vos coûts validés, vous avez la possibilité d'**Enregistrer** pour confirmer et fermer la fenêtre ou de valider la **proposition au client**.
 
@@ -419,17 +435,15 @@ Révisez et modifiez aux besoin les informations.
 
 **Enregistrer** pour confirmer et fermer la fenêtre.
 
-**Enregistrer & Envoyer** pour envoyer la proposition au client par [courriel.](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-21017?block=block-68df9872-7997-4c13-a153-8a3a0c4b2a1f)
+**Enregistrer & Envoyer** pour envoyer la proposition au client par [courriel](../03-Fonctionnalités%20générales/01-courriels.md).
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/fc15bda8-cbfc-46d7-905e-ebdac90d538e/Screenshot%202024-12-02%20at%2010.32.58%E2%80%AFPM.png)
+![](../../static/img/Soumissions_60.png)
 
 ---
 
 ## Actions diverses
 
-[](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
-
-#### En mode consultation
+#### En mode consultation, fenêtre de la Soumission
 
 - Dupliquer
 - Supprimer
@@ -441,21 +455,25 @@ Révisez et modifiez aux besoin les informations.
   En mode liste, la ligne de soumission sera grisée. Il est possible de réactiver une soumission perdue.
 
 - Visualiser
-
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/1357ce9b-effe-435a-8225-c2c98fc972ba/image.png)\*Si la soumission contient plusieurs items, la proposition client les affichera tous.
+  Ceci ouvrira la proposition dans un nouvel onglet de votre navigateur. Vous pourrez ainsi la télécharger ou l'imprimer. 
+  ![](../../static/img/Soumissions_57.png)
+  
+  Si la soumission contient plusieurs items, la proposition client les affichera tous.
 
 - Imprimer
-- [Courriel](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-21017?block=block-68df9872-7997-4c13-a153-8a3a0c4b2a1f)
+- [Courriel](../03-Fonctionnalités%20générales/01-courriels.md)
 - Déclarer comme modèle
 
-  N'importe quelle soumission peut être utilisée afin d'en faire un [modèle.](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-26817?block=block-3a0ccd9f-a48f-4425-9c15-84ab93132cf2)
+  N'importe quelle soumission peut être utilisée afin d'en faire un [modèle.](../05-Estimation/01-soumissions.md#types-de-soumission)
 
-#### [Par item](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-cfc6f2d1-6079-45de-907a-5b3bd135795a)
+  ![](../../static/img/Soumissions_59.png)
+
+#### Par item
 
 - Dupliquer
 - Réviser
 
-  Si le bouton est grisé, impossible de faire [l'action](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-584784c4-1163-4c70-bb34-c0e2dc9b287f)
+  Si le bouton est grisé, impossible de faire l'action.
 
 - Supprimer
 
@@ -463,9 +481,11 @@ Révisez et modifiez aux besoin les informations.
 
 - Créer dossier
 
-  Permet de créer un [dossier](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17397) de production pour un item.
+  Permet de créer un [dossier](../07-Production/01-dossiers.md) de production pour un item.
 
-  Si le bouton est grisé, impossible de faire [l'action](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-584784c4-1163-4c70-bb34-c0e2dc9b287f)
+  Si le bouton est grisé, impossible de faire l'action.
+
+  ![](../../static/img/Soumissions_58.png)
 
 ---
 

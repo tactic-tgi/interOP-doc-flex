@@ -71,6 +71,7 @@ La portion du **haut** contient les informations de bases de la soumission.
 - Pour changer le client
 
     Cliquez sur la **loupe** ![](../../static/img/Soumissions_loupe.png) pour faire une recherche et sélectionnez un client.
+    
     ![](../../static/img/Soumissions_07.png)
 
 
@@ -325,11 +326,11 @@ Ici les opérations sont globales pour l'item.
 
 ![](../../static/img/Soumissions_37.png)
 
-Pour ajouter une nouvelle opération, cliquez sur l'icône ![](../../static/img/Contacts_2_iconeajout.png)
+Pour ajouter une nouvelle opération, cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
 ![](../../static/img/Soumissions_38.png)
 
-- Interne
+### Interne
 
   Sélectionnez une famille d'opération. Ici on choisit **Pliage sur plieuse**.
 

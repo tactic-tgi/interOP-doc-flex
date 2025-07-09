@@ -8,19 +8,19 @@ Avec ce module, acheminez rapidement vos demandes de prix de sous-traitance à u
 
 Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste).
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/b774987b-4d30-4904-bc79-91e7f0b99cf6/Screenshot%202024-09-18%20at%2011.27.46%E2%80%AFAM.png)
+![](../../static/img/Soustraitances_01.png)
 
 Par défaut, le statut d'une demande est à **Nouvelle demande**.
 
 Ce statut changera pour **Envoyée** lorsqu'elle sera envoyé par courriel à un fournisseur
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/0db7bf8b-45cf-42de-9867-a09b93cae2e5/image.png)
+![](../../static/img/Soustraitances_02.png)
 
 ---
 
-### Demande de sous-traitance
+## Demande de sous-traitance
 
-#### Créer
+### Créer
 
 1. Cliquez sur **Créer une demande**
 2. Remplir la fiche
@@ -33,48 +33,54 @@ Ce statut changera pour **Envoyée** lorsqu'elle sera envoyé par courriel à un
 
 3\. Sélection de fournisseurs
 
--       *   Cliquez sur **\+ Ajouter**
-  - Sélectionnez un fournisseur![](https://t9017115504.p.clickup-attachments.com/t9017115504/b92772e0-eee6-47aa-a4e0-809aa68f914d/Screenshot%202024-07-18%20at%2010.57.26%E2%80%AFAM.png)
-    - aucune limite de fournisseurs
-    - possibilité d'en créer un nouveau
+- Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
+  - Sélectionnez un fournisseur
 
-4\. Sélection d'un contact - possibilité d'en créer un nouveau
+  ![](../../static/img/Soustraitances_03.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/a947abd0-ae6a-469a-a3e0-095224f81e75/Screenshot%202024-07-18%20at%2010.57.44%E2%80%AFAM.png)
+4\. Sélection d'un contact.
+- Si le contact ne se trouve pas dans la liste, veuillez vous rendre dans le module Fournisseurs pour pouvoir le créer.
+- Possibilité d'éditer le contact directement dans la demande.
 
-5\. Ajoutez une note et au besoin, les [fichiers](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27177?block=block-ca77a6d5-efac-4e73-ab09-83ec401e0007) fournis par ce fournisseur (estimé, dessin technique, etc.) et **Enregistrer.**
+![](../../static/img/Soustraitances_04.png)
+![](../../static/img/Soustraitances_13.png)
+![](../../static/img/Soustraitances_05.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/b488da48-c272-4ca9-874b-a0a26cb234eb/Screenshot%202025-01-22%20at%204.59.53%E2%80%AFPM.png)
+5\. Ajoutez une [note](../03-Fonctionnalités%20générales/06-notes.md#notes-actions) et au besoin, les fichiers fournis par ce fournisseur (estimé, dessin technique, etc.) et **Enregistrer.**
+
+![](../../static/img/Soustraitances_06.png)
 
 ####
 
-#### Visualiser
+### Visualiser
 
 Cliquez sur l'oeil afin de visualiser une demande.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/83d57ea8-2e40-4f47-9a78-cebb7fb89796/Screenshot%202024-07-16%20at%208.06.14%E2%80%AFPM.png)
+![](../../static/img/Soustraitances_07.png)
 
-- PDF de la demande
+- PDF de la demande : un nouvel onglet ouvrira dans votre navigateur, pour visualiser et/ou imprimer et/ou télécharger votre demande.
 
-  ![](https://t9017115504.p.clickup-attachments.com/t9017115504/43076f32-373d-4497-b04d-da05710e90d3/Screenshot%202024-07-18%20at%2010.33.43%E2%80%AFAM.png)
+  ![](../../static/img/Soustraitances_08.png)
 
-#### Envoyer
+### Envoyer
 
 Cliquez sur l'enveloppe pour envoyer votre demande par courriel.
 
-Suivre les instructions de [courriels.](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-21017?block=block-68df9872-7997-4c13-a153-8a3a0c4b2a1f)
+Suivre les instructions de [courriels.](../03-Fonctionnalités%20générales/01-courriels.md)
+![](../../static/img/Soustraitances_10.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/fc33d6cf-54df-4a96-9843-4b7826b3fa84/Screenshot%202024-07-16%20at%208.07.29%E2%80%AFPM.png)
 
 Enveloppe **grisé** : aucun courriel envoyé
 
+![](../../static/img/Soustraitances_09.png)
+
 Enveloppe **en couleu**r : courriel envoyé
+
+![](../../static/img/Soustraitances_11.png)
 
 ---
 
-### Actions diverses
-
-[](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
+## Actions diverses
 
 #### **En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)**
 
@@ -85,15 +91,15 @@ Enveloppe **en couleu**r : courriel envoyé
 
 ---
 
-### Informations supplémentaires
+## Informations supplémentaires
 
-- Il est possible de créer une demande de sous-traitance et la « [Lier](https://tactic-tgi.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-839825e9-95f2-4b00-9a3b-889cad7f4709) » à une opération externe d'une soumission par la suite.
+- Il est possible de créer une demande de sous-traitance et la « [Lier](../05-Estimation/01-soumissions.md#opérations-globales) » à une opération externe d'une soumission par la suite.
 
 Si une soumission est liée à votre demande, vous pouvez la consulter en cliquant sur le numéro de soumission à droite du nom du Projet.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/0cb21e4f-d61f-4020-9e9a-a283d23e2a49/Screenshot%202024-12-02%20at%208.03.29%E2%80%AFPM.png)
+![](../../static/img/Soustraitances_12.png)
 
-- Une demande de sous-traitance peut être créée à partir d'une [opération externe](https://tactic-tgi.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17317?block=block-d5993968-7b02-4f99-b604-27ae8f9b3b00) d'une soumission.
+- Une demande de sous-traitance peut être créée à partir d'une [opération externe](../05-Estimation/01-soumissions.md#opérations-globales) d'une soumission.
 
 ---
 

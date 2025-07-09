@@ -9,9 +9,9 @@ Dans le haut de chaque module, en mode consultation, cliquez sur le crayon pour 
 
 Vous avez la possibilité d'en créer de nouvelles au besoin.
 
-![](../../static/img/Fonctionnalites_notes_05.png)
+![](../../static/img/Fonctionnalites_Notes_05.png)
 
-![](../../static/img/Fonctionnalites_notes_06.png)
+![](../../static/img/Fonctionnalites_Notes_06.png)
 
 ### Notes (actions)
 
@@ -42,7 +42,7 @@ Lors de la création d'une nouvelle notes :
 
 Cliquez sur cet icône ou glissez-déposez pour insérer un fichier. Aucune limite de pièces jointes.
 
-![](../../static/img/Fonctionnalites_notes_02.png)
+![](../../static/img/Fonctionnalites_Notes_02.png)
 
 - Cliquez sur l'une des pièces jointes pour sélectionner une action à effectuer.
 
@@ -51,8 +51,8 @@ Cliquez sur cet icône ou glissez-déposez pour insérer un fichier. Aucune limi
   - Renommer
   - Supprimer
 
-  ![](../../static/img/Fonctionnalites_notes_03.png)
+  ![](../../static/img/Fonctionnalites_Notes_03.png)
 
 Le trombone indique qu'un fichier a été inséré dans la note et le chiffre en rouge le nombre de fichier(s) joint(s).
 
-![](../../static/img/Fonctionnalites_notes_04.png)
+![](../../static/img/Fonctionnalites_Notes_04.png)

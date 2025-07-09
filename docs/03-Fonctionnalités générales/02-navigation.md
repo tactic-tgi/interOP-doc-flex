@@ -45,6 +45,6 @@ Pour modifier des informations, vous devrez généralement passer par le menu Ac
 
 Lorsque vous êtes en mode consultation, une icône en flèche vous permet de revenir à la liste. 
 
-![](../../static/img/Fonctionnalites_Navigation_01.png)
+![](../../static/img/Fonctionnalites_navigation_01.png)
 
 ---

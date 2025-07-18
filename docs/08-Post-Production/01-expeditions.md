@@ -16,7 +16,7 @@ Ouverture du module en [mode liste](../03-Fonctionnalités%20générales/02-navi
 
 Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#filtres-et-tris) est à statut : En préparation
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/d9388c89-e907-45b2-a2d4-a5fbeeb9ce36/Screenshot%202024-10-24%20at%202.56.28%E2%80%AFPM.png)
+![](../../static/img/Expedition_01.png)
 
   
   
@@ -25,43 +25,38 @@ Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#f
 
   
 
-### Création d'un bon d'expédition
+## Création d'un bon d'expédition
 
   
 
-Cliquez sur le bouton **Créer un bon d'expédition**
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/1146cce2-33e4-4fb8-9e82-95d2f5a24829/Screenshot%202024-11-13%20at%204.19.56%E2%80%AFPM.png)
-
+- Cliquez sur **Créer un bon d'expédition** en haut à droite de la liste.
   
 
 *   Depuis un dossier
     
-    Sélectionnez un client
+    Sélectionner un dossier à expédier. Vous pouvez utiliser le filtre de recherche pour isoler un client.
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/f2dd90e5-afa6-411a-b5a6-783095bd6f45/image.png)
-    
-    Sélectionnez un dossier
-    
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/3094c661-6a2e-46c0-a995-cc11de9a2f43/image.png)
-    
-    Sélectionnez un transport
-    
-      
-    
+    ![](../../static/img/Expedition_14.png)
+        
     Le bon d'expédition sera créé automatiquement.
     
-    N'oubliez pas de remplir la case Qté/bte
+    N'oubliez pas de remplir la case Qté/bte, en cliquant sur la ligne pour faire ouvrir la fenêtre d'édition.
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/09c84555-2b27-449b-aad9-98a2d3a8c10d/image.png)
+    ![](../../static/img/Expedition_16.png)
+
+    ![](../../static/img/Expedition_17.png)
     
-    \*Le message au bas provient de vos [paramètres Système](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17537?block=block-1cf26f44-af27-4b1a-bd06-618cfe27de25).
+    \*À noter que le message au bas provient de vos [paramètres Système](../09-Paramètres/02-parametres.md#messages-sur-formulaires).
+
+    ![](../../static/img/Expedition_18.png)
     
       
     
 *   Nouveau bon sans dossier
     
-    Sélectionner un client![](https://t9017115504.p.clickup-attachments.com/t9017115504/3e0b1387-ac4e-4237-a747-c855e26c0f55/image.png)
+    Sélectionner un client
+
+    ![](../../static/img/Expedition_02.png)
     
       
     
@@ -69,42 +64,41 @@ Cliquez sur le bouton **Créer un bon d'expédition**
     
     N'oubliez pas de sélectionner un transporteur.
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/c78e69e4-671b-4843-95f9-8996aaeaffc5/image.png)
+    ![](../../static/img/Expedition_03.png)
     
-    \*Le message au bas provient de vos [paramètres Système](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17537?block=block-1cf26f44-af27-4b1a-bd06-618cfe27de25).
+    \*Le message au bas provient de vos [paramètres Système](../09-Paramètres/02-parametres.md#messages-sur-formulaires).
     
       
     
 
   
 
-#### Ajouter une ligne d'expédition
+### Ajouter une ligne d'expédition
 
   
 
-Cliquez sur **Ajouter +**
+Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/cf8fa390-870b-4cd9-9142-3e75915eb5d7/Screenshot%202024-11-12%20at%203.58.13%E2%80%AFPM.png)
+![](../../static/img/Expedition_04.png)
 
   
 
 *   Avec dossier
     
-    Sélectionnez un dossier.![](https://t9017115504.p.clickup-attachments.com/t9017115504/130b8e83-af51-4e93-bb19-271da8076b8c/image.png)
-    
+    Au besoin : sélectionnez un dossier (non obligatoire).
+
+    ![](../../static/img/Expedition_05.png)
+
       
     
-    Remplir les [informations](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-c4c71459-1838-48f6-a243-aa8b1177d308) manquantes.
+    Remplir les informations manquantes. Les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
+    Inscrire la quantité par boîte, le nombre de boîte requise va se calculer automatiquement.
+
+    ![](../../static/img/Expedition_06.png)
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/8f876693-0a2c-4e9c-99d4-8518ced27bd5/image.png)
+    Pour éditer la ligne à nouveau, il suffit de recliquer sur celle-ci. 
     
-*   Sans dossier
-    
-    Une ligne vierge va se créer.
-    
-    Remplir les informations.
-    
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/fb928137-2b7b-45a6-9370-5fe891cbcbd6/image.png)
+    ![](../../static/img/Expedition_07.png)
     
       
     
@@ -117,11 +111,11 @@ Cliquez sur **Ajouter +**
 
 Cliquez sur le bouton **Étiquettes ➝ 4 x 6** pour visualiser l'étiquette et l'imprimer.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/3bd2606e-7d9f-44ca-9a55-a415def7aaaf/Screenshot%202024-11-13%20at%2010.53.40%E2%80%AFAM.png)
+![](../../static/img/Expedition_08.png)
 
   
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/e11c737d-7530-4bc7-ac85-fded3d1179f7/Screenshot%202024-11-13%20at%2010.56.01%E2%80%AFAM.png)
+![](../../static/img/Expedition_09.png)
 
   
   
@@ -129,8 +123,7 @@ Cliquez sur le bouton **Étiquettes ➝ 4 x 6** pour visualiser l'étiquette et 
 ### Divers
 
   
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/ec64287b-05ac-47ba-b8bc-e7c632be81de/Screenshot%202024-11-13%20at%2011.23.04%E2%80%AFAM.png)
+![](../../static/img/Expedition_10.png)
 
   
   
@@ -139,7 +132,7 @@ Cliquez sur le bouton **Étiquettes ➝ 4 x 6** pour visualiser l'étiquette et 
 
 Les changements apportés lors de l'édition du contact seront appliqués dans le système au complet.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/612b8687-e3b6-4369-80a6-a16285e42b49/Screenshot%202024-11-13%20at%2011.24.20%E2%80%AFAM.png)
+![](../../static/img/Expedition_11.png)
 
   
 
@@ -153,19 +146,18 @@ Cocher la case pour indiquer que le client vient chercher sa commande.
 
 Cliquez sur la loupe pour faire une recherche.
 
-Vous y trouverez toutes les [adresses liés](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17277?block=block-b98eab58-61a2-40f6-b883-08276e766ff3) à votre client.
+Vous y trouverez toutes les adresses liés à votre client.
+Si l'adresse est manquante, veuillez vous rendre dans le module [client](../04-Contacts/clients.md#ajouter-une-adresse-dexpédition) pour l'ajouter. 
 
-Si l'adresse est manquante, cliquez sur **\+ Créer une nouvelle adresse.**
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/104f5b16-5ee7-4ce6-a80e-e51d83865929/Screenshot%202024-11-13%20at%2011.30.49%E2%80%AFAM.png)
+![](../../static/img/Expedition_12.png)
 
   
 
 #### **4\. Identification Expéditeur**
 
-Provient de la [fiche contact](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17277?block=block-b1de9ab7-4dcb-43a1-8e47-24f306fd5e99) de votre client.
+Provient de la [fiche contact](../04-Contacts/clients.md#création-dun-client) de votre client, dans l'onglet Informations additionnelles.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/57a1ef86-6677-4cbe-abcd-675938c648b4/Screenshot%202024-11-13%20at%2011.19.56%E2%80%AFAM.png)
+![](../../static/img/Expedition_13.png)
 
   
   
@@ -176,24 +168,29 @@ Provient de la [fiche contact](https://app.clickup.com/9017115504/v/dc/8cqcgvg-2
 
 ### Actions diverses
 
-#### [](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
-
-  
 
 #### En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
 
+*   Valider l'expédition
+
+Cette action vous permettra de pouvoir l'imprimer et/ou l'envoyer au client une fois validé.
+Si des informations sont manquantes, le système vous affichera un message d'erreur avec le détail.
+
+![](../../static/img/Expedition_15.png)
+
 *   Visualiser le bon
+
+*   Aviser par [courriel](../03-Fonctionnalités%20générales/01-courriels.md)
+
+*   Imprimer le bon
+
+*   Suivi de la livraison : si vous avez inscrit un numéro de suivi et un transporteur, ceci vous mènera sur le site web de celui-ci pour faire le suivi de la livraison.
+
 *   Supprimer
     
-    si le bouton est grisé, impossible de faire la suppression car le bon a été validé.
+    si le bouton est grisé, impossible de faire la suppression car le bon a été validé.  
     
-*   Valider le bon
     
-    cette action vous permettra de pouvoir l'imprimer et/ou l'envoyer au client une fois validé
-    
-*   Aviser par [courriel](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-21017?block=block-68df9872-7997-4c13-a153-8a3a0c4b2a1f)
-*   Imprimer le bon
-*   Suivi de la livraison
 
   
 

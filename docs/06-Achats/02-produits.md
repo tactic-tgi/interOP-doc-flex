@@ -161,7 +161,7 @@ Sinon, le pourcentage par défaut sera celui saisi dans vos [standards](../09-Pa
 
 Permet de modifier le prix sur plusieurs produits en même temps ou individuellement.
 
-Consultez cette [section](../12-Gestion/prixproduits.md) pour plus d'informations.
+Consultez cette [section](../06-Achats/03-prixproduits.md) pour plus d'informations.
 
   
   

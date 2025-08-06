@@ -57,11 +57,11 @@ Ajoutez une note au besoin, dans le bas de la fenêtre de commande. Elle se retr
 
 ![](../../static/img/Commandes_13.png)
 
-### [Réquisitions](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-29577)
+### [Réquisitions](../06-Achats/01b-requisitions.md)
 
 Onglet **Lignes de commande**
 
-Cliquer sur la ligne du produit, puis cliquer sur le bouton **Calculatrice** afin de remplir automatiquement les quantités des lignes de commande à partir des réquisitions associées.
+Cliquer sur la ligne du produit, puis cliquer sur le bouton **Calculatrice** afin de remplir automatiquement les quantités des lignes de commande à partir des réquisitions associées. Si vous ne commandez pas la même unité que celle utilisée pour faire la soumission et la réquisition, entré simplement la quantité et changer l'unité (ex : soumission aux pieds carrés mais achat en rouleau).
 
 ![](../../static/img/Commandes_14.png)
 
@@ -70,6 +70,27 @@ Onglet **Réquisitions**
 Affiche les réquisitions liées à la commande, lorsque celles-ci ont été utilisées lors de sa création.
 
 ![](../../static/img/Commandes_12.png)
+
+## Changement du fournisseur
+
+Si vous avez des lignes de commandes créées à partir d'un produit existant, vous ne pourrez plus changer le fournisseur (la loupe disparaitra). La raison est que les produits sont toujours liés à un fournisseur.
+
+Pour changer de fournisseur, vous devrez supprimer les lignes et les refaire manuellement.
+Au besoin, vous rendre dans le produit en question pour ajouter un second fournisseur en plus de celui qui est choisi par défaut (favori).
+
+![](../../static/img/Produits_07.png)
+
+
+## Compléter une commande
+
+Le statut de la commande restera à "En préparation", le temps que la réception de la marchandise soit faite. 
+
+Lorsque le magasiner reçoit les items, il doit se rendre dans un des items et cocher la case "Complet" sur tous les items reçus. Si une ou des réquisitions étaient liées à cette commande, leur statut changera pour **Reçu**.
+
+La commande passera alors au statut **Complétée**. 
+
+![](../../static/img/Commande_complet.gif)
+
 
 ---
 

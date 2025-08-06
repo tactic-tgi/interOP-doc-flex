@@ -1,36 +1,70 @@
 # Réquisitions d'achats
 
-Les réquisitions d'achats se retrouvent sous le Menu Filemaker ➝ Gestion ➝ Commandes ➝ Réquisitions situé dans le haut de votre écran.
+Les réquisitions sont accessibles dans le [menu latéral](../03-Fonctionnalités%20générales/05-menus.md#menu-latéral)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/5f796273-bf13-454c-9dd5-b584889ff24e/Screenshot%202025-04-22%20at%209.40.46%E2%80%AFPM.png)
-
+![](../../static/img/Requisition_01.png)
   
+Elles sont créées à partir des dossiers que vous lancerez en production. Ceci vous permettra facilement de regrouper des achats à faire de support d'impression, de produits de finition ou d'emballage.
 
-Remplir les critères souhaités dans la fenêtre **Filtres**, puis cliquez sur **Appliquer** pour générer la liste des réquisitions correspondant aux filtres appliqués.
+Remplir les critères souhaités dans la fenêtre **Filtres**, puis cliquez sur **Appliquer** pour générer la liste des réquisitions correspondant aux filtres appliqués. Par défaut, le filtre sera de voir les commandes **À traiter** seulement.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/e2ad275b-d763-4e16-a3a8-75a0fde45c36/Screenshot%202025-04-22%20at%2010.35.35%E2%80%AFPM.png)
+![](../../static/img/Requisition_02.png)
 
+## Créer une commande depuis les réquisitions
   
-  
+Cochez les produits que vous souhaitez inclure dans la commande, en choissisant les lignes manuellement ou en cochant la case située dans l'entête bleue du fournisseur (ou selon le regroupement choisit) pour sélectionner tous les produits associés à celui-ci. 
 
-Cochez les produits que vous souhaitez inclure dans la commande.
-
-*   La case à cocher située dans l’entête bleu du fournisseur permet de sélectionner tous les produits associés à ce fournisseur.
-
-  
 
 Une fois votre sélection faite, cliquez sur **Actions** pour procéder soit à la commande des produits ou pour annuler les réquisitions.
+ 
+ Un message de confirmation apparaitra pour vous mentionner que la commande a été faite. Vous devez ensuite vous rendre dans les commandes par le menu latéral pour la trouver. Vous pouvez donc faire plusieurs commandes avant de quitter les réquisitions pour aller les compléter dans l'autre module.
 
+![](../../static/img/Requisition_03.gif)
+    
+
+Cliquez sur le bouton **Rafraîchir** pour actualiser la liste des réquisitions affichées, pour vous assurez que toutes les réquisitions récentes s'y trouvent.
+
+![](../../static/img/Requisition_04.png)
   
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/533b4f0d-683e-4916-8247-7655284cd3e3/Screenshot%202025-04-22%20at%2010.36.47%E2%80%AFPM.png)
+### Modification Fournisseur par défaut (favori)
 
-  
+Le fournisseur associé à une réquisition dont le statut est **À traiter** peut être modifié en cliquant directement sur la ligne. Une fenêtre s'ouvrira pour vous permettre de le changer. Seuls les fournisseurs liés à ce produit apparaitront.
 
-Cliquez sur le bouton **Rafraîchir** pour actualiser la liste des réquisitions affichées.
+![](../../static/img/Requisition_06.png)
 
-  
 
-#### Modification Fournisseur
+## Réquisitions traitées
 
-Le fournisseur associé à une réquisition dont le statut est **À traiter** peut être modifié en cliquant directement sur son nom dans le champ correspondant.
+Par le tri, si vous décidez de visualiser les réquisitions qui ont été traitées, donc passées en commande, vous y verrez le numéro de commande au bout à droite.
+
+En cliquant sur la ligne, vous pouvez voir le détail de la commande.
+
+Si votre magasiner a réceptionné le matériel, donc qu'il a [coché la case "Complet"](../06-Achats/01-commandes.md#compléter-une-commande) dans la ligne de commande, le statut deviendra **Reçu**. Utiliser le filtre pour les visualiser. 
+
+![](../../static/img/Requisition_05.png)
+
+
+## Réquisitions Annulées
+
+Si vous ne voulez pas passer en commande une réquisition, vous pouvez la sélectionner par la case et dans le menu Actions, faire **Annuler Réquisition**
+
+Attention toutefois : une réquisition annulée ne pourra pas être réutilisée. Au besoin, il faudra aller manuellement ajouter l'achat sur une commande existante, en mentionnant le numéro de dossier.
+
+![](../../static/img/Requisition_07.png)
+
+
+## Comment paramétrer ce qui sera créer comme une réquisition ?
+
+Vous avez un grand contrôle sur ce que vous voulez ou non qui soit créé comme une réquisition. Pour se faire, il suffit de vous rendre dans les [standards](../09-Paramètres/03-standards.md#réquisitions) et de cocher les cases pertinentes à vos processus de commandes. 
+
+Vous avez également le contrôle à automatiser la création des réquisitions dès le lancement du dossier, ou bien vous pouvez décider de le faire manuellement depuis le module Dossiers.
+
+![](../../static/img/Parametres_Standards_13.png)
+
+## Mettre à jour les réquisitions
+
+Si une réquisition n'a pas encore été traitée, vous pouvez la mettre à jour depuis le dossier lié. 
+xxxxxlien à mettrexxxxxxx
+
+Vous pourrez alors changer de papier ou changer de quantité sans aucun soucis, du moment que la réquisition est au statut **À traiter**.

@@ -14,24 +14,22 @@ Un mode d’affichage additionnel par station permet également à plusieurs emp
 
   
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/dc0595e5-f504-495b-8239-334538d992a2/image.png)
+![](../../static/img/SaisieTemps_13.png)
 
   
   
 
 #### Attributions
 
-Les opérations et tâches connexes visibles proviennent des [attributions définies dans la fiche](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17517?block=block-6e5a85f8-93ad-4d1a-bb62-7c87dbca56fc) de l'utilisateur.
+Les opérations et tâches connexes visibles proviennent des [attributions définies dans la fiche](../09-Paramètres/01b-utilisateurs.md#actions-diverses) de l'utilisateur.
 
 *   Pour y accéder
     
     Cliquez sur la photo de l'employé dans le coin supérieur gauche.
     
-    Apportez vos changements et cliquez sur **Enregistrer**.
+    Apportez vos changements et cliquez sur **Enregistrer** (vous devez avoir les accès nécessaires pour le faire).
     
-    (vous devez avoir les accès nécessaires pour le faire)
-    
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/7d011fc9-bf3a-4645-bad7-a11272ba5d77/image.png)
+    ![](../../static/img/SaisieTemps_01.gif)
     
       
     
@@ -58,15 +56,15 @@ Cette partie présente également le total d'heures de la journée et de la sema
 
 Cliquez sur **Débuter** pour commencer un punch et sur le **chronomètre rouge** pour le terminer.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/66b2d410-7508-4eff-beba-c5d79c3f3cad/Screenshot%202024-11-28%20at%204.52.51%E2%80%AFPM.png)
+![](../../static/img/SaisieTemps_02.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/244e81b7-10a4-4a93-8c13-5d1e55d84dd0/Screenshot%202024-11-28%20at%204.52.39%E2%80%AFPM.png)
+![](../../static/img/SaisieTemps_03.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/afc8b28f-4632-4d9a-a9e0-a137cc2f91af/Screenshot%202024-11-28%20at%204.50.09%E2%80%AFPM.png)
+![](../../static/img/SaisieTemps_04.png)
 
   
 
-Pour apporter des modifications à un punch, vous référez au rapport [suivant.](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-20997?block=block-2a526f51-8430-45e7-9466-66277ee81328)
+Pour apporter des modifications à un punch, vous référez au rapport [suivant.](../11-Rapports/01-rapports.md#paie---détail)
 
   
 
@@ -78,27 +76,23 @@ Permet de comptabiliser le temps passer sur des opérations reliées à un dossi
 
 Il est possible de repartir le chronomètre d'une opération, non terminée, réalisée plus tôt dans la journée ; cliquez sur le bouton démarrer. Le total se cumulera.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/5d3beda8-b16f-4591-8b5c-0c94710d1353/Screenshot%202024-11-29%20at%204.10.45%E2%80%AFPM.png)
+![](../../static/img/SaisieTemps_06.png)
 
-Le crochet désigne une opération [terminée](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17457?block=block-bba6e80d-bcea-4a17-8712-ea15ab6f0b92).
+Le crochet désigne une opération terminée.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/57e266b4-d0f3-4551-b253-78159aa5b273/Screenshot%202024-12-02%20at%2011.31.45%E2%80%AFAM.png)
+![](../../static/img/SaisieTemps_05.png)
 
   
 
 *   Ajouter une nouvelle opération
     
-    Cliquez sur le **+.**
+    Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
     
     *   Par attribution
         
-        Cliquez sur une catégorie.![](https://t9017115504.p.clickup-attachments.com/t9017115504/278b4d83-2a63-4499-b2c1-efc237a9dd6b/image.png)
+        Sélectionnez une opération (attribution, ex : infographie), puis un dossier. Le chronomètre partira automatiquement.
         
-          
-        
-        Sélectionnez une opération. Le chronomètre partira automatiquement.
-        
-        ![](https://t9017115504.p.clickup-attachments.com/t9017115504/b724cf56-975c-4f4c-9b52-e417c77d3818/image.png)
+        ![](../../static/img/SaisieTemps_09.gif)
         
           
         
@@ -108,13 +102,13 @@ Le crochet désigne une opération [terminée](https://app.clickup.com/901711550
         
         Recherchez toutes les opérations reliées à un dossier précis.
         
-        Entrer un numéro de dossier et **Chercher.**
-        
-        ![](https://t9017115504.p.clickup-attachments.com/t9017115504/c8a39d9a-ad04-4d59-9f75-c1dce6acb2cb/image.png)
+        Entrer un numéro de dossier et **Chercher.**  
+        Pour revenir en arrière, utilisez la flèche bleue.     
         
         Sélectionnez une opération. Le chronomètre partira automatiquement.
         
-        ![](https://t9017115504.p.clickup-attachments.com/t9017115504/785cce35-934c-4cb1-9f80-b93a17251b34/image.png)
+        
+        ![](../../static/img/SaisieTemps_10.gif)
         
     
       
@@ -123,7 +117,7 @@ Le crochet désigne une opération [terminée](https://app.clickup.com/901711550
     
     Pour arrêter le chronomètre, cliquez sur le **bouton rouge arrêt.**
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/49ae3b26-3d39-4f53-a2cc-58dbdbdd6f69/image.png)
+    ![](../../static/img/SaisieTemps_07.png)
     
       
     
@@ -134,17 +128,15 @@ Le crochet désigne une opération [terminée](https://app.clickup.com/901711550
 
 Cliquez sur le **crayon** au bout de la ligne d'opération.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/229cb24e-04af-4138-8b58-f2753ffe1e9b/Screenshot%202024-11-29%20at%203.41.34%E2%80%AFPM.png)
+![](../../static/img/SaisieTemps_08.gif)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/f28bf9c6-9d38-43d2-952a-74707dc53647/Screenshot%202024-12-02%20at%2011.26.39%E2%80%AFAM.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/803d5a45-2652-4d92-b349-2be4eeace1d7/Screenshot%202024-12-02%20at%2011.24.48%E2%80%AFAM.png)
 
   
 
 *   Éditer
     
-    Vous pouvez apporter des changments aux [champs éditables](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-14215eb2-6576-4e04-ae97-bccf58f28308) et/ou ajouter une note.
+    Vous pouvez apporter des changments aux [champs éditables](../03-Fonctionnalités%20générales/04-champs.md#champs-éditables) et/ou ajouter une note.
     
     **Enregistrer**
     
@@ -171,25 +163,22 @@ Ces tâches ne sont pas rattachées à un dossier de production.
 
 Il est possible de repartir le chronomètre d'une tâche déjà réalisée plus tôt dans la journée ; cliquez sur le bouton démarrer. Le total se cumulera.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/1c1e8c38-da76-47b6-99db-2840a28e4e9c/Screenshot%202024-11-28%20at%205.05.03%E2%80%AFPM.png)
+![](../../static/img/SaisieTemps_11.png)
 
   
 
 *   Ajouter une nouvelle tâche
     
-    Cliquez sur le **+.**
+    Cliquez sur sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
     
-    Sélectionnez une tâche. Le chronomètre partira automatiquement.
-    
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/e46a26a9-023d-4950-b18f-e5889616887f/image.png)
-    
+    Sélectionnez une tâche. Le chronomètre partira automatiquement.  
       
     
 *   Arrêter un chronomètre
     
     Pour arrêter le chronomètre, cliquez sur le **bouton rouge arrêt.**
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/43456f95-2c74-4683-8893-5fd8941f7325/image.png)
+    ![](../../static/img/SaisieTemps_12.gif)
     
       
     
@@ -336,23 +325,6 @@ Cliquez sur **Enregistrer.**
   
 
 * * *
-
-## Divers
-
-  
-
-#### Version web
-
-La version web est à privilégier puisqu'elle est plus performante.
-
-Pour vous connecter à la versions web, il vous suffit d'entrer votre nom d'usager et mot passe que vous utilisez pour vous connectez à interOP. Le fonctionnement est le même que via le logiciel.
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/b7714983-6b75-4bf9-942e-88afa7551c03/Screenshot%202024-11-28%20at%203.20.45%E2%80%AFPM.png)
-
-  
-
-* * *
-
   
 
 ## Vidéo démo du module

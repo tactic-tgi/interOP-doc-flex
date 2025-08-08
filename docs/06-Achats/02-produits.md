@@ -110,9 +110,6 @@ Cliquez sur une ligne pour consulter la commande.
   
 
 ## Actions diverses
-
-[](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17257?block=block-dfe6c8ce-fe79-4b29-bee3-9695d2ea4ab7)
-
   
 
 #### En mode consultation

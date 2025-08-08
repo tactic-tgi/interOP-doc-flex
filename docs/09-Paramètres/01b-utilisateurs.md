@@ -55,19 +55,21 @@ La partie **droite** présente les divers accès à interOP.
 
 ## Accès & privilèges aux modules
 
-*       Pour attribuer les accès aux différents modules, 2 choix sont possibles :
+*       Pour attribuer les accès aux différents modules, 3 choix sont possibles :
  
-1\. Copier les accès d'un autre utilisateur
+1\. Copier les accès d'un autre utilisateur : cliquez sur le bouton par le menu, puis sélectionnez l'utilisateur :
 ![](../../static/img/Parametres_Utilisateurs_acces_1a.png)
 ![](../../static/img/Parametres_Utilisateurs_acces_1b.png)
 
+2\. Donner tous les accès (par le menu)
+
+Dans ce même menu, vous pourrez aussi retirer les accès complet en un seul clic, pour pouvoir les resélectionner manuellement par la suite.
   
-2\. Attribuez à l'usager, pour chacune des sections, les privilèges dont il aura besoin.
+3\. Attribuez à l'usager, pour chacune des sections, les privilèges dont il aura besoin.
 ![](../../static/img/Parametres_Utilisateurs_acces_2.gif)
 
-  
 
-3\. Autres informations
+4\. Autres informations
 
 Ajoutez une signature courriel lors d'envoie de courriel en texte ou en html.
 ![](../../static/img/Parametres_Utilisateurs_Signature.gif)

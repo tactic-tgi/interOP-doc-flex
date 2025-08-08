@@ -3,18 +3,17 @@
 * * *
 
   
-
-Tous les rapports disponibles se retrouvent sous le Menu Filemaker ➝ Rapports dans le haut de votre écran.
-
-  
-
-Afin d'avoir accès aux différents rapports, vos [privilèges utilisateurs](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17517?block=block-00f5ce5a-d40e-4ef1-953a-b40c4b092eca) doivent vous le permettre.
+Tous les rapports disponibles se retrouvent dans le [menu latéral](../03-Fonctionnalités%20générales/05-menus.md#menu-latéral), dans la section **Paramètres**.
 
   
+
+Afin d'avoir accès aux différents rapports, vos [privilèges utilisateurs](../09-Paramètres/01b-utilisateurs.md#accès--privilèges-aux-modules) doivent vous le permettre.
+
+![](../../static/img/Rapport_01.png)  
 
 ## Dossier
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/814200dc-5367-4ace-be5a-97e9b0a2124a/Screenshot%202025-01-23%20at%204.48.42%E2%80%AFPM.png)
+![](../../static/img/Rapport_02.png)
 
   
 
@@ -28,62 +27,27 @@ Ouverture du rapport sur la fenêtre Filtres. Les filtres permettent de génére
 
 *   Déterminez les critères et cliquez sur **Appliquer.**
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/5886e87a-386d-4803-b4e9-1fa9bb78104c/Screenshot%202025-02-04%20at%204.58.01%E2%80%AFPM.png)
+    ![](../../static/img/Rapport_03.png)
     
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/6a2bc72f-603f-41ec-9c32-e0adb079008a/Screenshot%202025-02-04%20at%204.57.16%E2%80%AFPM.png)
-
-  
 
 Une ligne grisée indique que le dossier n'a pas été lancé en production.
 
-[Consultez la fiche du prix de revient](https://app.clickup.com/9017115504/v/dc/8cqcgvg-25937/8cqcgvg-27357?block=block-69dd7cb8-6658-4dec-92f1-9bb8756c7081) d'un dossier en cliquant sur sa ligne.
+Consultez le dossier lié en cliquant sur sa ligne, puis vous pourrez consulter le prix de revient de celui-ci en allant dans le menu Actions du dossier, puis [Ouvrir prix de revient](../07-Production/01-dossiers.md#prix-de-revient).
+
+Une fois le rapport généré, vous pouvez retourner dans le filtre pour changer des paramètres ou bien chercher un travail en particulier, par le filtre du haut.  
+
 
 Résultat du rapport ⤵️
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/0bf0b645-47a5-4bad-8077-e5a26267085b/Screenshot%202025-02-04%20at%204.58.19%E2%80%AFPM.png)
+![](../../static/img/Rapport_04.png)
+
 
   
-
-#### Actions
-
-*   Excel
-
-  
-
-#### Fiche du prix de revient
-
-Pour y avoir [accès](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17517?block=block-00f5ce5a-d40e-4ef1-953a-b40c4b092eca), le privilège Administration de la section Dossiers doit être actif.
-
-  
-
-Vous retrouverez ici une vue d'ensemble des opérations avec leurs coûts estimés, coûts réels, les écarts ainsi que le profits brut pour un dossier.
-
-Ce logo indique une opération non terminée.
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/28249650-453b-400b-a712-2b27987f6279/image.png)
-
-  
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/f39d7cd5-6255-47fa-9e16-9b84aaae9de1/Screenshot%202024-11-12%20at%2010.40.19%E2%80%AFAM.png)
-
-  
-
-1. Cliquez sur un **Coûtant estimé** pour le transférer en Coûtant réel.
-2. Ces 2 champs sont éditables :
-    *   Quantité réelle
-    *   Coûtant réel
-3. Ce bouton **+** permet d'ajouter une opération manuelle supplémentaire.![](https://t9017115504.p.clickup-attachments.com/t9017115504/d2d34eb1-6744-47b0-8117-52ee88deb41c/Screenshot%202024-11-12%20at%2010.53.02%E2%80%AFAM.png)
-    *   Le nom de l'opération est éditable.
-    *   L'opération peut être supprimée.
-4. Impression de la fiche
-5. **Enregistrer** et fermer la fenêtre
-
 * * *
 
 ## Facturation
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/d6af5203-fc55-46a3-99fc-3bd02e54673e/Screenshot%202025-01-23%20at%204.50.26%E2%80%AFPM.png)
 
   
 
@@ -93,28 +57,31 @@ Ce logo indique une opération non terminée.
 
 Rapport de ventes détaillées.
 
+![](../../static/img/Rapport_05.png)
+
 Ouverture du rapport sur la fenêtre Filtres. Les filtres permettent de générer le rapport.
 
 *   Déterminez les critères et cliquez sur **Appliquer.**
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/fe1bcbc0-38b8-4ed4-8882-366d2b69221c/image.png)
-    
+    ![](../../static/img/Rapport_06.png)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/5f270c07-20bc-4c30-8e97-8a30c156033b/Screenshot%202025-01-23%20at%204.53.48%E2%80%AFPM.png)
+Vous pourrez valider les ventes du mois et/ou de l'année, pour un client en particulier ou pour tous les clients, etc.
 
-  
+Pour aller à la facture liée, cliquez sur la ligne correspondante.
+
+Une fois dans le rapport, vous pouvez changer le filtre pour recréer un nouveau rapport ou chercher une facture directement par le filtre du haut.
+
+Par le menu **Actions** en haut à droite, pour pourrez imprimer votre rapport (et le sauvegarder en pdf au besoin). 
 
 Résultat du rapport ⤵️
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/7c8a3760-077a-49ab-85cb-5bacdc5f3eac/Screenshot%202025-01-23%20at%204.56.28%E2%80%AFPM.png)
+![](../../static/img/Rapport_07.png)
 
   
 
 #### Actions
 
 *   Imprimer
-*   PDF
-*   Excel
 
   
 
@@ -122,13 +89,13 @@ Résultat du rapport ⤵️
 
   
 
-## [Saisie de temps](https://tactic-tgi.clickup.com/docs/9017115504/d/h/8cqcgvg-25937/82d12c05e1d71c2)
+## [Saisie de temps](../07-Production/04-saisietemps.md)
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/c487efe6-39ef-4133-b4fc-4ab980b8850d/Screenshot%202025-01-23%20at%204.50.46%E2%80%AFPM.png)
+![](../../static/img/Rapport_08.png)
 
   
 
-### Paie - Détails
+### Paie - Détail
 
 Ouverture du rapport sur la semaine en cours.
 
@@ -136,14 +103,14 @@ Les filtres permettent de générer le rapport.
 
 *   Cliquez sur **Filtres** pour modifier les critères et cliquez sur **Appliquer.**
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/5064c499-2b2e-45be-a5d0-de3b233798f3/Screenshot%202025-02-04%20at%205.10.57%E2%80%AFPM.png)
+    ![](../../static/img/Rapport_09.png)
     
 
   
 
 Résultat du rapport pour l'année 2024 ⤵️
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/d30b00e1-d574-4127-a874-7af75e53cd98/Screenshot%202025-04-21%20at%203.57.27%E2%80%AFPM.png)
+![](../../static/img/Rapport_10.png)
 
 `si une note est inscrite dans le détail du punch sous Notes, ce logo sera visible`
 

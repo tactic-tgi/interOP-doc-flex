@@ -65,6 +65,8 @@ Vous avez également le contrôle à automatiser la création des réquisitions 
 ## Mettre à jour les réquisitions
 
 Si une réquisition n'a pas encore été traitée, vous pouvez la mettre à jour depuis le dossier lié. 
-xxxxxlien à mettrexxxxxxx
+
+![](../../static/img/Dossiers_30.png)
+
 
 Vous pourrez alors changer de papier ou changer de quantité sans aucun soucis, du moment que la réquisition est au statut **À traiter**.

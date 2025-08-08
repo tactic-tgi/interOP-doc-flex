@@ -455,13 +455,13 @@ Révisez et modifiez aux besoin les informations.
 
   En mode liste, la ligne de soumission sera grisée. Il est possible de réactiver une soumission perdue.
 
-- Visualiser
+- Visualiser ou Imprimer
   Ceci ouvrira la proposition dans un nouvel onglet de votre navigateur. Vous pourrez ainsi la télécharger ou l'imprimer. 
   ![](../../static/img/Soumissions_57.png)
   
   Si la soumission contient plusieurs items, la proposition client les affichera tous.
 
-- Imprimer
+
 - [Courriel](../03-Fonctionnalités%20générales/01-courriels.md)
 - Déclarer comme modèle
 

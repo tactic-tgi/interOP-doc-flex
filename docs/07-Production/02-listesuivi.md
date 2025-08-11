@@ -32,15 +32,15 @@ Vous pouvez aussi cliquer sur une opération et la terminer par la case Complet 
 
 ### Opérations
 
-Cliquez sur la ligne d'une des opération pour accéder à son détail, dans la partion de droite.
+Cliquez sur la ligne d'une des opération pour accéder à son détail, dans la portion de droite.
 
   
 
 Vous pouvez :
 
 1. inscrire manuellement le temps réalisé
-2. désigner l'opération « Complétée »
-3. inscrire une note
+2. inscrire une note
+3. désigner l'opération « Complétée »
 4. modifier la description au besoin
 
   

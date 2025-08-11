@@ -235,7 +235,7 @@ Remplir les informations.
 
 Selon le procédé d'impression choisit, les champs [obligatoires](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont différents.
 
-- Exemple des informations de base d'une brochure auto-couvert
+- Exemple des informations de base d'un dépliant
 
   ![](../../static/img/Soumissions_20.png)
 
@@ -270,7 +270,7 @@ Exemple ➝ Du graphisme, de la mise en page, de la calibration de couleurs etc.
 
 ### Plaques
 
-Section disponible seulement lorsque le procédé d'impression est à Offset.
+Section disponible seulement lorsque le procédé d'impression utilise des plaques.
 
 ![](../../static/img/Soumissions_30.png)
 

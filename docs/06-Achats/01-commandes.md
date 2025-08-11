@@ -53,7 +53,7 @@ Ajoutez une note au besoin, dans le bas de la fenêtre de commande. Elle se retr
 
 ![](../../static/img/Commandes_10.png)
 
-À noter que vous pouvez également créer une ligne de commande en vous trouvant dans la fenêtre d'un produit (donc après un clic sur une ligne de commande).
+À noter que vous pouvez également créer une ligne de commande en vous trouvant dans la fenêtre d'édition des lignes de commandes.
 
 ![](../../static/img/Commandes_13.png)
 

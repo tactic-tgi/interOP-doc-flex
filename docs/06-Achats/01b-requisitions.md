@@ -40,7 +40,7 @@ Par le tri, si vous décidez de visualiser les réquisitions qui ont été trait
 
 En cliquant sur la ligne, vous pouvez voir le détail de la commande.
 
-Si votre magasiner a réceptionné le matériel, donc qu'il a [coché la case "Complet"](../06-Achats/01-commandes.md#compléter-une-commande) dans la ligne de commande, le statut deviendra **Reçu**. Utiliser le filtre pour les visualiser. 
+Si votre magasinier a réceptionné le matériel, donc qu'il a [coché la case "Complet"](../06-Achats/01-commandes.md#compléter-une-commande) dans la ligne de commande, le statut deviendra **Reçu**. Utiliser le filtre pour les visualiser. 
 
 ![](../../static/img/Requisition_05.png)
 

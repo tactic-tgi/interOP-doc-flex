@@ -52,7 +52,7 @@ Cliquez sur **Créer un produit**, en haut à droite du mode liste.
     
     les catégories sont définies dans vos [standards.](../09-Paramètres/03-standards.md#catégories)
 
-    Par exemple ici, après avoir sélectionné le type Papier, nous avons plusiuers catégories de ce type et il suffit d'en choisir une pour poursuivre la création.
+    Par exemple ici, après avoir sélectionné le type Papier, nous avons plusieurs catégories de ce type et il suffit d'en choisir une pour poursuivre la création.
 
     ![](../../static/img/Produits_10.png)
 

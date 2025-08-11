@@ -72,7 +72,7 @@ Pour apporter des modifications à un punch, vous référez au rapport [suivant.
 
 ### Mes Opérations
 
-Permet de comptabiliser le temps passer sur des opérations reliées à un dossier de production.
+Permet de comptabiliser le temps passé sur des opérations reliées à un dossier de production.
 
 Il est possible de repartir le chronomètre d'une opération, non terminée, réalisée plus tôt dans la journée ; cliquez sur le bouton démarrer. Le total se cumulera.
 
@@ -136,7 +136,7 @@ Cliquez sur le **crayon** au bout de la ligne d'opération.
 
 *   Éditer
     
-    Vous pouvez apporter des changments aux [champs éditables](../03-Fonctionnalités%20générales/04-champs.md#champs-éditables) et/ou ajouter une note.
+    Vous pouvez apporter des changements aux [champs éditables](../03-Fonctionnalités%20générales/04-champs.md#champs-éditables) et/ou ajouter une note.
     
     **Enregistrer**
     
@@ -157,7 +157,7 @@ Cliquez sur le **crayon** au bout de la ligne d'opération.
 
 ### Mes tâches connexes
 
-Permet de comptabiliser le temps passer sur des tâches connexes.
+Permet de comptabiliser le temps passé sur des tâches connexes.
 
 Ces tâches ne sont pas rattachées à un dossier de production.
 

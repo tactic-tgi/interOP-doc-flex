@@ -27,7 +27,10 @@ En mode Liste, on retrouve l'étoile bleue à l'extrémité de chaque ligne.
 
 ### Fiche annulée
 
-Son statut changera pour Annulée. Par défaut, les enregistrements annulés ne sont pas visibles dans les listes, à moins de cocher la case dans votre filtre. 
+Son statut changera pour Annulée. 
+
+Par défaut, les enregistrements annulés ne sont pas visibles dans les listes, à moins de cocher la case dans votre filtre. 
+
 ![](../../static/img/Divers_annulee_02.png)
 
 **En mode liste** : la ligne sera grisée

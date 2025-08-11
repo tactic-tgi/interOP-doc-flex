@@ -18,7 +18,7 @@
 
 2- Cliquez pour faire afficher l'historique de navigation.
 
-Il contient les 10 derniers enregistrements officiels visités (tables principales de module).
+Il contient les 20 derniers enregistrements officiels visités (tables principales de module).
 
 Il permet de retourner rapidement au dernier travail effectué.
 

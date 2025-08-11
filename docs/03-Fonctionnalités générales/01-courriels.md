@@ -14,7 +14,7 @@ De plus, comme l'information est centralisé, il vous sera facile de retrouver v
 
 ### Envoi de formulaire par courriel
 
-Par défaut, les champs suivants seront remplis mais demeurent éditables :
+Par défaut, les champs suivants seront remplis, mais demeurent éditables :
 
 - Expéditeur
 - Destinataire

@@ -100,12 +100,17 @@ Le message au bas de la facture provient de vos [paramètres Système](../09-Par
 
 ![](../../static/img/Facturation_11.png)
 
+### Responsable facturation
+
+Responsable de la facturation : Veuillez vous référer à la fiche [Clients](../04-Contacts/clients.md#consulter-modifier-ou-supprimer-un-contact) pour voir votre contact de Facturation par défaut.
+
+À noter qu'on ne peut avoir qu'un seul responsable facturation, mais on peut avoir autant de contact que l'on veut qui sont cochés "Facturation - Envoi courriel", un peu comme un utilisateur en CC dans un courriel.
+
+Par défaut, le responsable de la facturation sera dans l'envoi courriel ainsi que tous ceux cochés dans "Envoi courriel". Si on ne coche aucun contact dans "Envoi courriel", le responsable de la facturation va quand même recevoir la facture.
+
+
+### Ajouter une ligne de facture
   
-
-#### Ajouter une ligne de facture
-
-  
-
 Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
 ![](../../static/img/Facturation_12.png)

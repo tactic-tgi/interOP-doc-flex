@@ -44,7 +44,7 @@ Le dernier onglet permet de consigner différentes [notes](../03-Fonctionnalité
      ![](../../static/img/Clients_5.png)
      **Abonnement requis** pour cette [fonction](../03-Fonctionnalités%20générales/07-rechercheadresse.md)
      Adresse à compléter ici ⤵️ ![](../../static/img/Clients_6_google.png)
-     - **Renseignement additionnels**
+     - **Informations additionnelles**
        Identification expéditeur sur le bon d'expédition et les étiquettes.
        **Standard** ➝ Logo & coordonnées de votre entreprise.
        **Client** ➝ Logo de votre client à ajouter.
@@ -62,7 +62,10 @@ Le dernier onglet permet de consigner différentes [notes](../03-Fonctionnalité
 Icônes possibles à côté de chaque contact :
 
 - Étoile ➝ Contact par défaut
-- Calculatrice ➝ Responsable de la facturation ( possibilité d'un seul par client)
+- Calculatrice ➝ Responsable de la facturation : À noter qu'on ne peut avoir qu'un seul responsable facturation, mais on peut avoir autant de contact que l'on veut qui sont cochés "Facturation - Envoi courriel", un peu comme un utilisateur en CC dans un courriel.
+
+  Par défaut, le responsable de la facturation sera dans l'envoi courriel ainsi que tous ceux cochés dans "Envoi courriel". Si on ne coche aucun contact dans "Envoi courriel", le responsable de la facturation va quand même recevoir la facture.
+
 - Rond vert ➝ Identifie que le contact est synchronisé avec Hubspot
 
 Contact **Actif** : en couleur
@@ -130,7 +133,7 @@ Icônes possibles à côté d'une adresse :
 
 - Consulter
 
-  - cliquez sur le nom de l'entreprise d'une des adresses pour afficher sa fiche
+  - cliquez sur une des adresses pour afficher sa fiche
   - cliquez sur Enregistrer pour fermer la fenêtre
 
 - Modifier

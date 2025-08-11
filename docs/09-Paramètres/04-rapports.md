@@ -108,13 +108,11 @@ Les filtres permettent de générer le rapport.
 
   
 
-Résultat du rapport pour l'année 2024 ⤵️
+Résultat du rapport pour une semaine de 2025 ⤵️
 
-![](../../static/img/Rapport_10.png)
+![](../../static/img/Rapports_Paie_05.png)
 
-`si une note est inscrite dans le détail du punch sous Notes, ce logo sera visible`
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/3f475957-163a-41d6-ad85-d46ea0776539/image.png)
+***********Si une note est inscrite dans le détail du punch sous Notes, ce logo sera visible : ![](../../static/img/Soumissions_Notes02.png)******************** NE SEMBLE PLUS LÀ ??????
 
   
   
@@ -128,8 +126,9 @@ Pour modifier un punch, cliquez directement sur la ligne correspondante.
 Tous les champs affichés à l’écran sont modifiables.
 
 Cette fenêtre permet également de supprimer un enregistrement, au besoin.
+Par exemple : l'employé a oublié de terminer sa journée, vous pouvez l'éditer facilement ici : 
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/850c8857-8ef2-417b-bbab-7efc8d6e3295/Screenshot%202025-04-21%20at%204.20.56%E2%80%AFPM.png)
+![](../../static/img/Rapports_Paie_01.png)
 
   
 
@@ -137,19 +136,19 @@ Cette fenêtre permet également de supprimer un enregistrement, au besoin.
 
 Cliquez sur le bouton **Créer un temps.**
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/38169489-870f-4b1b-9a95-53a2003740ef/Screenshot%202025-04-21%20at%204.26.09%E2%80%AFPM.png)
+![](../../static/img/Rapports_Paie_02.png)
 
   
 
 Sélectionnez un utilisateur.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/f9984e3f-2d09-4902-b570-f1367aed8aae/Screenshot%202025-04-21%20at%204.24.30%E2%80%AFPM.png)
+![](../../static/img/Rapports_Paie_03.png)
 
   
 
 Remplir les informations à l'écran et cliquez sur **Enregistrer.**
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/3d9faf65-f3d6-436d-8df3-fa3a8ee1ba6f/Screenshot%202025-04-21%20at%204.24.47%E2%80%AFPM.png)
+![](../../static/img/Rapports_Paie_04.png)
 
   
 
@@ -161,4 +160,4 @@ Ouverture du rapport sur la semaine en cours pour tous les employés.
 
 Il vous est possible de naviguer d'une semaine à l'autre en utilisant les **flèches** ou de choisir une date précise, en cliquant sur le rectangle entre les 2 flèches, pour afficher sa semaine.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/9a2101ac-9267-45e6-b7b0-cdfdfc010957/Screenshot%202024-11-12%20at%202.32.02%E2%80%AFPM.png)
+![](../../static/img/Rapports_Paie_06.gif)

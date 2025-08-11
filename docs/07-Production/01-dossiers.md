@@ -236,7 +236,7 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 
 ## Détails du projet
 
- Cet onglet représentente le détail du travail à faire. Généralement, il provient de la soumission lié.
+ Cet onglet représente le détail du travail à faire. Généralement, il provient de la soumission lié.
 
 **Il est important de mentionner que tous changements apportés à un dossier de production ne change pas la soumission liée et vice versa.**
 

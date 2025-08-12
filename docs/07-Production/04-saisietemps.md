@@ -64,8 +64,7 @@ Cliquez sur **Débuter** pour commencer un punch et sur le **chronomètre rouge*
 
   
 
-Pour apporter des modifications à un punch, vous référez au rapport [suivant.](../11-Rapports/05-rapports.md#paie---détail)
-
+Pour apporter des modifications à un punch, vous référez au rapport [suivant.](../09-Paramètres/05-rapports.md#paie---détail)
   
 
 * * *

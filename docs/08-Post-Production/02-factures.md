@@ -48,7 +48,7 @@ Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#f
 - Cliquez sur **Créer une facture** en haut à droite de la liste.
 
 
-*   Depuis un dossier
+### Depuis un dossier
     
     Sélectionnez un dossier à facturer. Vous pouvez utiliser le filtre pour isoler un client ou trouver un dossier facilement. 
     
@@ -73,7 +73,7 @@ Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#f
     ![](../../static/img/Facturation_06.png)
          
     
-*   Nouvelle facture
+### Nouvelle facture (vide, à partir d'un client)
     
     Sélectionner un client.
 
@@ -94,12 +94,6 @@ Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#f
       
     
 
-  
-
-Le message au bas de la facture provient de vos [paramètres Système](../09-Paramètres/02-parametres.md#messages-sur-formulaires).
-
-![](../../static/img/Facturation_11.png)
-
 ### Responsable facturation
 
 Responsable de la facturation : Veuillez vous référer à la fiche [Clients](../04-Contacts/clients.md#consulter-modifier-ou-supprimer-un-contact) pour voir votre contact de Facturation par défaut.
@@ -109,52 +103,69 @@ Responsable de la facturation : Veuillez vous référer à la fiche [Clients](..
 Par défaut, le responsable de la facturation sera dans l'envoi courriel ainsi que tous ceux cochés dans "Envoi courriel". Si on ne coche aucun contact dans "Envoi courriel", le responsable de la facturation va quand même recevoir la facture.
 
 
-### Ajouter une ligne de facture
+## Ajouter une ligne de facture
   
-Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
+Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png) et choisir l'option désirée. 
+
+Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des flèches se situant à droite du portail. 
 
 ![](../../static/img/Facturation_12.png)
 
-  
 
-*   Depuis un dossier
+
+
+### Depuis un dossier
     
-    Sélectionnez un dossier.![](https://t9017115504.p.clickup-attachments.com/t9017115504/5bae8caa-5a95-4b56-bbf2-7dca87a97d9f/image.png)
+    Sélectionnez un dossier : certaines informations seront recopiées automatiquement, comme la description et le numéro de commande. 
+
+    ![](../../static/img/Facturation_15.png)
+         
     
-      
+    Remplir la quantité et tout autre information manquante.
+    Cliquez sur Enregistrer et la ligne sera ajoutée. 
     
-    Remplir les informations manquantes.
-    
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/1611f3d8-dd9f-44f2-8aa7-200f52496d26/image.png)
-    
-      
-    
-*   Depuis un produit
-*   Depuis un GL
-    
-    Sélectionnez un compte GL.
-    
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/fb08c946-8b07-4493-be99-a8e52b198f5e/image.png)
-    
-    Une ligne contenant le [compte GL](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17497?block=block-cb1b9623-cfa7-487d-bf66-f39a75749123) va se créer.
-    
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/2d27ff90-2731-4f67-8337-2a5f220536dd/image.png)
-    
-    Remplir les informations.![](https://t9017115504.p.clickup-attachments.com/t9017115504/61c09a16-40d5-486c-8298-0b8998e819a9/image.png)
+    ![](../../static/img/Facturation_16.png)
     
       
     
-*   Ligne de texte
+### Depuis un produit
+    
+    Sélectionnez un produit et remplir les informations manquantes ( quantité, prix, compte GL) et cliquez sur Enregistrer.
+    
+![](../../static/img/Facturation_18.png)
+
+    Une ligne va se créer.
+    Pour éditer vos produits standards facturation, veuillez consulter la section [Paramètres](../09-Paramètres/02-parametres.md#produits-standards-facturation).
+
+
+
+### Depuis un GL
+    
+    Sélectionnez un compte GL et remplir les informations (description, quantité, prix) et cliquez sur Enregistrer.
+    
+![](../../static/img/Facturation_17.png)
+
+    Une ligne contenant le compte GL va se créer.
+    Pour éditer vos comptes GL, veuillez consulter la section [Paramètres](../09-Paramètres/02-parametres.md#comptes-gl).
+    
+    
+      
+    
+### Ligne de texte
     
     Une ligne vierge va se créer.
     
-    Remplir les informations.
+    Remplir les informations (description, quantité et prix), puis Enregistrer.
+    Vous pouvez ajouter d'autres lignes de texte directement dans cette fenêtre, en cliquant sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/23058ae6-95a8-4b91-b2f1-4d7231e86cb1/image.png)
+    ![](../../static/img/Facturation_14.png)
     
       
+## Messages
 
-  
+  Le message au bas de la facture provient de vos [paramètres Système](../09-Paramètres/02-parametres.md#messages-sur-formulaires).
+
+![](../../static/img/Facturation_11.png)
 
 * * *
 
@@ -165,8 +176,7 @@ Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
 #### En mode consultation
 
-*   Produire facture finale
-        la facture proforma sera convertie en facture finale et transmise à votre logiciel comptable par l'API.
+*   Produire facture finale : la facture proforma sera convertie en facture finale et transmise à votre logiciel comptable par l'API.
 
 *   Visualiser
   

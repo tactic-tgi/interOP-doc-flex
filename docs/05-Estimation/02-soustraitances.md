@@ -46,7 +46,7 @@ Ce statut changera pour **Envoyée** lorsqu'elle sera envoyé par courriel à un
 ![](../../static/img/Soustraitances_13.png)
 ![](../../static/img/Soustraitances_05.png)
 
-5\. Ajoutez une [note](../03-Fonctionnalités%20générales/06-notes.md#notes-actions) et au besoin, les fichiers fournis par ce fournisseur (estimé, dessin technique, etc.) et **Enregistrer.**
+5\. Ajoutez une note et au besoin, les fichiers fournis par ce fournisseur (estimé, dessin technique, etc.) et **Enregistrer.**
 
 ![](../../static/img/Soustraitances_06.png)
 

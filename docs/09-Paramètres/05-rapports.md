@@ -112,12 +112,9 @@ Résultat du rapport pour une semaine de 2025 ⤵️
 
 ![](../../static/img/Rapports_Paie_05.png)
 
-***********Si une note est inscrite dans le détail du punch sous Notes, ce logo sera visible : ![](../../static/img/Soumissions_Notes02.png)******************** NE SEMBLE PLUS LÀ ??????
 
   
-  
-
-#### Modification/Suppression d'un punch
+  #### Modification/Suppression d'un punch
 
   
 

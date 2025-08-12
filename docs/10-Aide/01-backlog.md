@@ -31,7 +31,8 @@ N'hésitez pas à joindre des fichiers ou images qui pourraient nous aider à co
 
 ![](../../static/img/Aide_Backlog_2.png)
 
-  
+**Important : à ce point-ci, la demande n'est pas encore officiellement dans notre système de traitement de tâches. 
+Il faut donc poursuivre avec la procédure suivante pour vous assurer que nous recevrons bien votre demande !**  
 
 Lorsque la demande est complétée, via le portail, cliquez sur le menu des trois petits points au bout de la ligne. 
 Choisissez entre demander de faire la tâche (sans évaluation) ou si vous préférez avoir une évaluation avant qu'on procède.

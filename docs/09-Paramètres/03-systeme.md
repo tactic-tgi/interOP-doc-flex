@@ -1,4 +1,4 @@
-# Paramètres Système
+# Système
 
 * * *
 
@@ -183,7 +183,7 @@ Inscrivez la liste de vos comptes GL (Revenus et Dépenses)
   
   
 
-### Produits standards facturation
+### Produits standards à facturer
 
 Section à compléter si vous travaillez avec des produits dans votre système comptable.
 

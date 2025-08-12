@@ -197,17 +197,21 @@ Connectez-vous a interOP, sur l'ordinateur partagée, avec les accès d'une stat
 
 **Exemple : Prépresse**
 
-Nom de compte Filemaker = Prépresse
+Nom de compte Filemaker = prepresseA
 
-Mot de passe = Prépresse
+Mot de passe = prepresseA_motdepasse
 
   
 
-*   **Connexion** [**sécurisée**](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17457?block=block-6274356c-53bb-423d-9018-7549bf8a1be1)
+*   **Connexion sécurisée**
     
-    Dans l'interface d'accueil de Saisie de temps, l'employé doit y inscrire son nip personnel.
+    Dans l'interface d'accueil de Saisie de temps, l'employé doit y inscrire son nip personnel et appuyer sur le crochet. 
     
-    Il sera automatiquement dirigé vers sa fiche de [paie](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17457?block=block-96465d1f-c1bd-4ddd-a15d-fe12d2fc476d).![](https://t9017115504.p.clickup-attachments.com/t9017115504/a669d1ab-26ec-444f-89f5-381b980d4f46/image.png)
+    Il sera automatiquement dirigé vers son interface de paie.
+
+    ![](../../static/img/saisie_station_10.png)
+
+
     
       
     
@@ -215,16 +219,16 @@ Mot de passe = Prépresse
     
     Dans l'interface d'accueil de Saisie de temps, tous les employés assignés à cette station seront visible à droite de l'écran.
     
-    L'employé clique sur son nom pour avoir accès à sa fiche de [paie](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17457?block=block-96465d1f-c1bd-4ddd-a15d-fe12d2fc476d).
+    L'employé clique sur son nom pour avoir accès son interface de paie.
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/fb214130-cb72-4038-b663-7e3b3927f48c/image.png)
+    ![](../../static/img/saisie_station_14.png)
     
       
     
 
-Pour revenir à l'écran d'accueil, cliquez sur le bouton encadré en rouge dans la capture écran.
+Pour revenir à l'écran d'accueil, cliquez sur la flèche en haut à gauche.
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/7266982a-ff56-4d3b-bb5a-509b0e462fb2/Screenshot%202024-11-29%20at%202.17.06%E2%80%AFPM.png)
+![](../../static/img/saisie_station_11.png)
 
   
   
@@ -233,48 +237,55 @@ Pour revenir à l'écran d'accueil, cliquez sur le bouton encadré en rouge dans
 
 Une station permet à plusieurs employés de se puncher sur un ordinateur commun.
 
-Il est donc possible de créer 1 station par département.
-
+Il est donc possible de créer 1 station par département ou par équipement.
 Exemple : presse, reliure, expédition etc.
 
   
 
-Pour accéder aux stations, cliquez sur **Stations.**
+Pour accéder aux stations, cliquez sur **Stations** dans le [menu latéral](../03-Fonctionnalités%20générales/05-menus.md#menu-latéral).
 
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/afee919e-9524-4a14-9ad4-2aa614e3dc18/Screenshot%202024-11-29%20at%209.28.46%E2%80%AFAM.png)
+![](../../static/img/saisie_station_12.png)
 
   
   
 
 #### Créer une nouvelle station
 
-Cliquez sur **+** **Ajouter.**
+Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png).
 
-Remplir chacun des onglets.
-
-Cliquez sur **Enregistrer.**
-
-![](https://t9017115504.p.clickup-attachments.com/t9017115504/f412334a-7a70-4166-8c95-0b5346f394f6/Screenshot%202024-11-29%20at%209.31.33%E2%80%AFAM.png)
+Remplir chacun des onglets :
 
 *   **INFORMATIONS**
     
     Remplir les informations.
     
     Le nom de la station est seulement un nom d'affichage tandis que le nom de compte Filemaker sera le nom d'utilisateur à utiliser pour se connecter à interOP sur la station.
-    
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/2e33abb7-d97b-4fc0-90cc-c4c46ce725ef/image.png)
+
+   
+    ![](../../static/img/saisie_station_07.png)
     
       
     
     Créer l'accès à interOP et confirmez un mot de passe.
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/1a5eb52b-92f4-4274-b67d-0bf46908149b/image.png)
+    ![](../../static/img/saisie_station_04.png)
+    ![](../../static/img/saisie_station_05.png)
     
       
     
-    Pour [sécuriser](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17457?block=block-27b28a40-8f11-42d7-b94f-c53e118058b1) l'accès des employés, cochez la case suivante.![](https://t9017115504.p.clickup-attachments.com/t9017115504/6668e5ef-9bb0-4ce9-92a6-98f2dbc74a8e/image.png)
+    Pour **sécuriser** l'accès des employés, cochez la case suivante.
+    Un nip personnel devra être confirmé dans l'onglet **Utilisateurs**.
+
+    ![](../../static/img/saisie_station_15.png)
+
+    Également, vous pouvez choisir un délai **(temps d'inaction)** avant que l'utilisateur ne soit sortie de son interface. Cela permet à l'utilisateur de ne pas bloquer la session s'il quitte pour travailler. Généralement, nous conseillons de mettre 60 ou 120 sec maximum.
+
+    Si l'utilisateur fait une action comme partir un temps ou éditer un punch, le chronomètre va se réinitialiser et il aura de nouveau 60 ou 120 secondes pour procéder à une autre action, avant d'être sorti par le système. 
+
+    Une fois dans son interface de paie, il verra un petit sablier s'écouler. 
+
+    ![](../../static/img/saisie_station_13.png)
     
-    Une nip personnel devra être confirmé dans l'onglet **Utilisateurs**
     
       
     
@@ -282,19 +293,21 @@ Cliquez sur **Enregistrer.**
     
     Attribuez des utilisateurs à cette station.
     
-    Les utilisateurs doivent être existant dans la liste des [utilisateurs](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17517?block=block-990c47aa-6266-4c7b-9444-f6d583a70e0e).
+    Les utilisateurs doivent être existant dans la liste des [utilisateurs](../09-Paramètres/02-utilisateurs.md).
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/ee992e22-2c83-446a-9bfc-1e647e613ed8/image.png)
+    ![](../../static/img/saisie_station_02.png)
     
       
     
-    Si l'accès a été préalablement [sécurisé](https://app.clickup.com/9017115504/v/dc/8cqcgvg-21377/8cqcgvg-17457?block=block-6274356c-53bb-423d-9018-7549bf8a1be1) dans l'onglet **Informations**, définir un nip personnel à chaque utilisateur. Ce nip lui permettra de se connecter à sa fiche de paie.![](https://t9017115504.p.clickup-attachments.com/t9017115504/30cdf4f5-f8ab-4dcd-af65-4ebd1a4fc63d/image.png)
+    Si l'accès a été préalablement sécurisé dans l'onglet **Informations**, définir un nip personnel à chaque utilisateur. Ce nip lui permettra de se connecter à sa fiche de paie.
+    
+    ![](../../static/img/saisie_station_08.png)
     
 *   **TÂCHES**
     
     Attribuez des tâches à la station.
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/aedf114d-d35d-4faf-8f9f-6f4b65213397/image.png)
+    ![](../../static/img/saisie_station_03.png)
     
       
     
@@ -302,7 +315,7 @@ Cliquez sur **Enregistrer.**
     
     Attribuez des équipements à la station.
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/739c25b8-b8d4-4b9a-8bb7-c0fd029046d7/image.png)
+    ![](../../static/img/saisie_station_16.png)
     
       
     
@@ -310,7 +323,7 @@ Cliquez sur **Enregistrer.**
     
     Attribuez des opérations à la station.
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/cfebe908-fdf4-4d18-8427-74f8f5996e22/image.png)
+    ![](../../static/img/saisie_station_17.png)
     
       
     
@@ -319,9 +332,10 @@ Cliquez sur **Enregistrer.**
 
 #### Actions diverses
 
+*   Modifier le mot de passe (de la station)
 *   Supprimer
-*   Changer le mot de passe de la station
 
+![](../../static/img/saisie_station_09.png)
   
 
 * * *

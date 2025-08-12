@@ -72,7 +72,7 @@ Il est aussi possible de créer votre dossier à partir du [mode liste](../03-Fo
     
     Sélectionnez une quantité.
     
-    ![](https://t9017115504.p.clickup-attachments.com/t9017115504/11234b77-1080-4c68-8c3b-8280c70b98fa/image.png)
+    ![](../../static/img/Dossiers_31.png)
     
       
     

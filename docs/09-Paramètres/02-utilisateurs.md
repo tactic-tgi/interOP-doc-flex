@@ -77,7 +77,7 @@ Ajoutez une signature courriel lors d'envoie de courriel en texte ou en html.
 
   
 
-#### Modifier un utilisateur ou ces accès
+#### Modifier un utilisateur ou ses accès
 
 À moins d'un changement de nom de compte Filemaker (où à ce moment, une désactivation du compte est requise), simplement modifier les informations directement dans la fiche de l'utilisateur.
 
@@ -87,7 +87,7 @@ Aucun enregistrement n'est nécessaire.
 
 #### Suppression
 
-Utilisez le bouton rouge **Supprimer l'accès à interOP** dans la fiche du client pour lui enlever l'accès.
+Utilisez le bouton rouge **Supprimer l'accès à interOP** dans la fiche de l'utilisateur pour lui enlever l'accès.
 
   
 

@@ -23,7 +23,7 @@ En mode Liste, on retrouve l'étoile bleue à l'extrémité de chaque ligne.
 
 ![](../../static/img/Divers_favoris_01.png)
 
-À noter que tous vos favoris se retrouveront dans le module [Mes Préférences](../09-Paramètres/01a-preferences.md), dans la Gestion des enregistrements, où vous pourrez facilement y retourner en cliquant sur celui-ci. 
+À noter que tous vos favoris se retrouveront dans le module [Mes Préférences](../09-Paramètres/01-preferences.md), dans la Gestion des enregistrements, où vous pourrez facilement y retourner en cliquant sur celui-ci. 
 
 ### Fiche annulée
 

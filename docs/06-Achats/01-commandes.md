@@ -57,7 +57,7 @@ Ajoutez une note au besoin, dans le bas de la fenêtre de commande. Elle se retr
 
 ![](../../static/img/Commandes_13.png)
 
-### [Réquisitions](../06-Achats/01b-requisitions.md)
+### [Réquisitions](../06-Achats/02-requisitions.md)
 
 Onglet **Lignes de commande**
 

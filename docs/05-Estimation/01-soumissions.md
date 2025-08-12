@@ -34,7 +34,7 @@ En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mod
 
 ---
 
-N'oubliez pas que tous les temps, coûts etc. proviennent de vos [Standards](../09-Paramètres/03-standards.md).
+N'oubliez pas que tous les temps, coûts etc. proviennent de vos [Standards](../09-Paramètres/04-standards.md).
 
 ### Créer une soumission
 
@@ -421,8 +421,8 @@ La partie du bas permet de faire des modification, cliquez dessus pour y accéde
 
 - Modifications
 
-  - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../09-Paramètres/03-standards.md#majoration-valeurs-par-défaut-et-réquisitions), mais peuvent aussi être propre à un client.
-  - Commission peut être définit par défaut dans les [standards](../09-Paramètres/03-standards.md#majoration-valeurs-par-défaut-et-réquisitions), mais peut aussi être propre à un [représentant](../09-Paramètres/01b-utilisateurs.md#création-dutilisateur).
+  - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../09-Paramètres/04-standards.md#majoration-valeurs-par-défaut-et-réquisitions), mais peuvent aussi être propre à un client.
+  - Commission peut être définit par défaut dans les [standards](../09-Paramètres/04-standards.md#majoration-valeurs-par-défaut-et-réquisitions), mais peut aussi être propre à un [représentant](../09-Paramètres/02-utilisateurs.md#création-dutilisateur).
     ![](../../static/img/Soumissions_55.png)
 
 

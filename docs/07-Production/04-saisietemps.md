@@ -21,7 +21,7 @@ Un mode d’affichage additionnel par station permet également à plusieurs emp
 
 #### Attributions
 
-Les opérations et tâches connexes visibles proviennent des [attributions définies dans la fiche](../09-Paramètres/01b-utilisateurs.md#actions-diverses) de l'utilisateur.
+Les opérations et tâches connexes visibles proviennent des [attributions définies dans la fiche](../09-Paramètres/02-utilisateurs.md#actions-diverses) de l'utilisateur.
 
 *   Pour y accéder
     

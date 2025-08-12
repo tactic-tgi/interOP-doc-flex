@@ -6,7 +6,7 @@
 
 Tous les envois de courriel passe par ce module-ci.
 
-Les [modèles de courriels](../09-Paramètres/02-parametres.md#textes--modèles-de-courriels) déjà remplit dans vos paramètres système vous ferons sauver du temps.
+Les [modèles de courriels](../09-Paramètres/02-utilisateurs.md#textes--modèles-de-courriels) déjà remplit dans vos paramètres système vous ferons sauver du temps.
 
 De plus, comme l'information est centralisé, il vous sera facile de retrouver vos communications et d'y visionner l'historique.
 

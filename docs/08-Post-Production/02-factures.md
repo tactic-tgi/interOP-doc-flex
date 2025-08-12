@@ -135,7 +135,7 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
 ![](../../static/img/Facturation_18.png)
 
     Une ligne va se créer.
-    Pour éditer vos produits standards facturation, veuillez consulter la section [Paramètres](../09-Paramètres/02-parametres.md#produits-standards-facturation).
+    Pour éditer vos produits standards facturation, veuillez consulter la section [Paramètres](../09-Paramètres/03-systeme.md#produits-standards-facturation).
 
 
 
@@ -146,7 +146,7 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
 ![](../../static/img/Facturation_17.png)
 
     Une ligne contenant le compte GL va se créer.
-    Pour éditer vos comptes GL, veuillez consulter la section [Paramètres](../09-Paramètres/02-parametres.md#comptes-gl).
+    Pour éditer vos comptes GL, veuillez consulter la section [Paramètres](../09-Paramètres/03-systeme.md#comptes-gl).
     
     
       
@@ -163,7 +163,7 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
       
 ## Messages
 
-  Le message au bas de la facture provient de vos [paramètres Système](../09-Paramètres/02-parametres.md#messages-sur-formulaires).
+  Le message au bas de la facture provient de vos [paramètres Système](../09-Paramètres/03-systeme.md#messages-sur-formulaires).
 
 ![](../../static/img/Facturation_11.png)
 

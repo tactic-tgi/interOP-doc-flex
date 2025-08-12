@@ -46,7 +46,7 @@ Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#f
 
     ![](../../static/img/Expedition_17.png)
     
-    \*À noter que le message au bas provient de vos [paramètres Système](../09-Paramètres/02-parametres.md#messages-sur-formulaires).
+    \*À noter que le message au bas provient de vos [paramètres Système](../09-Paramètres/03-systeme.md#messages-sur-formulaires).
 
     ![](../../static/img/Expedition_18.png)
     
@@ -66,7 +66,7 @@ Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#f
     
     ![](../../static/img/Expedition_03.png)
     
-    \*Le message au bas provient de vos [paramètres Système](../09-Paramètres/02-parametres.md#messages-sur-formulaires).
+    \*Le message au bas provient de vos [paramètres Système](../09-Paramètres/03-systeme.md#messages-sur-formulaires).
     
       
     

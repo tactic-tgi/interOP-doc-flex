@@ -56,7 +56,7 @@ Attention toutefois : une réquisition annulée ne pourra pas être réutilisée
 
 ## Comment paramétrer ce qui sera créer comme une réquisition ?
 
-Vous avez un grand contrôle sur ce que vous voulez ou non qui soit créé comme une réquisition. Pour se faire, il suffit de vous rendre dans les [standards](../09-Paramètres/03-standards.md#réquisitions) et de cocher les cases pertinentes à vos processus de commandes. 
+Vous avez un grand contrôle sur ce que vous voulez ou non qui soit créé comme une réquisition. Pour se faire, il suffit de vous rendre dans les [standards](../09-Paramètres/04-standards.md#réquisitions) et de cocher les cases pertinentes à vos processus de commandes. 
 
 Vous avez également le contrôle à automatiser la création des réquisitions dès le lancement du dossier, ou bien vous pouvez décider de le faire manuellement depuis le module Dossiers.
 

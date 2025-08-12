@@ -260,7 +260,7 @@ Pour toutes les informations relatives au fonctionnement des divers blocs prése
 Vous trouverez l'ensemble des **réquisitions d'achat** du dossier.
 
 Le crochet indique si le produit a été commandé.
-Consulter cette [section](../06-Achats/01b-requisitions.md) pour en apprendre d'avantage.
+Consulter cette [section](../06-Achats/02-requisitions.md) pour en apprendre d'avantage.
 
 ![](../../static/img/Dossiers_14.png)
 
@@ -285,7 +285,7 @@ Vous pouvez aussi, par ce menu, compléter toutes les opérations en un seul cli
 
 Pour valider vos coûtants, vos vendants et votre marge de profit, l'outil Prix de revient est essentiel. Le report de tous les coûts se retrouvent à cet endroit. Vous pourrez les valider, les ajuster et confirmer que le travail a été profitable pour vous !
 
-Le dossier doit être lancé en production et vous devez avoir les [accès nécessaires](../09-Paramètres/01b-utilisateurs.md#accès--privilèges-aux-modules) pour consulter le prix de revient.
+Le dossier doit être lancé en production et vous devez avoir les [accès nécessaires](../09-Paramètres/02-utilisateurs.md#accès--privilèges-aux-modules) pour consulter le prix de revient.
 
 
 ![](../../static/img/Dossier_Prixderevient.png)
@@ -321,7 +321,7 @@ Une poubelle apparaitra au bout des lignes ajoutées manuellement, pour vous per
     ![](../../static/img/Dossiers_29.png)
     
 *   Mettre les réquisitions à jour
-        Voir explication dans le module [**Réquisition**](../06-Achats/01b-requisitions.md#mettre-à-jour-les-réquisitions)
+        Voir explication dans le module [**Réquisition**](../06-Achats/02-requisitions.md#mettre-à-jour-les-réquisitions)
 
 *   Ouvrir prix de revient
     

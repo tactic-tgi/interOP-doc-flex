@@ -50,7 +50,7 @@ Cliquez sur **Créer un produit**, en haut à droite du mode liste.
     
 *   Sélectionner une catégorie
     
-    les catégories sont définies dans vos [standards.](../09-Paramètres/03-standards.md#catégories)
+    les catégories sont définies dans vos [standards.](../09-Paramètres/04-standards.md#catégories)
 
     Par exemple ici, après avoir sélectionné le type Papier, nous avons plusieurs catégories de ce type et il suffit d'en choisir une pour poursuivre la création.
 
@@ -59,7 +59,7 @@ Cliquez sur **Créer un produit**, en haut à droite du mode liste.
 
    
 Finaliser l'entrée des données de votre produit, en lui donnant une description, un format, etc.
-Les couleurs et finis sont définis dans vos [standards.](../09-Paramètres/03-standards.md#couleurs-et-finis)
+Les couleurs et finis sont définis dans vos [standards.](../09-Paramètres/04-standards.md#couleurs-et-finis)
 
 Il est primordial que tous les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) soient remplis, car ils sont obligatoires.
 
@@ -150,7 +150,7 @@ Cliquez sur une ligne pour consulter la commande.
 
 À définir seulement si vous souhaitez un pourcentage fixe et différent du standard de base.
 
-Sinon, le pourcentage par défaut sera celui saisi dans vos [standards](../09-Paramètres/03-standards.md#majoration-valeurs-par-défaut-et-réquisitions), au moment de la soumission.
+Sinon, le pourcentage par défaut sera celui saisi dans vos [standards](../09-Paramètres/04-standards.md#majoration-valeurs-par-défaut-et-réquisitions), au moment de la soumission.
 
   
 
@@ -158,7 +158,7 @@ Sinon, le pourcentage par défaut sera celui saisi dans vos [standards](../09-Pa
 
 Permet de modifier le prix sur plusieurs produits en même temps ou individuellement.
 
-Consultez cette [section](../06-Achats/03-prixproduits.md) pour plus d'informations.
+Consultez cette [section](../06-Achats/04-prixproduits.md) pour plus d'informations.
 
   
   

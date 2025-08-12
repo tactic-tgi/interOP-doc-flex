@@ -7,7 +7,7 @@ Tous les rapports disponibles se retrouvent dans le [menu latéral](../03-Foncti
 
   
 
-Afin d'avoir accès aux différents rapports, vos [privilèges utilisateurs](../09-Paramètres/01b-utilisateurs.md#accès--privilèges-aux-modules) doivent vous le permettre.
+Afin d'avoir accès aux différents rapports, vos [privilèges utilisateurs](../09-Paramètres/02-utilisateurs.md#accès--privilèges-aux-modules) doivent vous le permettre.
 
 ![](../../static/img/Rapport_01.png)  
 

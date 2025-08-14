@@ -130,7 +130,7 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
     
 ### Depuis un produit
     
-    Sélectionnez un produit et remplir les informations manquantes ( quantité, prix, compte GL) et cliquez sur Enregistrer.
+    Sélectionnez un produit et remplir les informations manquantes (quantité, prix) et cliquez sur Enregistrer.
     
 ![](../../static/img/Facturation_18.png)
 

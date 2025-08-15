@@ -66,6 +66,12 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      metaData: [
+        {
+          name: 'algolia-site-verification/>',
+          content: '3F7F3BFC89718CE7',
+        },
+      ],
       navbar: {
         title: 'interOP',
         logo: {

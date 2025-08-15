@@ -44,7 +44,13 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
+          lastVersion: 'next',
           versions: {
+            next: {
+              banner: 'none',
+              badge: false,
+              path: '/',
+            },
             '2.0.0': {
               banner: 'none',
               badge: false,

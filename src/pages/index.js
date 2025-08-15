@@ -25,8 +25,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description='Description will go into a meta tag in <head />'
+      title={`Documentation ${siteConfig.title}`}
+      description="Guide d'utilisation pour le logiciel interOP"
     >
       <HomepageHeader />
       <main>
@@ -35,3 +35,4 @@ export default function Home() {
     </Layout>
   );
 }
+``;

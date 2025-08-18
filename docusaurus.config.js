@@ -44,7 +44,13 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
+          lastVersion: 'current',
           versions: {
+            current: {
+              banner: 'none',
+              badge: false,
+              path: '/',
+            },
             '2.0.0': {
               banner: 'none',
               badge: false,
@@ -60,6 +66,28 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      metaData: [
+        {
+          name: 'algolia-site-verification',
+          content: '3F7F3BFC89718CE7',
+        },
+      ],
+      algolia: {
+        appId: 'SLNZ985PPS',
+        apiKey: '43af1c8f93cc114f5452bd169c4c8eac',
+        indexName: 'interOP-flex',
+        contextualSearch: true,
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        externalUrlRegex: 'external\\.com|domain\\.com',
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        replaceSearchResultPathname: {
+          from: '/docs/', // or as RegExp: /\/docs\//
+          to: '/',
+        },
+        searchParameters: {},
+        searchPagePath: 'search',
+        insights: false,
+      },
       navbar: {
         title: 'interOP',
         logo: {

@@ -135,7 +135,7 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
 ![](../../static/img/Facturation_18.png)
 
     Une ligne va se créer.
-    Pour éditer vos produits standards facturation, veuillez consulter la section [Paramètres](../09-Paramètres/03-systeme.md#produits-standards-facturation).
+    Pour éditer vos produits standards facturation, veuillez consulter la section [Paramètres](../09-Paramètres/03-systeme.md#produits-standards-à-facturer).
 
 
 

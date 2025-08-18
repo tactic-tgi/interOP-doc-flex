@@ -51,10 +51,6 @@ const config = {
               badge: false,
               path: '/',
             },
-            '2.0.0': {
-              banner: 'none',
-              badge: false,
-            },
           },
         },
       }),

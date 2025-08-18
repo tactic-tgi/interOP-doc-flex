@@ -129,7 +129,7 @@ Définissez vos catégories de produits ( matières premières ou autres), les c
 ### Réquisitions
 
 ![](../../static/img/Parametres_Standards_13.png) 
-Voir explications dans module [Réquisitions](../06-Achats/02-requisitions.md#comment-paramétrer-ce-qui-sera-créer-comme-une-réquisition-?)
+Voir explications dans module [Réquisitions](../06-Achats/02-requisitions.md#comment-paramétrer-ce-qui-sera-créer-comme-une-réquisition)
   
 
 ### Opérations

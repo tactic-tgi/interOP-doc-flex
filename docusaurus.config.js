@@ -19,7 +19,9 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
+  customFields: {
+    logo: 'https://tactic-tgi.com/wp-content/uploads/2025/05/interop_logo.svg',
+  },
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Tactic-TGI', // Usually your GitHub org/user name.
@@ -53,6 +55,9 @@ const config = {
             },
           },
         },
+        /*theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },*/
       }),
     ],
   ],

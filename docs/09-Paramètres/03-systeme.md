@@ -14,19 +14,17 @@ Tout changement ici, sera reproduit ailleurs dans le logiciel.
 
 ![](../../static/img/Parametres_Systeme_1.png)
 
-###
-
 ---
 
-## Personnalisation du logiciel
+## Personnalisation du logiciel {#personnalisation}
 
-### Coordonnées
+### Coordonnées {#coordonnes}
 
 Inscrire vos coordonnées d'entreprise , ajouter vos logos et sélectionner le logo à utiliser dans les différents formulaires.
 
 ![](../../static/img/Parametres_Systeme_2.png)
 
-### Textes / Modèles de courriels
+### Textes / Modèles de courriels {#modeles}
 
 Gérez ici les différents textes/salutations qui apparaitront par défaut sur la proposition aux clients.
 
@@ -44,7 +42,7 @@ Utilisez les données variables admissibles pour les personnaliser.
 
 ![](../../static/img/Parametres_Systeme_3b.png)
 
-### Messages sur formulaires
+### Messages sur formulaires {#messages}
 
 Gérez ici les messages qui apparaitront par défaut sur les formulaires d'envois aux clients.
 
@@ -62,7 +60,7 @@ Ayez la latitude de modifier les termes qui apparaissent sur les différents for
 
 ![](../../static/img/Parametres_Systeme_5.png)
 
-### Numérotations et Valeurs par défauts
+### Numérotations et Valeurs par défauts {#numerotations}
 
 - Personnalisez la numérotation de vos différents formulaires.
 - Définir les valeurs par défaut de votre système.
@@ -70,7 +68,7 @@ Ayez la latitude de modifier les termes qui apparaissent sur les différents for
 ![](../../static/img/Parametres_Systeme_6.png)
 ![](../../static/img/Parametres_Systeme_7.png)
 
-### Listes de valeurs modifiables
+### Listes de valeurs modifiables {#listes-valeurs}
 
 Ces listes peuvent être modifiées. Elles apparaissent comme menu déroulant dans différents modules.
 
@@ -78,7 +76,7 @@ Ces listes peuvent être modifiées. Elles apparaissent comme menu déroulant da
 
 ####
 
-### Gestion des pays, provinces et devises
+### Gestion des pays, provinces et devises {#pays-provinces}
 
 Pour rendre **actif** un Pays, une Province ou une Devise cliquez sur le bouton au bout de la ligne.
 
@@ -86,7 +84,7 @@ Pour rendre **actif** un Pays, une Province ou une Devise cliquez sur le bouton 
 
 ---
 
-## Comptabilité
+## Comptabilité {#comptabilite}
 
 Cette section permet la configuration selon votre logiciel de comptabilité.
 
@@ -116,7 +114,7 @@ Dans cette section, déterminez les éléments suivants :
 
 ![](../../static/img/Parametres_Systeme_11.png)
 
-### Paiement & Crédit
+### Paiement & Crédit {#paiement}
 
 Dans cette section, déterminez les éléments suivants :
 
@@ -128,13 +126,13 @@ Dans cette section, déterminez les éléments suivants :
 
 ![](../../static/img/Parametres_Systeme_12.png)
 
-### Comptes GL
+### Comptes GL {#comptesgl}
 
 Inscrivez la liste de vos comptes GL (Revenus et Dépenses)
 
 ![](../../static/img/Parametres_Systeme_13.png)
 
-### Produits standards à facturer
+### Produits standards à facturer {#produits}
 
 Section à compléter si vous travaillez avec des produits dans votre système comptable.
 
@@ -142,7 +140,7 @@ Section à compléter si vous travaillez avec des produits dans votre système c
 
 ---
 
-## Applications connectées
+## Applications connectées {#applications}
 
 ### Transporteurs
 
@@ -156,7 +154,7 @@ Système de gestion des imprimantes. Lié à votre compte Printnode, choisissez 
 
 ![](../../static/img/Parametres_Systeme_16.png)
 
-### Calendrier Dayback (Abonnement requis)
+### Calendrier Dayback (Abonnement requis) {#dayback}
 
 Vous devez avoir activé le module pour avoir accès au calendrier Dayback. Voir section zzzzz\***\*URL à placer\*\***zzzzz
 

@@ -28,7 +28,7 @@ La partie **droite** présente les divers accès à interOP.
 
 ---
 
-## Création d'utilisateur
+## Création d'utilisateur {#creation}
 
 1. Cliquez sur **Créer un utilisateur**
 2. Remplir les informations de base
@@ -49,7 +49,7 @@ La partie **droite** présente les divers accès à interOP.
      - Entrez un nom d'utilisateur qui servira à la connexion au système.
      - Cliquez sur **Créer l'accès à interOP**. Un courriel s'ouvrira pour faire parvenir à l'utilisateur son mot de passe lors de sa première connexion.
 
-## Accès & privilèges aux modules
+## Accès & privilèges aux modules {#acces}
 
 -       Pour attribuer les accès aux différents modules, 3 choix sont possibles :
 
@@ -81,7 +81,7 @@ Utilisez le bouton rouge **Supprimer l'accès à interOP** dans la fiche de l'ut
 
 ---
 
-## Actions diverses
+## Actions diverses {#actions}
 
 #### En mode [**consultation**](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
 

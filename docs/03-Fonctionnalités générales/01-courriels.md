@@ -1,4 +1,8 @@
-# Courriels
+---
+id: courriels
+slug: /fonctionnalites-generales/courriels
+title: Courriels
+---
 
 ---
 
@@ -9,8 +13,6 @@ Tous les envois de courriel passe par ce module-ci.
 Les [modèles de courriels](../09-Paramètres/03-systeme.md#textes--modèles-de-courriels) déjà remplit dans vos paramètres système vous ferons sauver du temps.
 
 De plus, comme l'information est centralisé, il vous sera facile de retrouver vos communications et d'y visionner l'historique.
-
----
 
 ### Envoi de formulaire par courriel
 
@@ -56,9 +58,10 @@ Enveloppe **en couleur** : contient des courriels
 ![](../../static/img/Courriels_Historique_2.png)
 
 1. Cliquez pour un insérer un courriel supplémentaire sous forme de **eml**
+
    - **eml** = courrier électronique sauvegardé en texte brut.
    - Cliquez sur le bouton pour choisir votre pièce jointe.
-   ![](../../static/img/Courriels_Historique_3.png)
+     ![](../../static/img/Courriels_Historique_3.png)
 
 2. Consultez un courriel
    - Cliquez sur l'un des courriels afin d'afficher son contenu dans la partie de droite
@@ -69,4 +72,3 @@ Enveloppe **en couleur** : contient des courriels
 4. Envoyez un nouveau courriel en lien avec la demande.
 
 ![](../../static/img/Courriels_Nouveau_2.png)
-

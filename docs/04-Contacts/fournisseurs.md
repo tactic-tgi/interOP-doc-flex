@@ -1,4 +1,8 @@
-# Fournisseurs
+---
+id: fournisseurs
+slug: /contacts/fournisseurs
+title: Fournisseurs
+---
 
 ---
 
@@ -33,19 +37,20 @@ Le dernier onglet permet de consigner différentes [notes](../03-Fonctionnalité
 ## Création d'un fournisseur
 
 1. Revenir dans la liste des clients et cliquer sur **Créer un fournisseur**
-![](../../static/img/Fournisseurs_3.png)
+   ![](../../static/img/Fournisseurs_3.png)
+
    - **Coordonnées**
      Les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
-    
 
      **Abonnement requis** pour cette [fonction](../03-Fonctionnalités%20générales/07-rechercheadresse.md).
      ![](../../static/img/Googlemaps.png)
-     Adresse à compléter ici ⤵️ 
+     Adresse à compléter ici ⤵️
      ![](../../static/img/Fournisseurs_5.png)
-    - **Renseignement additionnels**
-    ![](../../static/img/Fournisseurs_6.png)
-    - **Administration**
-    ![](../../static/img/Fournisseurs_7.png)
+
+   - **Renseignement additionnels**
+     ![](../../static/img/Fournisseurs_6.png)
+   - **Administration**
+     ![](../../static/img/Fournisseurs_7.png)
 
 2\. **Enregistrer**
 
@@ -71,6 +76,7 @@ Contact **Inactif** : grisé
 - Remplir la fiche : les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
 
   ![](../../static/img/Fournisseurs_9_contact.png)
+
 - Spécifiez si le contact est celui par défaut, s'il est responsable de la facturation et/ou de l'envoi courriel de la facturation.
 
 - **Enregistrer**
@@ -117,6 +123,7 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 ## Actions diverses
 
 #### En mode consultation
+
 ![](../../static/img/Fournisseurs_12.png)
 
 - Modifier ce fournisseur

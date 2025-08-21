@@ -1,17 +1,18 @@
-# Dossiers
+---
+id: dossiers
+slug: /production/dossiers
+title: Dossiers
+---
 
-* * *
+---
 
 ## Survol
 
-  
-
-Accessible dans la section Production, ce module sert à consigner les détails qui permettent de produire correctement le travail commandé. Toute l’information est accessible et centralisée, votre équipe de production aura donc un outil efficace pour compléter la commande de votre client ! 
+Accessible dans la section Production, ce module sert à consigner les détails qui permettent de produire correctement le travail commandé. Toute l’information est accessible et centralisée, votre équipe de production aura donc un outil efficace pour compléter la commande de votre client !
 
 En plus, un bon de travail peut être imprimé lors du lancement du contrat en production, selon la mise en forme souhaitée.
 
 ![](../../static/img/Dossiers_01.png)
-  
 
 Ouverture du module en [mode liste.](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste)
 
@@ -21,32 +22,27 @@ Bien que vous ayez le contrôle absolu sur les filtres, nous vous conseillons de
 
 ![](../../static/img/Dossiers_02.png)
 
-  
-
 **Statuts**
 
-*   Attente lancement
-    
-    Le dossier n'a pas encore été lancé en production.
-    
-*   Annulé
-    
-    un dossier **annulé** apparaitra grisé dans la liste et avec un fond rouge en mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation).
-    
+- Attente lancement
+
+  Le dossier n'a pas encore été lancé en production.
+
+- Annulé
+
+  un dossier **annulé** apparaitra grisé dans la liste et avec un fond rouge en mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation).
 
 ![](../../static/img/Dossiers_03.png)
 
-  
-
-* * *
+---
 
 ## Création d'un dossier
 
 ### Créer un dossier depuis la soumission (par Soumissions)
 
-Le plus commun est de créer un dossier à partir d'une soumission existante. Veuillez vous rendre dans le module soumission, puis dans l'item qui sera envoyé en dossier. 
+Le plus commun est de créer un dossier à partir d'une soumission existante. Veuillez vous rendre dans le module soumission, puis dans l'item qui sera envoyé en dossier.
 
-Faire ensuite le bouton Actions et choisir Créer dossier. 
+Faire ensuite le bouton Actions et choisir Créer dossier.
 
 ![](../../static/img/Dossiers_05.png)
 
@@ -63,57 +59,51 @@ Il est aussi possible de créer votre dossier à partir du [mode liste](../03-Fo
     ![](../../static/img/Dossiers_06.png)
 
         Sélectionnez une soumission (doit être au statut **En Calcul**)
-    
+
     ![](../../static/img/Dossiers_07.png)
-    
+
     Sélectionnez l'item commandé.
-    
+
     ![](../../static/img/Dossiers_08.png)
-    
+
     Sélectionnez une quantité.
-    
+
     ![](../../static/img/Dossiers_31.png)
-    
-      
-    
+
+
+
     Le dossier sera créé automatiquement.
-    
+
     Révisez votre dossier et lancez-le en production par le menu **Actions**.
-    
-      
 
 
 
 ### Créer un dossier manuellement (sans soumission)
 
-Vous ne voulez pas faire de soumission mais bien simplement créer un dossier ? 
+Vous ne voulez pas faire de soumission mais bien simplement créer un dossier ?
 Ceci est possible. Vous devez vous rendre dans le [mode liste](../03-Fonctionnalités%20générales/02-navigation.md#mode-liste) du module Dossiers.
 
-
-    
-  Cliquez sur **Créer un dossier** et puis sur **Nouveau dossier**.
+Cliquez sur **Créer un dossier** et puis sur **Nouveau dossier**.
 
     ![](../../static/img/Dossiers_04.png)
 
     Sélectionnez un client.
 
     ![](../../static/img/Dossiers_06.png)
-    
+
     Sélectionnez un item.
-    
+
     ![](../../static/img/Dossiers_09.png)
-    
+
     La base du dossier sera créé automatiquement.
-    
+
     Vous référez à la documentation de cette page pour remplir chacune des sections.
     N'oubliez pas de remplir tous les [champs obligatoires](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires).
-    
-      
+
+
     ![](../../static/img/Dossiers_11.png)
 
-  
-
-* * *
+---
 
 ## Informations de base
 
@@ -128,7 +118,6 @@ Dans le coin gauche en bas, vous pouvez inscrire un produit de facturation ou un
 À droite, vous aurez diverses informations générales à remplir, comme la date de livraison, le type de dossier, les épreuves, etc.
 
 ![](../../static/img/Dossiers_10.png)
-  
 
 **Approbation par courriel**
 
@@ -139,58 +128,49 @@ Sélection des contacts d'approbation d'épreuves possible lorsque la méthode d
 
 ![](../../static/img/Dossiers_18.png)
 
-  
-
     *   Affichage des courriels sur le bon de production.
 
 ![](../../static/img/Dossiers_19.png)
 
-  
+**Notes sur le formulaire**
 
- **Notes sur le formulaire**
-    
     Ces notes seront visibles sur le formulaire pdf ou imprimé du dossier de production.
 
     ![](../../static/img/Dossiers_17.png)
 
-* * *
-
+---
 
 ## Détails du dossier
 
 ### Vendu à et Facturé à
 
-Dans cet onglet, vous verrez les informations relatives au client lié à ce dossier (**Vendu à**) ainsi que celui lié à la facturation (**Facturé à**), qui peut être différent. 
+Dans cet onglet, vous verrez les informations relatives au client lié à ce dossier (**Vendu à**) ainsi que celui lié à la facturation (**Facturé à**), qui peut être différent.
 
 Il est possible de changer le client ou d'éditer un contact pour les sections **Vendu à** et **Facturé à**
 
-  
+- Pour changer le client
 
-*   Pour changer le client
-    
-   Cliquez sur la **loupe** ![](../../static/img/Soumissions_loupe.png) pour faire une recherche et sélectionnez un client.
-    
+Cliquez sur la **loupe** ![](../../static/img/Soumissions_loupe.png) pour faire une recherche et sélectionnez un client.
+
     ![](../../static/img/Dossiers_23.png)
 
-  Si le client est manquant, veuillez aller le créer dans le module [Clients](../04-Contacts/clients.md#création-dun-client).
-    
-*   Pour éditer un contact
-    
-    Cliquez sur le **crayon.**
+Si le client est manquant, veuillez aller le créer dans le module [Clients](../04-Contacts/clients.md#création-dun-client).
 
-    ![](../../static/img/Dossiers_22.png)
+- Pour éditer un contact
 
-    Les changements apportés lors de l'édition du contact seront appliqués dans le système au complet.
+  Cliquez sur le **crayon.**
 
-    ![](../../static/img/Dossiers_21.png)
-    
+  ![](../../static/img/Dossiers_22.png)
+
+  Les changements apportés lors de l'édition du contact seront appliqués dans le système au complet.
+
+  ![](../../static/img/Dossiers_21.png)
 
 ### Enregistrements liés
 
-Dans la portion de droite, vous trouverez des portails qui vous permettront de voir et d'accéder rapidement à tout ce qui est lié à votre dossier : commande d'achat, expédition, factures et les notes. 
+Dans la portion de droite, vous trouverez des portails qui vous permettront de voir et d'accéder rapidement à tout ce qui est lié à votre dossier : commande d'achat, expédition, factures et les notes.
 
 Pour accéder à l'enregistrement, cliquer sur la ligne directement.
-
 
 **Commande(s) liées**
 ![](../../static/img/Dossiers_24.png)
@@ -202,47 +182,41 @@ Pour accéder à l'enregistrement, cliquer sur la ligne directement.
 
 Le dossier doit être lancé en production.
 
-*   Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
-      
-    Vous référez au [module Expéditions](../08-Post-Production/01-expeditions.md) pour en apprendre d'avantage.
-    
+- Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
+  Vous référez au [module Expéditions](../08-Post-Production/01-expeditions.md) pour en apprendre d'avantage.
 
 **Factures**
 ![](../../static/img/Dossiers_26.png)
 
-#### Créer une facture 
+#### Créer une facture
 
 Le dossier doit être lancé en production.
 
-*   Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
+- Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
-    Vous référez au [module Factures](../08-Post-Production/02-factures.md) pour en apprendre d'avantage.
-       
-     
+  Vous référez au [module Factures](../08-Post-Production/02-factures.md) pour en apprendre d'avantage.
 
 **Notes de production**
 
 Les notes de production sont propres à un dossier et peuvent être consultées à l'écran seulement. Elles ne se retrouvent pas sur le dossier pdf ou imprimé.
 
-![](../../static/img/Dossiers_27.png)  
+![](../../static/img/Dossiers_27.png)
 
 #### Ajouter une note
 
 Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
 Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](../03-Fonctionnalités%20générales/06-notes.md#notes-actions).
-     
-    
 
 ## Détails du projet
 
- Cet onglet représente le détail du travail à faire. Généralement, il provient de la soumission lié.
+Cet onglet représente le détail du travail à faire. Généralement, il provient de la soumission lié.
 
 **Il est important de mentionner que tous changements apportés à un dossier de production ne change pas la soumission liée et vice versa.**
 
- Si une modification mineure a été apportée et que vous voulez facturer une soumission révisée, vous pouvez simplement lier la nouvelle soumission au dossier. Vous devrez faire le changement manuellement au dossier (ex : ajout de bande élastique) pour avertir la production du changement.
+Si une modification mineure a été apportée et que vous voulez facturer une soumission révisée, vous pouvez simplement lier la nouvelle soumission au dossier. Vous devrez faire le changement manuellement au dossier (ex : ajout de bande élastique) pour avertir la production du changement.
 
- Si les modifications sont trop importantes, il est préférable d'annuler le dossier et d'en recréer un nouveau avec la nouvelle soumission, surtout si le travail n'était pas encore en production.
+Si les modifications sont trop importantes, il est préférable d'annuler le dossier et d'en recréer un nouveau avec la nouvelle soumission, surtout si le travail n'était pas encore en production.
 
 ### Composantes, finitions, emballages et transport
 
@@ -254,7 +228,6 @@ Pour toutes les informations relatives au fonctionnement des divers blocs prése
 - [Emballages globaux](../05-Estimation/01-soumissions.md#emballages-globaux)
 - [Transports & Livraisons](../05-Estimation/01-soumissions.md#transports--livraisons)
 
-  
 ### Réquisitions et opérations
 
 Vous trouverez l'ensemble des **réquisitions d'achat** du dossier.
@@ -263,8 +236,6 @@ Le crochet indique si le produit a été commandé.
 Consulter cette [section](../06-Achats/02-requisitions.md) pour en apprendre d'avantage.
 
 ![](../../static/img/Dossiers_14.png)
-
-
 
 Dans la portion de droite se trouve la liste des **opérations** à effectuer.
 
@@ -280,19 +251,17 @@ Vous pouvez aussi, par ce menu, compléter toutes les opérations en un seul cli
 
 ![](../../static/img/Dossiers_15.png)
 
-
 ## Prix de revient
 
 Pour valider vos coûtants, vos vendants et votre marge de profit, l'outil Prix de revient est essentiel. Le report de tous les coûts se retrouvent à cet endroit. Vous pourrez les valider, les ajuster et confirmer que le travail a été profitable pour vous !
 
 Le dossier doit être lancé en production et vous devez avoir les [accès nécessaires](../09-Paramètres/02-utilisateurs.md#accès--privilèges-aux-modules) pour consulter le prix de revient.
 
-
 ![](../../static/img/Dossier_Prixderevient.png)
 
 Vous pouvez également ajouter des frais en cliquant sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png), taper une description, inscrire une quantité et un coûtant.
 
-Au besoin, ajoutez ce frais à votre facture ! 
+Au besoin, ajoutez ce frais à votre facture !
 
 Exemple : vous pouvez ajouter un coût non prévu de mise en élastique dans la portion Matériaux et autres, puis ajouter une opération d'emballage avec le temps que votre employé a pris pour faire l'opération.
 
@@ -302,42 +271,35 @@ Une poubelle apparaitra au bout des lignes ajoutées manuellement, pour vous per
 
 ![](../../static/img/Dossier_Prixderevient_02.png)
 
+---
 
-
-* * *
-  
 ## Actions diverses
 
 ![](../../static/img/Dossiers_28.png)
 
-  
-
 #### En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
 
-*   Lancer en production
-*   Visualiser ou Imprimer bon production
-    
-       Ceci ouvrira la proposition dans un nouvel onglet de votre navigateur. Vous pourrez ainsi la télécharger ou l'imprimer. 
-    ![](../../static/img/Dossiers_29.png)
-    
-*   Mettre les réquisitions à jour
-        Voir explication dans le module [**Réquisition**](../06-Achats/02-requisitions.md#mettre-à-jour-les-réquisitions)
+- Lancer en production
+- Visualiser ou Imprimer bon production
 
-*   Ouvrir prix de revient
-    
-    Voir section [Prix de revient](../07-Production/01-dossiers.md#prix-de-revient)
-    
-*   Changer l'estimé de référence
+  Ceci ouvrira la proposition dans un nouvel onglet de votre navigateur. Vous pourrez ainsi la télécharger ou l'imprimer.
+  ![](../../static/img/Dossiers_29.png)
 
-        Attention : ceci doit être utilisé seulement si les modifications à la soumission sont mineures et que vous voulez facturer une soumission autre que celle de départ. Si vous avez fait des changements sur les quantités, les composantes et autres, vous devrez les refaire dans le dossier au besoin, pour les gens de production. 
+- Mettre les réquisitions à jour
+  Voir explication dans le module [**Réquisition**](../06-Achats/02-requisitions.md#mettre-à-jour-les-réquisitions)
 
-*   Annuler
-    Une fois que le dossier est annulé, vous aurez la possibilité de le remettre actif par ce menu, en faisant **Réutiliser**.
-  
+- Ouvrir prix de revient
 
-* * *
+  Voir section [Prix de revient](../07-Production/01-dossiers.md#prix-de-revient)
 
-  
+- Changer l'estimé de référence
+
+      Attention : ceci doit être utilisé seulement si les modifications à la soumission sont mineures et que vous voulez facturer une soumission autre que celle de départ. Si vous avez fait des changements sur les quantités, les composantes et autres, vous devrez les refaire dans le dossier au besoin, pour les gens de production.
+
+- Annuler
+  Une fois que le dossier est annulé, vous aurez la possibilité de le remettre actif par ce menu, en faisant **Réutiliser**.
+
+---
 
 ## Vidéo démo du module
 

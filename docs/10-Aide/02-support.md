@@ -1,4 +1,10 @@
-# Support technique
+---
+id: support
+slug: /aide/support
+title: Support technique
+---
+
+---
 
 Vous avez besoin d'une assistance pour une situation problématique ?
 
@@ -7,8 +13,6 @@ Cliquez sur **Support Technique** dans le menu latéral pour nous en informer.
 Assurez-vous d'être dans la fenêtre où se trouve le problème avant de cliquer.
 
 ![](../../static/img/Aide_Support_1.png)
-
-  
 
 Une fenêtre de nouveau courriel s'ouvrira et il sera prérempli de quelques questions à répondre afin de nous aider dans votre demande.
 

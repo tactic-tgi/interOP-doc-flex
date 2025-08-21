@@ -1,7 +1,10 @@
-# Notes
-
+---
+id: notes
+slug: /fonctionnalites-generales/notes
+title: Notes
 ---
 
+---
 
 ### Notes provenant de la fiche client ou fournisseur
 

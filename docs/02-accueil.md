@@ -1,4 +1,8 @@
-# Page d'accueil
+---
+id: accueil
+slug: /accueil
+title: Page d'accueil
+---
 
 ---
 
@@ -6,7 +10,7 @@
 
 ## Menu latéral
 
-### Boutons du haut 
+### Boutons du haut
 
 ![](../static/img/Accueil_1.png)
 

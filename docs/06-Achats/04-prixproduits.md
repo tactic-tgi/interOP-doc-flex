@@ -1,4 +1,10 @@
-# Produits - Gestion des prix
+---
+id: gestionprix
+slug: /achats/gestion-prix
+title: Produits - Gestion des prix
+---
+
+---
 
 La gestion des prix pour les produits est accessible dans le [menu latéral](../03-Fonctionnalités%20générales/05-menus.md#menu-latéral)
 
@@ -8,24 +14,17 @@ Remplir les critères souhaités dans la fenêtre **Filtres**, puis cliquez sur
 
 ![](../../static/img/Gestion_prix_produits_02.png)
 
-  
-  
-
 #### Individuellement
 
-Pour modifier le prix coûtant d’un produit, cliquer directement sur le prix affiché. Vous pourrez ensuite ajuster le montant et faire Enregistrer. 
+Pour modifier le prix coûtant d’un produit, cliquer directement sur le prix affiché. Vous pourrez ensuite ajuster le montant et faire Enregistrer.
 
 ![](../../static/img/Gestion_prix_produits_03.png)
-
-  
 
 #### En lot
 
 Sélectionnez les produits dont vous souhaitez modifier le prix coûtant. Veuillez noter que seuls les produits d'un même fournisseur peuvent être modifiés simultanément.
 
-La case à cocher située dans l’entête bleu du fournisseur permet de sélectionner tous les produits associés à ce fournisseur, mais assurez-vous d'avoir bien isolé la famille de produit que vous vouliez modifier. 
-
-  
+La case à cocher située dans l’entête bleu du fournisseur permet de sélectionner tous les produits associés à ce fournisseur, mais assurez-vous d'avoir bien isolé la famille de produit que vous vouliez modifier.
 
 Cliquez sur **Actions** ➝ Modifier les prix et suivre les instructions à l'écran.
 

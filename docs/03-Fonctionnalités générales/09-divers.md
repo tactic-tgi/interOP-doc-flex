@@ -1,9 +1,12 @@
-
-# Divers
+---
+id: divers
+slug: /fonctionnalites-generales/divers
+title: Divers
+---
 
 ---
 
-### **Favoris**
+### Favoris
 
 Le bouton **Favoris** se retrouve dans la portion supérieure droite du mode consultation.
 
@@ -23,20 +26,20 @@ En mode Liste, on retrouve l'étoile bleue à l'extrémité de chaque ligne.
 
 ![](../../static/img/Divers_favoris_01.png)
 
-À noter que tous vos favoris se retrouveront dans le module [Mes Préférences](../09-Paramètres/01-preferences.md), dans la Gestion des enregistrements, où vous pourrez facilement y retourner en cliquant sur celui-ci. 
+À noter que tous vos favoris se retrouveront dans le module [Mes Préférences](../09-Paramètres/01-preferences.md), dans la Gestion des enregistrements, où vous pourrez facilement y retourner en cliquant sur celui-ci.
 
 ### Fiche annulée
 
-Son statut changera pour Annulée. 
+Son statut changera pour Annulée.
 
-Par défaut, les enregistrements annulés ne sont pas visibles dans les listes, à moins de cocher la case dans votre filtre. 
+Par défaut, les enregistrements annulés ne sont pas visibles dans les listes, à moins de cocher la case dans votre filtre.
 
 ![](../../static/img/Divers_annulee_02.png)
 
 **En mode liste** : la ligne sera grisée
 ![](../../static/img/Divers_annulee_01.png)
 
-Il faudra alors faire l'action de Réutiliser pour pouvoir remettre l'enregistrement actif. 
+Il faudra alors faire l'action de Réutiliser pour pouvoir remettre l'enregistrement actif.
 
 ### **Icônes**
 
@@ -55,7 +58,6 @@ Cliquez sur ce bouton pour consulter le contenu informatif.
 ![](../../static/img/Information.png)
 
 ###
-
 
 ### Verrouiller / déverrouiller
 

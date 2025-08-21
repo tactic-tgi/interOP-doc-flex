@@ -1,4 +1,8 @@
-# Demandes sous-traitance
+---
+id: sous-traitances
+slug: /estimation/sous-traitances
+title: Demandes sous-traitance
+---
 
 ---
 
@@ -34,11 +38,13 @@ Ce statut changera pour **Envoyée** lorsqu'elle sera envoyé par courriel à un
 3\. Sélection de fournisseurs
 
 - Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
+
   - Sélectionnez un fournisseur
 
   ![](../../static/img/Soustraitances_03.png)
 
 4\. Sélection d'un contact.
+
 - Si le contact ne se trouve pas dans la liste, veuillez vous rendre dans le module Fournisseurs pour pouvoir le créer.
 - Possibilité d'éditer le contact directement dans la demande.
 
@@ -68,7 +74,6 @@ Cliquez sur l'enveloppe pour envoyer votre demande par courriel.
 
 Suivre les instructions de [courriels.](../03-Fonctionnalités%20générales/01-courriels.md)
 ![](../../static/img/Soustraitances_10.png)
-
 
 Enveloppe **grisé** : aucun courriel envoyé
 

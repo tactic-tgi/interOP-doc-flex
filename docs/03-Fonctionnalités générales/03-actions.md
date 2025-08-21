@@ -1,4 +1,8 @@
-# Actions
+---
+id: actions
+slug: /fonctionnalites-generales/actions
+title: Actions
+---
 
 ---
 

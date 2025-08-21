@@ -1,4 +1,8 @@
-# Soumissions
+---
+id: soumissions
+slug: /estimation/soumissions
+title: Soumissions
+---
 
 ---
 
@@ -44,7 +48,6 @@ N'oubliez pas de remplir tous les [champs obligatoires](../03-Fonctionnalités%2
 Si des champs sont manquants, vous verrez un message lorsque vous sortirez de la soumission en cours.
 Vous pourrez cliquer sur Corriger pour voir les champs en surbrillance (contour rouge). Voir section [Composantes](../05-Estimation/01-soumissions.md#informations-supplémentaires).
 
-
 ### Types de soumission
 
 - Régulière
@@ -70,10 +73,9 @@ La portion du **haut** contient les informations de bases de la soumission.
 
 - Pour changer le client
 
-    Cliquez sur la **loupe** ![](../../static/img/Soumissions_loupe.png) pour faire une recherche et sélectionnez un client.
-    
-    ![](../../static/img/Soumissions_07.png)
+  Cliquez sur la **loupe** ![](../../static/img/Soumissions_loupe.png) pour faire une recherche et sélectionnez un client.
 
+  ![](../../static/img/Soumissions_07.png)
 
   Si le client est manquant, veuillez aller le créer dans le module [Clients](../04-Contacts/clients.md#création-dun-client).
 
@@ -118,8 +120,6 @@ Contient des notes : icône en couleur
 
 ![](../../static/img/Soumissions_Notes02.png)
 
-
-
 ---
 
 ## Items
@@ -131,7 +131,7 @@ Consultez la section [Actions diverses](../05-Estimation/01-soumissions.md#actio
 Cliquez sur la ligne d'un des items pour consulter sa fiche, apporter des modifications et le supprimer.
 
 **Masquer un item de la proposition**
- 
+
 Cliquez sur l'oeil pour que le l'item soit masqué de la proposition client; il deviendra alors rouge. Re-cliquez dessus pour faire afficher l'item sur la proposition.
 
 ![](../../static/img/Soumissions_12.png)
@@ -139,7 +139,6 @@ Cliquez sur l'oeil pour que le l'item soit masqué de la proposition client; il 
 Fonctionnalité **⤵️**
 
 Maintenez \[ CTRL sur PC ou Command sur Mac\] + cliquez sur l'oeil pour faire afficher seulement cet item. Tous les autres seront masqués, et ce, peu importe si l'item sur lequel on clique était masqué ou non avant le clic.
-
 
 **Dossier lié**
 
@@ -150,7 +149,6 @@ Si l'icône dossier est visible, c'est qu'un dossier de production a été ouver
 ### Créer un item
 
 Cliquez sur l'icône ![](../../static/img/Contacts_2_iconeajout.png)
-
 
 ![](../../static/img/Soumissions_14.png)
 
@@ -169,7 +167,7 @@ Cliquez sur l'icône ![](../../static/img/Contacts_2_iconeajout.png)
 - Depuis un modèle
 
   Créer un item depuis un [modèle existant](../05-Estimation/01-soumissions.md#types-de-soumission) viendra créer automatiquement l'item et ses [composantes](../05-Estimation/01-soumissions.md#composantes)
-. Modifiez au besoin les informations.
+  . Modifiez au besoin les informations.
 
   ![](../../static/img/Soumissions_17.png)
 
@@ -191,19 +189,18 @@ Ce sont la ou les composantes qui composent l'item lié.
 
 ![](../../static/img/Soumissions_19.png)
 
-
 ### Informations supplémentaires
 
 - Informations communes versus informations modifiables (selon quantité)
 
   **Communes ➝** Informations de base communes peu importe la quantité.
 
-  Exemple onglet Prépresse 
+  Exemple onglet Prépresse
   ![](../../static/img/Soumissions_21.png)
 
   **Modifiables ➝** Certaines informations sont modifiables selon la quantité. On peut les modifier dans les onglets où les options de quantités sont visibles dans le haut.
 
-  Exemple onglet Support & Impression 
+  Exemple onglet Support & Impression
   ![](../../static/img/Soumissions_22.png)
 
 - Valider une composante en la quittant
@@ -332,17 +329,17 @@ Pour ajouter une nouvelle opération, cliquez sur **l'icône**![](../../static/i
 
 ### Interne
 
-  Sélectionnez une famille d'opération. Ici on choisit **Pliage sur plieuse**.
+Sélectionnez une famille d'opération. Ici on choisit **Pliage sur plieuse**.
 
-  ![](../../static/img/Soumissions_39.png)
+![](../../static/img/Soumissions_39.png)
 
-  Sélectionnez une opération. Ici on choisit **Pliage 6 pages accordéon.**
+Sélectionnez une opération. Ici on choisit **Pliage 6 pages accordéon.**
 
-  ![](../../static/img/Soumissions_40.png)
+![](../../static/img/Soumissions_40.png)
 
-  Remplir les informations dans l'écran. 
+Remplir les informations dans l'écran.
 
-  ![](../../static/img/Soumissions_41.png)
+![](../../static/img/Soumissions_41.png)
 
 - Externe
 
@@ -351,10 +348,10 @@ Pour ajouter une nouvelle opération, cliquez sur **l'icône**![](../../static/i
 
   Sélectionnez une opération. Ici on choisit **Broché à cheval**.
 
-   ![](../../static/img/Soumissions_43.png)
+  ![](../../static/img/Soumissions_43.png)
 
-  Remplir les informations  dans l'écran, en choisissant le fournisseur.
-   ![](../../static/img/Soumissions_44.png)
+  Remplir les informations dans l'écran, en choisissant le fournisseur.
+  ![](../../static/img/Soumissions_44.png)
 
   Pour créer ou ajouter une demande de sous-traitance , cliquez sur le bouton Actions
 
@@ -380,9 +377,9 @@ Ici l'emballage est global pour l'item.
 
   ![](../../static/img/Soumissions_47.png)
 
- Pour modifier et/ou supprimer un emballage, cliquez sur sa ligne pour l'ouvrir et pour le supprimer, appuyer sur Supprimer dans le menu Actions.
+Pour modifier et/ou supprimer un emballage, cliquez sur sa ligne pour l'ouvrir et pour le supprimer, appuyer sur Supprimer dans le menu Actions.
 
- ![](../../static/img/Soumissions_48.png)
+![](../../static/img/Soumissions_48.png)
 
 ---
 
@@ -399,7 +396,7 @@ Ici l'emballage est global pour l'item.
   ![](../../static/img/Soumissions_51.png)
   ![](../../static/img/Soumissions_52.png)
 
- Pour modifier et/ou supprimer un transport, cliquez sur sa ligne pour l'ouvrir et pour le supprimer, appuyer sur Supprimer dans le menu Actions.
+Pour modifier et/ou supprimer un transport, cliquez sur sa ligne pour l'ouvrir et pour le supprimer, appuyer sur Supprimer dans le menu Actions.
 
 ---
 
@@ -413,8 +410,6 @@ Nous y accédons directement dans un item, en haut à droite.
 
 ![](../../static/img/Soumissions_53.png)
 
-
-
 La partie du bas permet de faire des modification, cliquez dessus pour y accéder.
 
 ![](../../static/img/Soumissions_56.png)
@@ -424,7 +419,6 @@ La partie du bas permet de faire des modification, cliquez dessus pour y accéde
   - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../09-Paramètres/04-standards.md#majoration-valeurs-par-défaut-et-réquisitions), mais peuvent aussi être propre à un client.
   - Commission peut être définit par défaut dans les [standards](../09-Paramètres/04-standards.md#majoration-valeurs-par-défaut-et-réquisitions), mais peut aussi être propre à un [représentant](../09-Paramètres/02-utilisateurs.md#création-dutilisateur).
     ![](../../static/img/Soumissions_55.png)
-
 
 Une fois vos coûts validés, vous avez la possibilité d'**Enregistrer** pour confirmer et fermer la fenêtre ou de valider la **proposition au client**.
 
@@ -456,11 +450,10 @@ Révisez et modifiez aux besoin les informations.
   En mode liste, la ligne de soumission sera grisée. Il est possible de réactiver une soumission perdue.
 
 - Visualiser ou Imprimer
-  Ceci ouvrira la proposition dans un nouvel onglet de votre navigateur. Vous pourrez ainsi la télécharger ou l'imprimer. 
+  Ceci ouvrira la proposition dans un nouvel onglet de votre navigateur. Vous pourrez ainsi la télécharger ou l'imprimer.
   ![](../../static/img/Soumissions_57.png)
-  
-  Si la soumission contient plusieurs items, la proposition client les affichera tous.
 
+  Si la soumission contient plusieurs items, la proposition client les affichera tous.
 
 - [Courriel](../03-Fonctionnalités%20générales/01-courriels.md)
 - Déclarer comme modèle

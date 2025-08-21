@@ -1,4 +1,8 @@
-# Champs
+---
+id: champs
+slug: /fonctionnalites-generales/champs
+title: Champs
+---
 
 ---
 
@@ -20,14 +24,11 @@ Vous ne pourrez enregistrer sans les avoir complétés
 
   ![](../../static/img/Fonctionnalites_ChampsObligatoires.png)
 
-
-
 ### Valeur manuelle
 
 Lorsque vous voulez écraser une valeur qui s'est calculée automatiquement par le logiciel, vous pouvez entrer dans le champ et taper votre donnée.
 
 Un indicateur visuel de couleur orangée sera appliqué sur le texte.
 Pour revenir à la valeur par défaut, vous devrez effacer votre entrée et la couleur orangée disparaitra.
-
 
 ![](../../static/img/Fonctionnalites_ValeurManuelle.png)

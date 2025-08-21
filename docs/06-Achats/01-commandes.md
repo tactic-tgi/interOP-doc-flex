@@ -1,4 +1,8 @@
-# Commandes
+---
+id: commandes
+slug: /achats/commandes
+title: Commandes
+---
 
 ---
 
@@ -20,12 +24,10 @@ Par défaut, le [filtre](../03-Fonctionnalités%20générales/02-navigation.md#f
 
 - Cliquez sur **Créer une commande** en haut à droite de la liste.
 
-
 - Sélectionnez un fournisseur
 
   ![](../../static/img/Commandes_03.png)
 
- 
 - La création de votre commande se fera automatiquement.
 
 Remplir les informations manquantes dans le haut de la fenêtre.
@@ -37,19 +39,19 @@ Remplir les informations manquantes dans le haut de la fenêtre.
 - Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png) et choisir si vous voulez :
 
 ![](../../static/img/Commandes_05.png)
-  - créer une ligne **depuis un produit**
-    - sélectionnez un produit en cliquant sur sa ligne
+
+- créer une ligne **depuis un produit**
+
+  - sélectionnez un produit en cliquant sur sa ligne
     ![](../../static/img/Commandes_06.png)
-    - inscrire une quantité
-    - au besoin, sélectionnez un dossier et un compte GL associé
+  - inscrire une quantité
+  - au besoin, sélectionnez un dossier et un compte GL associé
     ![](../../static/img/Commandes_07.png)
 
-  - créer une **ligne manuelle** : remplir la description, quantité et autres informations pertinentes au besoin.
-    ![](../../static/img/Commandes_09.png)
+- créer une **ligne manuelle** : remplir la description, quantité et autres informations pertinentes au besoin.
+  ![](../../static/img/Commandes_09.png)
 
-
-
-Ajoutez une note au besoin, dans le bas de la fenêtre de commande. Elle se retrouvera sur le formulaire envoyé au fournisseur. 
+Ajoutez une note au besoin, dans le bas de la fenêtre de commande. Elle se retrouvera sur le formulaire envoyé au fournisseur.
 
 ![](../../static/img/Commandes_10.png)
 
@@ -80,17 +82,15 @@ Au besoin, vous rendre dans le produit en question pour ajouter un second fourni
 
 ![](../../static/img/Produits_07.png)
 
-
 ## Compléter une commande
 
-Le statut de la commande restera à "En préparation", le temps que la réception de la marchandise soit faite. 
+Le statut de la commande restera à "En préparation", le temps que la réception de la marchandise soit faite.
 
 Lorsque le magasiner reçoit les items, il doit se rendre dans un des items et cocher la case "Complet" sur tous les items reçus. Si une ou des réquisitions étaient liées à cette commande, leur statut changera pour **Reçu**.
 
-La commande passera alors au statut **Complétée**. 
+La commande passera alors au statut **Complétée**.
 
 ![](../../static/img/Commande_complet.gif)
-
 
 ---
 

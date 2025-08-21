@@ -1,4 +1,8 @@
-# Clients
+---
+id: clients
+slug: /contacts/clients
+title: Clients
+---
 
 ---
 
@@ -38,7 +42,7 @@ Le dernier onglet permet de consigner différentes [notes](../03-Fonctionnalité
 ## Création d'un client
 
 1. Revenir dans la liste des clients et cliquer sur **Créer un client**
-![](../../static/img/Clients_4_création.png)
+   ![](../../static/img/Clients_4_création.png)
    - **Coordonnées**
      Les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
      ![](../../static/img/Clients_5.png)
@@ -80,6 +84,7 @@ Contact **Inactif** : grisé
 - Remplir la fiche : les champs marqués d'une [étoile](../03-Fonctionnalités%20générales/04-champs.md#champs-obligatoires) sont obligatoires.
 
   ![](../../static/img/Contacts_3.png)
+
 - Spécifiez si le contact est celui par défaut, s'il est responsable de la facturation et/ou de l'envoi courriel de la facturation.
 
 - **Enregistrer**
@@ -163,7 +168,6 @@ Suivre les [instructions suivantes](../03-Fonctionnalités%20générales/06-note
 
 ![](../../static/img/Notes_2.png)
 
-
 Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](../03-Fonctionnalités%20générales/06-notes.md#notes-actions).
 
 ---
@@ -171,7 +175,9 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 ### Actions diverses
 
 #### En mode [consultation](../03-Fonctionnalités%20générales/02-navigation.md#mode-consultation)
+
 ![](../../static/img/Clients_actions.png)
+
 - Modifier ce client
 
   Apporter vos modifications dans l'écran d'édition et **Enregistrer**

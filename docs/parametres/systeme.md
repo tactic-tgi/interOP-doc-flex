@@ -6,7 +6,7 @@ title: Système
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Cette section du logiciel vous permet de le personnaliser selon votre entreprise.
 
@@ -18,7 +18,7 @@ Tout changement ici, sera reproduit ailleurs dans le logiciel.
 
 ## Personnalisation du logiciel {#personnalisation}
 
-### Coordonnées {#coordonnes}
+### Coordonnées {#coordonnees}
 
 Inscrire vos coordonnées d'entreprise , ajouter vos logos et sélectionner le logo à utiliser dans les différents formulaires.
 
@@ -54,7 +54,7 @@ Vous avez la possibilité, pour chaque message, de les faire afficher sur :
 
 ![](../../static/img/Parametres_Systeme_4.png)
 
-### Traductions
+### Traductions {#traductions}
 
 Ayez la latitude de modifier les termes qui apparaissent sur les différents formulaires envoyés aux clients.
 
@@ -88,7 +88,7 @@ Pour rendre **actif** un Pays, une Province ou une Devise cliquez sur le bouton 
 
 Cette section permet la configuration selon votre logiciel de comptabilité.
 
-### Devises
+### Devises {#devises}
 
 Le bouton **Synchroniser avec Passerelle** récupère les taux en vigueur pour la journée. Ces taux sont actualisés une fois par jour via la passerelle. Ainsi, même si vous cliquez plusieurs fois sur le bouton de mise à jour, les taux resteront inchangés jusqu'au jour suivant.
 
@@ -105,7 +105,7 @@ Paramètres modifiables
 
 ![](../../static/img/Parametres_Systeme_10.png)
 
-### Taxes
+### Taxes {#taxes}
 
 Dans cette section, déterminez les éléments suivants :
 
@@ -142,13 +142,13 @@ Section à compléter si vous travaillez avec des produits dans votre système c
 
 ## Applications connectées {#applications}
 
-### Transporteurs
+### Transporteurs {#transporteurs}
 
 Gestion de vos différents transporteurs.
 
 ![](../../static/img/Parametres_Systeme_15.png)
 
-### Printnode
+### Printnode {#printnode}
 
 Système de gestion des imprimantes. Lié à votre compte Printnode, choisissez votre ordinateur et sur quelle imprimante vous voudrez imprimer par défaut.
 

@@ -6,15 +6,15 @@ title: Courriels
 
 ---
 
-### Survol
+### Survol {#survol}
 
 Tous les envois de courriel passe par ce module-ci.
 
-Les [modèles de courriels](../parametres/systeme.md#textes--modèles-de-courriels) déjà remplit dans vos paramètres système vous ferons sauver du temps.
+Les [modèles de courriels](../parametres/systeme.md#modeles) déjà remplit dans vos paramètres système vous ferons sauver du temps.
 
 De plus, comme l'information est centralisé, il vous sera facile de retrouver vos communications et d'y visionner l'historique.
 
-### Envoi de formulaire par courriel
+### Envoi de formulaire par courriel {#envoi}
 
 Par défaut, les champs suivants seront remplis, mais demeurent éditables :
 
@@ -41,7 +41,7 @@ Dans le coin supérieur droit, la flèche envoie le courriel et la poubelle le s
 
 ---
 
-### Historique
+### Historique {#historique}
 
 Vous pouvez consulter l'historique de courriel dans l'un des modules suivants : Soumission, Demande de sous-traitance, Commandes, Expéditions , Factures.
 
@@ -53,7 +53,7 @@ Enveloppe **en couleur** : contient des courriels
 
 ![](../../static/img/Courriels_Historique_1.png)
 
-#### Informations générales
+#### Informations générales 
 
 ![](../../static/img/Courriels_Historique_2.png)
 

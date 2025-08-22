@@ -6,7 +6,7 @@ title: Demandes sous-traitance
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Avec ce module, acheminez rapidement vos demandes de prix de sous-traitance à un ou plusieurs fournisseurs potentiels.
 
@@ -22,9 +22,9 @@ Ce statut changera pour **Envoyée** lorsqu'elle sera envoyé par courriel à un
 
 ---
 
-## Demande de sous-traitance
+## Demande de sous-traitance {#sous-traitance}
 
-### Créer
+### Créer {#creation}
 
 1. Cliquez sur **Créer une demande**
 2. Remplir la fiche
@@ -58,7 +58,7 @@ Ce statut changera pour **Envoyée** lorsqu'elle sera envoyé par courriel à un
 
 ####
 
-### Visualiser
+### Visualiser {#visualiser}
 
 Cliquez sur l'oeil afin de visualiser une demande.
 
@@ -68,7 +68,7 @@ Cliquez sur l'oeil afin de visualiser une demande.
 
   ![](../../static/img/Soustraitances_08.png)
 
-### Envoyer
+### Envoyer {#envoyer}
 
 Cliquez sur l'enveloppe pour envoyer votre demande par courriel.
 
@@ -85,7 +85,7 @@ Enveloppe **en couleu**r : courriel envoyé
 
 ---
 
-## Actions diverses
+## Actions diverses {#actions}
 
 #### **En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation)**
 
@@ -96,18 +96,18 @@ Enveloppe **en couleu**r : courriel envoyé
 
 ---
 
-## Informations supplémentaires
+## Informations supplémentaires {#infos-supplementaires}
 
-- Il est possible de créer une demande de sous-traitance et la « [Lier](../estimation/soumissions.md#opérations-globales) » à une opération externe d'une soumission par la suite.
+- Il est possible de créer une demande de sous-traitance et la « [Lier](../estimation/soumissions.md#operations-globales) » à une opération externe d'une soumission par la suite.
 
 Si une soumission est liée à votre demande, vous pouvez la consulter en cliquant sur le numéro de soumission à droite du nom du Projet.
 
 ![](../../static/img/Soustraitances_12.png)
 
-- Une demande de sous-traitance peut être créée à partir d'une [opération externe](../estimation/soumissions.md#opérations-globales) d'une soumission.
+- Une demande de sous-traitance peut être créée à partir d'une [opération externe](../estimation/soumissions.md#operations-globales) d'une soumission.
 
 ---
 
-## Vidéo démo du module
+## Vidéo démo du module {#video}
 
 [https://www.youtube.com/watch?v=enbRlzHF3rM](https://www.youtube.com/watch?v=enbRlzHF3rM)

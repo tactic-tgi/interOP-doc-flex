@@ -121,11 +121,14 @@ const sidebars = {
         { type: 'doc', id: 'production/dossiers', label: 'Dossiers' },
         { type: 'doc', id: 'production/suivi', label: 'Liste de suivi' },
         { type: 'doc', id: 'production/calendrier', label: 'Calendrier' },
-        {
-          type: 'doc',
-          id: 'production/saisie-temps',
-          label: 'Saisie de temps',
-        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Saisie de temps',
+      items: [
+        { type: 'doc', id: 'saisie-temps/ecran-principal', label: 'Écran principal' },
+        { type: 'doc', id: 'saisie-temps/stations', label: 'Stations' },
       ],
     },
     {

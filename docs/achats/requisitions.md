@@ -16,7 +16,7 @@ Remplir les critères souhaités dans la fenêtre **Filtres**, puis cliquez sur
 
 ![](../../static/img/Requisition_02.png)
 
-## Créer une commande depuis les réquisitions
+## Créer une commande depuis les réquisitions {#creation}
 
 Cochez les produits que vous souhaitez inclure dans la commande, en choissisant les lignes manuellement ou en cochant la case située dans l'entête bleue du fournisseur (ou selon le regroupement choisit) pour sélectionner tous les produits associés à celui-ci.
 
@@ -30,23 +30,23 @@ Cliquez sur le bouton **Rafraîchir** pour actualiser la liste des réquisitio
 
 ![](../../static/img/Requisition_04.png)
 
-### Modification Fournisseur par défaut (favori)
+### Modification Fournisseur par défaut (favori) {#modifier-fournisseur}
 
 Le fournisseur associé à une réquisition dont le statut est **À traiter** peut être modifié en cliquant directement sur la ligne. Une fenêtre s'ouvrira pour vous permettre de le changer. Seuls les fournisseurs liés à ce produit apparaitront.
 
 ![](../../static/img/Requisition_06.png)
 
-## Réquisitions traitées
+## Réquisitions traitées {#requisitions-traitees}
 
 Par le tri, si vous décidez de visualiser les réquisitions qui ont été traitées, donc passées en commande, vous y verrez le numéro de commande au bout à droite.
 
 En cliquant sur la ligne, vous pouvez voir le détail de la commande.
 
-Si votre magasinier a réceptionné le matériel, donc qu'il a [coché la case "Complet"](../achats/commandes.md#compléter-une-commande) dans la ligne de commande, le statut deviendra **Reçu**. Utiliser le filtre pour les visualiser.
+Si votre magasinier a réceptionné le matériel, donc qu'il a [coché la case "Complet"](../achats/commandes.md#completer-commande) dans la ligne de commande, le statut deviendra **Reçu**. Utiliser le filtre pour les visualiser.
 
 ![](../../static/img/Requisition_05.png)
 
-## Réquisitions Annulées
+## Réquisitions Annulées {#requisitions-annulees}
 
 Si vous ne voulez pas passer en commande une réquisition, vous pouvez la sélectionner par la case et dans le menu Actions, faire **Annuler Réquisition**
 
@@ -54,15 +54,15 @@ Attention toutefois : une réquisition annulée ne pourra pas être réutilisée
 
 ![](../../static/img/Requisition_07.png)
 
-## Comment paramétrer ce qui sera créer comme une réquisition
+## Comment paramétrer ce qui sera créer comme une réquisition {#parametrer}
 
-Vous avez un grand contrôle sur ce que vous voulez ou non qui soit créé comme une réquisition. Pour se faire, il suffit de vous rendre dans les [standards](../parametres/standards.md#réquisitions) et de cocher les cases pertinentes à vos processus de commandes.
+Vous avez un grand contrôle sur ce que vous voulez ou non qui soit créé comme une réquisition. Pour se faire, il suffit de vous rendre dans les [standards](../parametres/standards.md#requisitions) et de cocher les cases pertinentes à vos processus de commandes.
 
 Vous avez également le contrôle à automatiser la création des réquisitions dès le lancement du dossier, ou bien vous pouvez décider de le faire manuellement depuis le module Dossiers.
 
 ![](../../static/img/Parametres_Standards_13.png)
 
-## Mettre à jour les réquisitions
+## Mettre à jour les réquisitions {#mettre-a-jour}
 
 Si une réquisition n'a pas encore été traitée, vous pouvez la mettre à jour depuis le dossier lié.
 

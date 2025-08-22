@@ -6,7 +6,7 @@ title: Clients
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Ce module a été élaboré pour consigner toutes les informations relatives aux clients actuels et potentiels. En plus des contacts liés et des adresses d’expédition (sans limite de nombre), vous y retrouvez l’historique des soumissions, des dossiers, des bons d’expédition et des factures émises avec l’analyse des ventes par année.
 
@@ -14,7 +14,7 @@ De plus, l’utilisation de nos passerelles de connexion à votre logiciel compt
 
 Ouverture du module en [mode liste](../fonctionnalites-generales/navigation.md#mode-liste).
 
-Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-tris) est à Actif.
+Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris) est à Actif.
 
 ![](../../static/img/Clients_liste.png)
 
@@ -39,7 +39,7 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
 
 ---
 
-## Création d'un client
+## Création d'un client {#creation}
 
 1. Revenir dans la liste des clients et cliquer sur **Créer un client**
    ![](../../static/img/Clients_4_création.png)
@@ -61,7 +61,7 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
 
 ---
 
-## **Contact**
+## Contacts {#contacts}
 
 Icônes possibles à côté de chaque contact :
 
@@ -78,7 +78,7 @@ Contact **Inactif** : grisé
 
 ![](../../static/img/Contacts_1.png)
 
-### Ajouter un contact
+### Ajouter un contact {#ajout-contact}
 
 - Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 - Remplir la fiche : les champs marqués d'une [étoile](../fonctionnalites-generales/champs.md#champs-obligatoires) sont obligatoires.
@@ -89,7 +89,7 @@ Contact **Inactif** : grisé
 
 - **Enregistrer**
 
-### Consulter, modifier ou supprimer un contact
+### Consulter, modifier ou supprimer un contact {#consulter-contact}
 
 - Consulter
 
@@ -110,7 +110,7 @@ Contact **Inactif** : grisé
 
 ---
 
-## Adresses
+## Adresses {#adresses}
 
 Icônes possibles à côté d'une adresse :
 
@@ -119,7 +119,7 @@ Icônes possibles à côté d'une adresse :
 
 ![](../../static/img/AdressesExp_1.png)
 
-### Ajouter une adresse d'expédition
+### Ajouter une adresse d'expédition {#ajout-adresse}
 
 - Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 - Remplir la fiche
@@ -134,7 +134,7 @@ Icônes possibles à côté d'une adresse :
 
 - **Enregistrer**
 
-### Consulter, modifier ou supprimer une adresse
+### Consulter, modifier ou supprimer une adresse {#consulter-adresse}
 
 - Consulter
 
@@ -151,11 +151,11 @@ Icônes possibles à côté d'une adresse :
 
 ---
 
-## Notes
+## Notes {#notes}
 
 Les [notes](../fonctionnalites-generales/notes.md) ajoutées ici seront visible dans le haut de tous les modules où le client est utilisé.
 
-### Ajouter une note
+### Ajouter une note {#ajout-note}
 
 1. Cliquez sur l'onglet Notes
 2. Cliquez sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
@@ -172,7 +172,7 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 
 ---
 
-### Actions diverses
+### Actions diverses {#actions}
 
 #### En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation)
 
@@ -204,23 +204,23 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 
 ---
 
-## Autres fonctionnalités
+## Autres fonctionnalités {#autres}
 
 Dans l'onglet **Facture.**
 
-### Mettre à jour le total des ventes
+### Mettre à jour le total des ventes {#maj-total-ventes}
 
 L'actualisation des totaux ne se fait pas automatiquement.
 
 Cliquez pour actualiser le total des ventes pour les 5 dernières années.
 ![](../../static/img/Clients_facture_refresh.png)
 
-### Créer une facture
+### Créer une facture {#creation-facture}
 
-Suivre les étapes de la [création](../post-production/factures.md#création-dune-facture) de nouvelle facture.
+Suivre les étapes de la [création](../post-production/factures.md#creation) de nouvelle facture.
 
 ---
 
-## Vidéo démo du module
+## Vidéo démo du module {#video}
 
 [https://www.youtube.com/watch?v=y99c8--Omm0](https://www.youtube.com/watch?v=y99c8--Omm0)

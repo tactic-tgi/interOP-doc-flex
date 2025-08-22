@@ -8,15 +8,15 @@ title: Rapports
 
 L'écran des rapports est accessible à partir du [menu principal](../menu.md), dans la section **Paramètres**.
 
-Afin d'avoir accès aux différents rapports, vos [privilèges utilisateurs](../parametres/utilisateurs.md#accès--privilèges-aux-modules) doivent vous le permettre.
+Afin d'avoir accès aux différents rapports, vos [privilèges utilisateurs](../parametres/utilisateurs.md#acces) doivent vous le permettre.
 
 ![](../../static/img/Rapport_01.png)
 
-## Dossier
+## Dossier {#dossier}
 
 ![](../../static/img/Rapport_02.png)
 
-### Prix de revient sommarisés
+### Prix de revient sommarisés {#prix-revient}
 
 Rapport permettant d'avoir une vue d'ensemble de tous vos dossiers.
 
@@ -28,7 +28,7 @@ Ouverture du rapport sur la fenêtre Filtres. Les filtres permettent de génére
 
 Une ligne grisée indique que le dossier n'a pas été lancé en production.
 
-Consultez le dossier lié en cliquant sur sa ligne, puis vous pourrez consulter le prix de revient de celui-ci en allant dans le menu Actions du dossier, puis [Ouvrir prix de revient](../production/dossiers.md#prix-de-revient).
+Consultez le dossier lié en cliquant sur sa ligne, puis vous pourrez consulter le prix de revient de celui-ci en allant dans le menu Actions du dossier, puis [Ouvrir prix de revient](../production/dossiers.md#prix-revient).
 
 Une fois le rapport généré, vous pouvez retourner dans le filtre pour changer des paramètres ou bien chercher un travail en particulier, par le filtre du haut.
 
@@ -38,9 +38,9 @@ Résultat du rapport ⤵️
 
 ---
 
-## Facturation
+## Facturation {#facturation}
 
-### Ventes
+### Ventes {#ventes}
 
 Rapport de ventes détaillées.
 
@@ -70,11 +70,11 @@ Résultat du rapport ⤵️
 
 ---
 
-## [Saisie de temps](../production/saisie-temps.md)
+## Saisie de temps {#saisie-temps}
 
 ![](../../static/img/Rapport_08.png)
 
-### Paie - Détail
+### Paie - Détail {#paie-detail}
 
 Ouverture du rapport sur la semaine en cours.
 
@@ -113,7 +113,7 @@ Remplir les informations à l'écran et cliquez sur **Enregistrer.**
 
 ![](../../static/img/Rapports_Paie_04.png)
 
-### Paie - Sommaire Semaine
+### Paie - Sommaire Semaine {#paie-sommaire}
 
 Ouverture du rapport sur la semaine en cours pour tous les employés.
 

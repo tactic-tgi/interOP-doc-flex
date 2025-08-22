@@ -6,7 +6,7 @@ title: Notes
 
 ---
 
-### Notes provenant de la fiche client ou fournisseur
+### Notes provenant de la fiche client ou fournisseur {#note-client-fournisseur}
 
 Dans le haut de chaque module, en mode consultation, cliquez sur le crayon pour visualisez les notes entrées dans la [fiche du client](../contacts/clients.md) ou [fiche fournisseur](../contacts/fournisseurs.md).
 
@@ -16,7 +16,8 @@ Vous avez la possibilité d'en créer de nouvelles au besoin.
 
 ![](../../static/img/Fonctionnalites_Notes_06.png)
 
-### Notes (actions)
+### Notes (actions) {#notes-actions}
+
 
 Lors de la création d'une nouvelle notes :
 
@@ -26,7 +27,8 @@ Lors de la création d'une nouvelle notes :
 
 ![](../../static/img/Fonctionnalites_notes_01.png)
 
-#### Consulter, modifier ou supprimer une note
+#### Consulter, modifier ou supprimer une note {#consulter-note}
+
 
 - Consulter
 
@@ -41,7 +43,7 @@ Lors de la création d'une nouvelle notes :
 
   dans la fiche, cliquez sur **Supprimer**
 
-#### Pièce(s) jointe(s)
+#### Pièce(s) jointe(s) 
 
 Cliquez sur cet icône ou glissez-déposez pour insérer un fichier. Aucune limite de pièces jointes.
 

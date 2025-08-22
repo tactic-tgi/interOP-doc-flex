@@ -6,7 +6,7 @@ title: Liste de suivi
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Chaque lancement de travail en production est ajouté à cette liste et y demeure tant que le dossier n’est pas facturé, ce qui permet d’avoir la liste complète des contrats actifs.
 
@@ -14,7 +14,7 @@ Suivez-y rapidement l’avancement des travaux, réduisez par le fait même les 
 
 ![](../../static/img/Liste_suivi_01.png)
 
-## Informations
+## Informations {#informations}
 
 La liste de suivi est connecté avec le module de Saisie de temps.
 
@@ -25,7 +25,7 @@ Vous pouvez aussi cliquer sur une opération et la terminer par la case Complet 
 
 ![](../../static/img/Liste_suivi_03.png)
 
-### Opérations
+### Opérations {#operations}
 
 Cliquez sur la ligne d'une des opération pour accéder à son détail, dans la portion de droite.
 
@@ -44,6 +44,6 @@ Exemple : Opération Traitement des fichiers
 
 ---
 
-## Vidéo démo du module
+## Vidéo démo du module {#video}
 
 [https://www.youtube.com/watch?v=gEpr7zySOIs](https://www.youtube.com/watch?v=gEpr7zySOIs)

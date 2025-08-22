@@ -6,20 +6,20 @@ title: Mes préférences
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Avec ce module, gérez facilement vos paramètres du logiciel, selon vos préférences à vous ! Il sert également à le personnaliser pour votre accès. Chaque utilisateur devrait donc aller entrer les différentes données et faire les choix de base, lors de la toute première connexion à InterOP.
 
 ![](../../static/img/Parametres_Preferences_menu.png)
 
-## Informations personnelles
+## Informations personnelles {#infos-personnelles}
 
-### Informations de base
+### Informations de base {#infos-base}
 
 Entrez, si cela n'a pas déjà été fait dans le module Utilisateurs, vos données personnelles.
 ![](../../static/img/Parametres_Preferences_01.png)
 
-### Connexion
+### Connexion {#connexion}
 
 Affiche votre nom de compte pour entrer dans InterOP et vous permet de modifier votre mot de passe.  
 ![](../../static/img/Parametres_Preferences_02.png)
@@ -45,7 +45,7 @@ Collez ou modifiez votre signature HTML et visualisez l'aperçu de celle-ci.
 
 ## Gestion des enregistrements {#enregistrements}
 
-### Favoris
+### Favoris {#favoris}
 
 Visualisez vos favoris au travers de tous les modules. Permet facilement de se rendre dans l'enregistrement en cliquant sur la ligne.
 ![](../../static/img/Parametres_Preferences_06.png)

@@ -6,7 +6,7 @@ title: Factures
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Le module Facturation permet de produire des factures de vente selon la mise en forme souhaitée en rappelant le numéro d’un dossier, ce qui affiche automatiquement le nom du travail, la quantité commandée et le prix unitaire.
 
@@ -14,7 +14,7 @@ L’intégration avec votre logiciel comptable par notre passerelle de connexion
 
 Ouverture du module en [mode liste](../fonctionnalites-generales/navigation.md#mode-liste).
 
-Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-tris) est à statut : Proforma - En préparation + Proforma - Envoyée + Finale - Prête pour envoi.
+Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris) est à statut : Proforma - En préparation + Proforma - Envoyée + Finale - Prête pour envoi.
 
 ![](../../static/img/Facturation_01.png)
 
@@ -22,7 +22,7 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-t
 
 ![](../../static/img/Facturation_02.png)
 
-## Préfixe du numéro de facture
+## Préfixe du numéro de facture {#prefixe}
 
 ![](../../static/img/Facturation_03.png)
 
@@ -30,11 +30,11 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-t
 
 ---
 
-## Création d'une facture
+## Création d'une facture {#creation}
 
 - Cliquez sur **Créer une facture** en haut à droite de la liste.
 
-### Depuis un dossier
+### Depuis un dossier {#creation-dossier}
 
     Sélectionnez un dossier à facturer. Vous pouvez utiliser le filtre pour isoler un client ou trouver un dossier facilement.
 
@@ -58,7 +58,7 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-t
 
     ![](../../static/img/Facturation_06.png)
 
-### Nouvelle facture (vide, à partir d'un client)
+### Nouvelle facture (vide, à partir d'un client) {#nouvelle-facture}
 
     Sélectionner un client.
 
@@ -76,15 +76,15 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-t
 
     ![](../../static/img/Facturation_10.png)
 
-### Responsable facturation
+### Responsable facturation {#responsable}
 
-Responsable de la facturation : Veuillez vous référer à la fiche [Clients](../contacts/clients.md#consulter-modifier-ou-supprimer-un-contact) pour voir votre contact de Facturation par défaut.
+Responsable de la facturation : Veuillez vous référer à la fiche [Clients](../contacts/clients.md#consulter-contact) pour voir votre contact de Facturation par défaut.
 
 À noter qu'on ne peut avoir qu'un seul responsable facturation, mais on peut avoir autant de contact que l'on veut qui sont cochés "Facturation - Envoi courriel", un peu comme un utilisateur en CC dans un courriel.
 
 Par défaut, le responsable de la facturation sera dans l'envoi courriel ainsi que tous ceux cochés dans "Envoi courriel". Si on ne coche aucun contact dans "Envoi courriel", le responsable de la facturation va quand même recevoir la facture.
 
-## Ajouter une ligne de facture
+## Ajouter une ligne de facture {#ajout-ligne}
 
 Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png) et choisir l'option désirée.
 
@@ -92,7 +92,7 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
 
 ![](../../static/img/Facturation_12.png)
 
-### Depuis un dossier
+### Depuis un dossier {#ajout-ligne-dossier}
 
     Sélectionnez un dossier : certaines informations seront recopiées automatiquement, comme la description et le numéro de commande.
 
@@ -104,25 +104,25 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
 
     ![](../../static/img/Facturation_16.png)
 
-### Depuis un produit
+### Depuis un produit {#ajout-ligne-produit}
 
     Sélectionnez un produit et remplir les informations manquantes (quantité, prix) et cliquez sur Enregistrer.
 
 ![](../../static/img/Facturation_18.png)
 
     Une ligne va se créer.
-    Pour éditer vos produits standards facturation, veuillez consulter la section [Paramètres](../parametres/systeme.md#produits-standards-à-facturer).
+    Pour éditer vos produits standards facturation, veuillez consulter la section [Paramètres](../parametres/systeme.md#produits).
 
-### Depuis un GL
+### Depuis un GL {#ajout-ligne-comptegl}
 
     Sélectionnez un compte GL et remplir les informations (description, quantité, prix) et cliquez sur Enregistrer.
 
 ![](../../static/img/Facturation_17.png)
 
     Une ligne contenant le compte GL va se créer.
-    Pour éditer vos comptes GL, veuillez consulter la section [Paramètres](../parametres/systeme.md#comptes-gl).
+    Pour éditer vos comptes GL, veuillez consulter la section [Paramètres](../parametres/systeme.md#comptesgl).
 
-### Ligne de texte
+### Ligne de texte {#ajout-ligne-texte}
 
     Une ligne vierge va se créer.
 
@@ -131,15 +131,15 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
 
     ![](../../static/img/Facturation_14.png)
 
-## Messages
+## Messages {#messages}
 
-Le message au bas de la facture provient de vos [paramètres Système](../parametres/systeme.md#messages-sur-formulaires).
+Le message au bas de la facture provient de vos [paramètres Système](../parametres/systeme.md#messages).
 
 ![](../../static/img/Facturation_11.png)
 
 ---
 
-## Actions diverses
+## Actions diverses {#actions}
 
 #### En mode consultation
 
@@ -158,6 +158,6 @@ Le message au bas de la facture provient de vos [paramètres Système](../parame
 
 ---
 
-## Vidéo démo du module
+## Vidéo démo du module {#video}
 
 [https://www.youtube.com/watch?v=7EsPkFZrBQw](https://www.youtube.com/watch?v=7EsPkFZrBQw)

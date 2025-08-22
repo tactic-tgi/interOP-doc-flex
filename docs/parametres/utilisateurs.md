@@ -6,7 +6,7 @@ title: Utilisateurs
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Avec ce module, gérez facilement l'accès de tous vos employés.
 
@@ -14,7 +14,7 @@ Avec ce module, gérez facilement l'accès de tous vos employés.
 
 Ouverture du module en mode liste.
 
-Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-tris) est à Actif.
+Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris) est à Actif.
 
 ![](../../static/img/Parametres_Utilisateurs_1.png)
 
@@ -92,7 +92,7 @@ Utilisez le bouton rouge **Supprimer l'accès à interOP** dans la fiche de l'ut
 
 #### Définir attributions
 
-Cette partie est en lien avec la [Saisie de temps](../production/saisie-temps.md).
+Cette partie est en lien avec la [Saisie de temps](../saisie-temps/ecran-principal.md).
 
 Permet de définir des tâches, équipements et opérations liés à l'employé afin qu'il ne voit pas des informations qu'il ne devrait pas ou qui sont non pertinents pour lui.
 

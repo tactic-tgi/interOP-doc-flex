@@ -6,7 +6,7 @@ title: Soumissions
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Parfait pour l’estimation facile et complète du coût d’un travail (main-d’œuvre, matériaux et sous-traitance) et la transmission des propositions aux clients.
 
@@ -14,11 +14,11 @@ Les paramètres de calcul sont entièrement personnalisables afin de refléter v
 
 Ouverture du module en [mode liste](../fonctionnalites-generales/navigation.md#mode-liste)
 
-Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-tris) est à statut : En calcul + Envoyée + Imprimée.
+Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris) est à statut : En calcul + Envoyée + Imprimée.
 
 ![](../../static/img/Soumissions_01.png)
 
-### Statut
+### Statut {#statut}
 
 En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation), le statut d'une soumission est indiqué dans le coin supérieur droit.
 
@@ -34,28 +34,28 @@ En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultat
 
   Soumission lancée en production.
 
-- [Modèle](../estimation/soumissions.md#types-de-soumission)
+- [Modèle](../estimation/soumissions.md#types)
 
 ---
 
 N'oubliez pas que tous les temps, coûts etc. proviennent de vos [Standards](../parametres/standards.md).
 
-### Créer une soumission
+### Créer une soumission {#creation}
 
 Cliquez sur **Créer une soumission** et choisissez un type.
 
 N'oubliez pas de remplir tous les [champs obligatoires](../fonctionnalites-generales/champs.md#champs-obligatoires).
 Si des champs sont manquants, vous verrez un message lorsque vous sortirez de la soumission en cours.
-Vous pourrez cliquer sur Corriger pour voir les champs en surbrillance (contour rouge). Voir section [Composantes](../estimation/soumissions.md#informations-supplémentaires).
+Vous pourrez cliquer sur Corriger pour voir les champs en surbrillance (contour rouge). Voir section [Composantes](../estimation/soumissions.md#infos-supplementaires).
 
-### Types de soumission
+### Types de soumission {#types}
 
 - Régulière
 - Modèle
 
   Sert de modèle de base duquel repartir pour créer une nouvelle soumission (dupliquer), permet de sauver du temps et d'avoir des soumissions uniformes. Les items d'une soumission modèle ne peuvent être ni révisés ni servir pour la création d'un dossier.
 
-## Informations de base
+## Informations de base {#infos-base}
 
 La portion du **haut** contient les informations de bases de la soumission.
 
@@ -77,7 +77,7 @@ La portion du **haut** contient les informations de bases de la soumission.
 
   ![](../../static/img/Soumissions_07.png)
 
-  Si le client est manquant, veuillez aller le créer dans le module [Clients](../contacts/clients.md#création-dun-client).
+  Si le client est manquant, veuillez aller le créer dans le module [Clients](../contacts/clients.md#creation).
 
 - Pour éditer le contact
 
@@ -93,7 +93,7 @@ La portion du **bas à gauche** contient des informations relatives au projet.
 
 ![](../../static/img/Soumissions_10.png)
 
-### Notes générales
+### Notes générales {#notes-generales}
 
 Cette section de notes est propre à la soumission et ne sera pas transférée au dossier de production.
 
@@ -105,7 +105,7 @@ Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
 Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](../fonctionnalites-generales/notes.md#notes-actions).
 
-### Notes de production
+### Notes de production {#notes-production}
 
 Des cases de notes sont disponibles pour chaque section de la soumission (Prépresse, Infographie, Impression, Support) et seront associées au dossier de production correspondant.
 ![](../../static/img/Soumissions_Notes03.png)
@@ -122,11 +122,11 @@ Contient des notes : icône en couleur
 
 ---
 
-## Items
+## Items {#items}
 
 Une soumission doit contenir au minimum un item.
 
-Consultez la section [Actions diverses](../estimation/soumissions.md#actions-diverses) pour découvrir les actions possibles pour un item (duplication, révision, etc).
+Consultez la section [Actions diverses](#actions) pour découvrir les actions possibles pour un item (duplication, révision, etc).
 
 Cliquez sur la ligne d'un des items pour consulter sa fiche, apporter des modifications et le supprimer.
 
@@ -146,7 +146,7 @@ Si l'icône dossier est visible, c'est qu'un dossier de production a été ouver
 
 ![](../../static/img/Soumissions_13.png)
 
-### Créer un item
+### Créer un item {#creation-item}
 
 Cliquez sur l'icône ![](../../static/img/Contacts_2_iconeajout.png)
 
@@ -166,12 +166,12 @@ Cliquez sur l'icône ![](../../static/img/Contacts_2_iconeajout.png)
 
 - Depuis un modèle
 
-  Créer un item depuis un [modèle existant](../estimation/soumissions.md#types-de-soumission) viendra créer automatiquement l'item et ses [composantes](../estimation/soumissions.md#composantes)
+  Créer un item depuis un [modèle existant](../estimation/soumissions.md#types) viendra créer automatiquement l'item et ses [composantes](../estimation/soumissions.md#composantes)
   . Modifiez au besoin les informations.
 
   ![](../../static/img/Soumissions_17.png)
 
-### Quantité(s)
+### Quantité(s) {#quantites}
 
 Il est possible de modifier une quantité déjà existante ou d'en ajouter de nouvelles en cliquant sur le ![](../../static/img/Contacts_2_iconeajout.png)
 
@@ -179,7 +179,7 @@ Il est possible de modifier une quantité déjà existante ou d'en ajouter de no
 
 ---
 
-## Composantes
+## Composantes {#composantes}
 
 Chaque item doit contenir au minimum 1 composante.
 
@@ -189,7 +189,7 @@ Ce sont la ou les composantes qui composent l'item lié.
 
 ![](../../static/img/Soumissions_19.png)
 
-### Informations supplémentaires
+### Informations supplémentaires {#infos-supplementaires}
 
 - Informations communes versus informations modifiables (selon quantité)
 
@@ -226,7 +226,7 @@ Ce sont la ou les composantes qui composent l'item lié.
 
   ![](../../static/img/Soumissions_24.png)
 
-### Informations de base
+### Informations de base {#infos-bases}
 
 Remplir les informations.
 
@@ -252,7 +252,7 @@ Le bouton avec les deux flèches permet de pivoter l'item pour valider l'optimis
 
 ####
 
-### Prépresse
+### Prépresse {#prepresse}
 
 La portion **Infographie** permet d'ajouter du temps additionnel pour le traitement des fichiers.
 
@@ -265,13 +265,13 @@ Exemple ➝ Du graphisme, de la mise en page, de la calibration de couleurs etc.
   Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
   ![](../../static/img/Soumissions_29.png)
 
-### Plaques
+### Plaques {#plaques}
 
 Section disponible seulement lorsque le procédé d'impression utilise des plaques.
 
 ![](../../static/img/Soumissions_30.png)
 
-### Support & Impression
+### Support & Impression {#support}
 
 Cette section contient tous les détails relatifs au support à imprimer et l'équipement d'impression.
 
@@ -283,7 +283,7 @@ Cette section contient tous les détails relatifs au support à imprimer et l'é
 
 ![](../../static/img/Soumissions_32.png)
 
-### Opérations et emballages
+### Opérations et emballages {#operations-emballages}
 
 Ici les opérations et l'emballage sont propres à une composante.
 
@@ -291,7 +291,7 @@ Ici les opérations et l'emballage sont propres à une composante.
 
 **Opérations**
 
-La procédure pour ajouter une nouvelle opération est la même que pour les [opérations globales](../estimation/soumissions.md#opérations-globales).
+La procédure pour ajouter une nouvelle opération est la même que pour les [opérations globales](../estimation/soumissions.md#operations-globales).
 
 Une seule différence est visible : l'encadré informatif **Composante visée**.
 
@@ -317,7 +317,7 @@ La procédure pour ajouter un nouvel emballage est la même que pour les [emball
 
 ---
 
-## Opérations globales
+## Opérations globales {#operations-globales}
 
 Ici les opérations sont globales pour l'item.
 
@@ -327,7 +327,7 @@ Pour ajouter une nouvelle opération, cliquez sur **l'icône**![](../../static/i
 
 ![](../../static/img/Soumissions_38.png)
 
-### Interne
+### Interne {#interne}
 
 Sélectionnez une famille d'opération. Ici on choisit **Pliage sur plieuse**.
 
@@ -365,7 +365,7 @@ Pour modifier et/ou supprimer une opération globale, cliquez sur sa ligne pour 
 
 ---
 
-## Emballages globaux
+## Emballages globaux {#emballages-globaux}
 
 Ici l'emballage est global pour l'item.
 
@@ -383,7 +383,7 @@ Pour modifier et/ou supprimer un emballage, cliquez sur sa ligne pour l'ouvrir e
 
 ---
 
-## Transports & Livraisons
+## Transports & Livraisons {#transports}
 
 ![](../../static/img/Soumissions_49.png)
 
@@ -400,7 +400,7 @@ Pour modifier et/ou supprimer un transport, cliquez sur sa ligne pour l'ouvrir e
 
 ---
 
-## Sommaire & Proposition
+## Sommaire & Proposition {#sommaire-proposition}
 
 #### **Sommaire des coûts**
 
@@ -416,8 +416,8 @@ La partie du bas permet de faire des modification, cliquez dessus pour y accéde
 
 - Modifications
 
-  - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../parametres/standards.md#majoration-valeurs-par-défaut-et-réquisitions), mais peuvent aussi être propre à un client.
-  - Commission peut être définit par défaut dans les [standards](../parametres/standards.md#majoration-valeurs-par-défaut-et-réquisitions), mais peut aussi être propre à un [représentant](../parametres/utilisateurs.md#création-dutilisateur).
+  - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../parametres/standards.md#majoration), mais peuvent aussi être propre à un client.
+  - Commission peut être définit par défaut dans les [standards](../parametres/standards.md#majoration), mais peut aussi être propre à un [représentant](../parametres/utilisateurs.md#creation).
     ![](../../static/img/Soumissions_55.png)
 
 Une fois vos coûts validés, vous avez la possibilité d'**Enregistrer** pour confirmer et fermer la fenêtre ou de valider la **proposition au client**.
@@ -436,7 +436,7 @@ Révisez et modifiez aux besoin les informations.
 
 ---
 
-## Actions diverses
+## Actions diverses {#actions}
 
 #### En mode consultation, fenêtre de la Soumission
 
@@ -458,7 +458,7 @@ Révisez et modifiez aux besoin les informations.
 - [Courriel](../fonctionnalites-generales/courriels.md)
 - Déclarer comme modèle
 
-  N'importe quelle soumission peut être utilisée afin d'en faire un [modèle.](../estimation/soumissions.md#types-de-soumission)
+  N'importe quelle soumission peut être utilisée afin d'en faire un [modèle.](../estimation/soumissions.md#types)
 
   ![](../../static/img/Soumissions_59.png)
 
@@ -483,6 +483,6 @@ Révisez et modifiez aux besoin les informations.
 
 ---
 
-## Vidéo démo du module
+## Vidéo démo du module {#video}
 
 [https://www.youtube.com/watch?v=Pa3W76IVRNU](https://www.youtube.com/watch?v=Pa3W76IVRNU)

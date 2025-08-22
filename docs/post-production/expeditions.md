@@ -6,19 +6,19 @@ title: Expéditions
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Créez facilement des bons d’expédition et des étiquettes selon la mise en forme souhaitée. Il suffit de sélectionner le numéro d’un dossier lancé en production. Les informations pertinentes seront copiées automatiquement et vous pourrez par la suite générer aisément les différents documents requis.
 
 Ouverture du module en [mode liste](../fonctionnalites-generales/navigation.md#mode-liste).
 
-Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-tris) est à statut : En préparation
+Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris) est à statut : En préparation
 
 ![](../../static/img/Expedition_01.png)
 
 ---
 
-## Création d'un bon d'expédition
+## Création d'un bon d'expédition {#creataion}
 
 - Cliquez sur **Créer un bon d'expédition** en haut à droite de la liste.
 
@@ -36,7 +36,7 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-t
 
   ![](../../static/img/Expedition_17.png)
 
-  \*À noter que le message au bas provient de vos [paramètres Système](../parametres/systeme.md#messages-sur-formulaires).
+  \*À noter que le message au bas provient de vos [paramètres Système](../parametres/systeme.md#messages).
 
   ![](../../static/img/Expedition_18.png)
 
@@ -52,9 +52,9 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-t
 
   ![](../../static/img/Expedition_03.png)
 
-  \*Le message au bas provient de vos [paramètres Système](../parametres/systeme.md#messages-sur-formulaires).
+  \*Le message au bas provient de vos [paramètres Système](../parametres/systeme.md#messages).
 
-### Ajouter une ligne d'expédition
+### Ajouter une ligne d'expédition {#ajout-ligne}
 
 Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
@@ -75,7 +75,7 @@ Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
   ![](../../static/img/Expedition_07.png)
 
-### Étiquettes pour boite
+### Étiquettes pour boite {#etiquettes}
 
 Cliquez sur le bouton **Étiquettes ➝ 4 x 6** pour visualiser l'étiquette et l'imprimer.
 
@@ -83,7 +83,7 @@ Cliquez sur le bouton **Étiquettes ➝ 4 x 6** pour visualiser l'étiquette et 
 
 ![](../../static/img/Expedition_09.png)
 
-### Divers
+### Divers {#divers}
 
 ![](../../static/img/Expedition_10.png)
 
@@ -102,21 +102,20 @@ Cocher la case pour indiquer que le client vient chercher sa commande.
 Cliquez sur la loupe pour faire une recherche.
 
 Vous y trouverez toutes les adresses liés à votre client.
-Si l'adresse est manquante, veuillez vous rendre dans le module [client](../contacts/clients.md#ajouter-une-adresse-dexpédition) pour l'ajouter.
+Si l'adresse est manquante, veuillez vous rendre dans le module [client](../contacts/clients.md#ajout-adresse) pour l'ajouter.
 
 ![](../../static/img/Expedition_12.png)
 
 #### **4\. Identification Expéditeur**
 
-Provient de la [fiche contact](../contacts/clients.md#création-dun-client) de votre client, dans l'onglet Informations additionnelles.
+Provient de la [fiche contact](../contacts/clients.md#creation) de votre client, dans l'onglet Informations additionnelles.
 
 ![](../../static/img/Expedition_13.png)
 
 ---
 
-###
 
-### Actions diverses
+### Actions diverses {#actions}
 
 #### En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation)
 
@@ -141,6 +140,6 @@ Si des informations sont manquantes, le système vous affichera un message d'err
 
 ---
 
-## Vidéo démo du module
+## Vidéo démo du module {#video}
 
 [https://www.youtube.com/watch?v=LAlyP316cV0](https://www.youtube.com/watch?v=LAlyP316cV0)

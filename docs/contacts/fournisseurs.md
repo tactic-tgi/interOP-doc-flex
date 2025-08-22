@@ -6,13 +6,13 @@ title: Fournisseurs
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Ce module permet de saisir toutes les informations liées à vos sous-traitants et autres fournisseurs.
 
 Ouverture du module en [mode liste](../fonctionnalites-generales/navigation.md#mode-liste).
 
-Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-tris) est à Actif.
+Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris) est à Actif.
 
 ![](../../static/img/Fournisseurs_1.png)
 
@@ -22,7 +22,7 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-t
 
 La portion du **haut** présente les coordonnées de base de l'entreprise.
 
-À droite, se retrouvent les personnes [contacts](../contacts/clients.md#contact) associées à ce fournisseur.
+À droite, se retrouvent les personnes [contacts](#contacts) associées à ce fournisseur.
 
 La portion du **bas** présente l'historique pour :
 
@@ -34,7 +34,7 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
 
 ---
 
-## Création d'un fournisseur
+## Création d'un fournisseur {#creation}
 
 1. Revenir dans la liste des clients et cliquer sur **Créer un fournisseur**
    ![](../../static/img/Fournisseurs_3.png)
@@ -56,7 +56,7 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
 
 ---
 
-## Contact
+## Contacts {#contacts}
 
 Icônes possibles à côté de chaque contact :
 
@@ -70,7 +70,7 @@ Contact **Inactif** : grisé
 
 ![](../../static/img/Fournisseurs_8_contactinactif.png)
 
-### Ajouter un contact
+### Ajouter un contact {#ajout-contact}
 
 - Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
 - Remplir la fiche : les champs marqués d'une [étoile](../fonctionnalites-generales/champs.md#champs-obligatoires) sont obligatoires.
@@ -81,7 +81,7 @@ Contact **Inactif** : grisé
 
 - **Enregistrer**
 
-### Consulter, modifier ou supprimer un contact
+### Consulter, modifier ou supprimer un contact {#consulter-contact}
 
 - Consulter
 
@@ -102,11 +102,11 @@ Contact **Inactif** : grisé
 
 ---
 
-## Notes
+## Notes {#notes}
 
 Les [notes](../fonctionnalites-generales/notes.md) ajoutées ici seront visible dans le haut du module de commande où le fournisseur est utilisé.
 
-### Ajouter une note
+### Ajouter une note {#ajout-note}
 
 1. Cliquer sur l'onglet Notes
 2. Cliquer sur **l'icône** ![](../../static/img/Contacts_2_iconeajout.png)
@@ -120,7 +120,7 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 
 ---
 
-## Actions diverses
+## Actions diverses {#actions}
 
 #### En mode consultation
 
@@ -149,13 +149,13 @@ Pour consulter, modifier, supprimer une note ou insérer et consulter des pièce
 
 ---
 
-## Autres fonctionnalités
+## Autres fonctionnalités {#autres}
 
-### Créer une commande
+### Créer une commande {#creation-commande}
 
-Consultez cette [documentation](../achats/commandes.md#création-dune-commande) .
+Consultez cette [documentation](../achats/commandes.md#creation) .
 
-### Mettre à jour le total des achats
+### Mettre à jour le total des achats {#maj-total-achats}
 
 L'actualisation des totaux ne se fait pas automatiquement.
 
@@ -165,6 +165,6 @@ Cliquez pour actualiser le total des achats pour les 5 années.
 
 ---
 
-## Vidéo démo du module
+## Vidéo démo du module {#video}
 
 [https://www.youtube.com/watch?v=v3kYpor_W2I](https://www.youtube.com/watch?v=v3kYpor_W2I)

@@ -6,7 +6,7 @@ title: Dossiers
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Accessible dans la section Production, ce module sert à consigner les détails qui permettent de produire correctement le travail commandé. Toute l’information est accessible et centralisée, votre équipe de production aura donc un outil efficace pour compléter la commande de votre client !
 
@@ -16,7 +16,7 @@ En plus, un bon de travail peut être imprimé lors du lancement du contrat en p
 
 Ouverture du module en [mode liste.](../fonctionnalites-generales/navigation.md#mode-liste)
 
-Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-tris) est à statut : Attente lancement + En production + Expédié + Complété.
+Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris) est à statut : Attente lancement + En production + Expédié + Complété.
 
 Bien que vous ayez le contrôle absolu sur les filtres, nous vous conseillons de ne pas toujours montrer tous les dossiers qui sont terminés. Cela permettra de garder votre liste plus épurée et l'affichage sera plus rapide.
 
@@ -36,9 +36,9 @@ Bien que vous ayez le contrôle absolu sur les filtres, nous vous conseillons de
 
 ---
 
-## Création d'un dossier
+## Création d'un dossier {#creation}
 
-### Créer un dossier depuis la soumission (par Soumissions)
+### Créer un dossier depuis la soumission (par Soumissions) {#depuis-soumission}
 
 Le plus commun est de créer un dossier à partir d'une soumission existante. Veuillez vous rendre dans le module soumission, puis dans l'item qui sera envoyé en dossier.
 
@@ -46,7 +46,7 @@ Faire ensuite le bouton Actions et choisir Créer dossier.
 
 ![](../../static/img/Dossiers_05.png)
 
-### Créer un dossier depuis la soumission (par la liste des dossiers)
+### Créer un dossier depuis la soumission (par la liste des dossiers) {#depuis-liste}
 
 Il est aussi possible de créer votre dossier à partir du [mode liste](../fonctionnalites-generales/navigation.md#mode-liste) du module Dossiers.
 
@@ -76,7 +76,7 @@ Il est aussi possible de créer votre dossier à partir du [mode liste](../fonct
 
     Révisez votre dossier et lancez-le en production par le menu **Actions**.
 
-### Créer un dossier manuellement (sans soumission)
+### Créer un dossier manuellement (sans soumission) {#creation-manuelle}
 
 Vous ne voulez pas faire de soumission mais bien simplement créer un dossier ?
 Ceci est possible. Vous devez vous rendre dans le [mode liste](../fonctionnalites-generales/navigation.md#mode-liste) du module Dossiers.
@@ -103,7 +103,7 @@ Cliquez sur **Créer un dossier** et puis sur **Nouveau dossier**.
 
 ---
 
-## Informations de base
+## Informations de base {#infos-base}
 
 Dans l'onglet informations de base, la portion de gauche représente l'information générale du projet, soit la description de l'item, le détails de celui-ci et la soumission de référence.
 
@@ -138,9 +138,9 @@ Sélection des contacts d'approbation d'épreuves possible lorsque la méthode d
 
 ---
 
-## Détails du dossier
+## Détails du dossier {#details}
 
-### Vendu à et Facturé à
+### Vendu à et Facturé à {#vendu-facture}
 
 Dans cet onglet, vous verrez les informations relatives au client lié à ce dossier (**Vendu à**) ainsi que celui lié à la facturation (**Facturé à**), qui peut être différent.
 
@@ -152,7 +152,7 @@ Cliquez sur la **loupe** ![](../../static/img/Soumissions_loupe.png) pour faire 
 
     ![](../../static/img/Dossiers_23.png)
 
-Si le client est manquant, veuillez aller le créer dans le module [Clients](../contacts/clients.md#création-dun-client).
+Si le client est manquant, veuillez aller le créer dans le module [Clients](../contacts/clients.md#creation).
 
 - Pour éditer un contact
 
@@ -164,7 +164,7 @@ Si le client est manquant, veuillez aller le créer dans le module [Clients](../
 
   ![](../../static/img/Dossiers_21.png)
 
-### Enregistrements liés
+### Enregistrements liés {#enregistrements}
 
 Dans la portion de droite, vous trouverez des portails qui vous permettront de voir et d'accéder rapidement à tout ce qui est lié à votre dossier : commande d'achat, expédition, factures et les notes.
 
@@ -206,7 +206,7 @@ Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
 Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](../fonctionnalites-generales/notes.md#notes-actions).
 
-## Détails du projet
+## Détails du projet {#details-projets}
 
 Cet onglet représente le détail du travail à faire. Généralement, il provient de la soumission lié.
 
@@ -216,17 +216,17 @@ Si une modification mineure a été apportée et que vous voulez facturer une so
 
 Si les modifications sont trop importantes, il est préférable d'annuler le dossier et d'en recréer un nouveau avec la nouvelle soumission, surtout si le travail n'était pas encore en production.
 
-### Composantes, finitions, emballages et transport
+### Composantes, finitions, emballages et transport {#composantes}
 
 Pour toutes les informations relatives au fonctionnement des divers blocs présents, veuillez vous référer aux sections suivantes (même informations que le module de Soumission) :
 
-- [Quantités](../estimation/soumissions.md#quantités)
+- [Quantités](../estimation/soumissions.md#quantites)
 - [Composantes](../estimation/soumissions.md#composantes)
-- [Opérations globales](../estimation/soumissions.md#opérations-globales)
+- [Opérations globales](../estimation/soumissions.md#operations-globales)
 - [Emballages globaux](../estimation/soumissions.md#emballages-globaux)
-- [Transports & Livraisons](../estimation/soumissions.md#transports--livraisons)
+- [Transports & Livraisons](../estimation/soumissions.md#transports)
 
-### Réquisitions et opérations
+### Réquisitions et opérations {#requisitions}
 
 Vous trouverez l'ensemble des **réquisitions d'achat** du dossier.
 
@@ -249,11 +249,11 @@ Vous pouvez aussi, par ce menu, compléter toutes les opérations en un seul cli
 
 ![](../../static/img/Dossiers_15.png)
 
-## Prix de revient
+## Prix de revient {#prix-revient}
 
 Pour valider vos coûtants, vos vendants et votre marge de profit, l'outil Prix de revient est essentiel. Le report de tous les coûts se retrouvent à cet endroit. Vous pourrez les valider, les ajuster et confirmer que le travail a été profitable pour vous !
 
-Le dossier doit être lancé en production et vous devez avoir les [accès nécessaires](../parametres/utilisateurs.md#accès--privilèges-aux-modules) pour consulter le prix de revient.
+Le dossier doit être lancé en production et vous devez avoir les [accès nécessaires](../parametres/utilisateurs.md#acces) pour consulter le prix de revient.
 
 ![](../../static/img/Dossier_Prixderevient.png)
 
@@ -271,7 +271,7 @@ Une poubelle apparaitra au bout des lignes ajoutées manuellement, pour vous per
 
 ---
 
-## Actions diverses
+## Actions diverses {#actions}
 
 ![](../../static/img/Dossiers_28.png)
 
@@ -284,11 +284,11 @@ Une poubelle apparaitra au bout des lignes ajoutées manuellement, pour vous per
   ![](../../static/img/Dossiers_29.png)
 
 - Mettre les réquisitions à jour
-  Voir explication dans le module [**Réquisition**](../achats/requisitions.md#mettre-à-jour-les-réquisitions)
+  Voir explication dans le module [**Réquisition**](../achats/requisitions.md#mettre-a-jour)
 
 - Ouvrir prix de revient
 
-  Voir section [Prix de revient](../production/dossiers.md#prix-de-revient)
+  Voir section [Prix de revient](../production/dossiers.md#prix-revient)
 
 - Changer l'estimé de référence
 
@@ -299,6 +299,6 @@ Une poubelle apparaitra au bout des lignes ajoutées manuellement, pour vous per
 
 ---
 
-## Vidéo démo du module
+## Vidéo démo du module {#video}
 
 [https://www.youtube.com/watch?v=0rQdB5g8RfA](https://www.youtube.com/watch?v=0rQdB5g8RfA)

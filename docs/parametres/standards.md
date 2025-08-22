@@ -6,7 +6,7 @@ title: Standards
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Cette section a été élaborée pour consigner tous les standards requis afin de produire une soumission. Vous y consignerez vos différentes majorations, vos taux horaires (coûtant/vendant), la liste de vos équipements d'impression, les opérations diverses internes et externes, etc.
 
@@ -14,9 +14,9 @@ Cette section a été élaborée pour consigner tous les standards requis afin d
 
 ---
 
-## Général & Prépresse
+## Général & Prépresse {#general-prepresse}
 
-### Items
+### Items {#items}
 
 Définissez tous les nom d'items qui pourront être utilisé dans la soumission.
 
@@ -24,15 +24,15 @@ Un item avec une quantité produite ( colonne **Produits**) ne peut pas être su
 
 ![](../../static/img/Parametres_Standards_2.png)
 
-### Prépresse
+### Prépresse {#prepresse}
 
 ![](../../static/img/Parametres_Standards_3.png)
 
-### Épreuves
+### Épreuves {#epreuves}
 
 ![](../../static/img/Parametres_Standards_4.png)
 
-### Divers
+### Divers {#divers}
 
 Sur la **Proposition client,** vous avez la possibilité de :
 
@@ -70,62 +70,62 @@ Noter que si un frais d'ouverture a été ajouté dans la [fiche du client](../c
 
 ---
 
-## Impression
+## Impression {#impression}
 
-### Équipements & Opérations simultanées
+### Équipements & Opérations simultanées {#equipements-operations}
 
 ![](../../static/img/Parametres_Standards_7.png)  
 ![](../../static/img/Parametres_Standards_8.png)
 
-### Encres
+### Encres {#encres}
 
 ![](../../static/img/Parametres_Standards_9.png)
 
 ---
 
-## Matières premières
+## Matières premières {#matieres-premieres}
 
-### Majoration, valeurs par défaut et réquisitions
+### Majoration, valeurs par défaut et réquisitions {#majoration}
 
 ![](../../static/img/Parametres_Standards_10.png)
 
-### Catégories
+### Catégories {#categories}
 
 Définissez vos catégories de produits ( matières premières ou autres), les couleurs et finis possible.
 
 ![](../../static/img/Parametres_Standards_11.png)
 
-### Couleurs et finis
+### Couleurs et finis {#couleurs-finis}
 
 ![](../../static/img/Parametres_Standards_12.png)
 
-### Réquisitions
+### Réquisitions {#requisitions}
 
 ![](../../static/img/Parametres_Standards_13.png)
-Voir explications dans module [Réquisitions](../achats/requisitions.md#comment-paramétrer-ce-qui-sera-créer-comme-une-réquisition)
+Voir explications dans module [Réquisitions](../achats/requisitions.md#parametrer)
 
-### Opérations
+### Opérations {#operations}
 
-### Paramètres généraux
+### Paramètres généraux {#parametres}
 
 ![](../../static/img/Parametres_Standards_14.png)
 
-### Familles
+### Familles {#familles}
 
 ![](../../static/img/Parametres_Standards_15.png)
 
-### Tâches
+### Tâches {#taches}
 
 ![](../../static/img/Parametres_Standards_16.png)
 
 ---
 
-## Emballage & Transport
+## Emballage & Transport {#emballage-transport}
 
-### Emballage
+### Emballage {#emballage}
 
 ![](../../static/img/Parametres_Standards_17.png)
 
-### Transport
+### Transport {#transport}
 
 ![](../../static/img/Parametres_Standards_18.png)

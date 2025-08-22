@@ -6,7 +6,7 @@ title: Commandes
 
 ---
 
-## Survol
+## Survol {#survol}
 
 Un outil essentiel pour créer des bons d’achat de sous-traitance ou de matières premières. Pourquoi ne pas imprimer les formulaires ou mieux encore les sauvegarder en format pdf avec envoi automatisé en pièce jointe d’un courriel? En quelques clics, tout est réglé.
 
@@ -14,13 +14,13 @@ Un outil essentiel pour créer des bons d’achat de sous-traitance ou de matiè
 
 Ouverture du module en [mode liste](../fonctionnalites-generales/navigation.md#mode-liste).
 
-Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-et-tris) est à statut : En préparation + Envoyée + Reçue partiellement.
+Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris) est à statut : En préparation + Envoyée + Reçue partiellement.
 
 ![](../../static/img/Commandes_02.png)
 
 ---
 
-## Création d'une commande
+## Création d'une commande {#creation}
 
 - Cliquez sur **Créer une commande** en haut à droite de la liste.
 
@@ -34,7 +34,7 @@ Remplir les informations manquantes dans le haut de la fenêtre.
 
 ![](../../static/img/Commandes_04.png)
 
-### Ajouter une ligne de commande
+### Ajouter une ligne de commande {#ajout-ligne}
 
 - Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png) et choisir si vous voulez :
 
@@ -59,7 +59,7 @@ Ajoutez une note au besoin, dans le bas de la fenêtre de commande. Elle se retr
 
 ![](../../static/img/Commandes_13.png)
 
-### [Réquisitions](../achats/requisitions.md)
+### [Réquisitions](../achats/requisitions.md) {#requisitions}
 
 Onglet **Lignes de commande**
 
@@ -73,7 +73,7 @@ Affiche les réquisitions liées à la commande, lorsque celles-ci ont été uti
 
 ![](../../static/img/Commandes_12.png)
 
-## Changement du fournisseur
+## Changement du fournisseur {#changement-fournisseur}
 
 Si vous avez des lignes de commandes créées à partir d'un produit existant, vous ne pourrez plus changer le fournisseur (la loupe disparaitra). La raison est que les produits sont toujours liés à un fournisseur.
 
@@ -82,7 +82,7 @@ Au besoin, vous rendre dans le produit en question pour ajouter un second fourni
 
 ![](../../static/img/Produits_07.png)
 
-## Compléter une commande
+## Compléter une commande {#completer-commande}
 
 Le statut de la commande restera à "En préparation", le temps que la réception de la marchandise soit faite.
 
@@ -94,9 +94,7 @@ La commande passera alors au statut **Complétée**.
 
 ---
 
-###
-
-## Actions diverses
+## Actions diverses {#actions}
 
 #### En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation)
 
@@ -122,6 +120,6 @@ La commande passera alors au statut **Complétée**.
 
 ---
 
-## Vidéo démo du module
+## Vidéo démo du module {#video}
 
 [https://www.youtube.com/watch?v=UNP2lrJgqVg](https://www.youtube.com/watch?v=UNP2lrJgqVg)

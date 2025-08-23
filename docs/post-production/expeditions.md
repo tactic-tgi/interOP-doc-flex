@@ -36,7 +36,7 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris
 
   ![](../../static/img/Expedition_17.png)
 
-  \*À noter que le message au bas provient de vos [paramètres Système](../parametres/systeme.md#messages).
+  \*À noter que le message au bas provient de vos [paramètres Système](../parametres/systeme.md#formulaires).
 
   ![](../../static/img/Expedition_18.png)
 
@@ -52,7 +52,7 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris
 
   ![](../../static/img/Expedition_03.png)
 
-  \*Le message au bas provient de vos [paramètres Système](../parametres/systeme.md#messages).
+  \*Le message au bas provient de vos [paramètres Système](../parametres/systeme.md#formulaires).
 
 ### Ajouter une ligne d'expédition {#ajout-ligne}
 
@@ -113,7 +113,6 @@ Provient de la [fiche contact](../contacts/clients.md#creation) de votre client,
 ![](../../static/img/Expedition_13.png)
 
 ---
-
 
 ### Actions diverses {#actions}
 

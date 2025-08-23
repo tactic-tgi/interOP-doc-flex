@@ -24,7 +24,7 @@ Inscrire vos coordonnées d'entreprise , ajouter vos logos et sélectionner le l
 
 ![](../../static/img/Parametres_Systeme_2.png)
 
-### Textes / Modèles de courriels {#modeles}
+### Textes / Modèles de courriels {#courriels}
 
 Gérez ici les différents textes/salutations qui apparaitront par défaut sur la proposition aux clients.
 
@@ -42,7 +42,7 @@ Utilisez les données variables admissibles pour les personnaliser.
 
 ![](../../static/img/Parametres_Systeme_3b.png)
 
-### Messages sur formulaires {#messages}
+### Messages sur formulaires {#formulaires}
 
 Gérez ici les messages qui apparaitront par défaut sur les formulaires d'envois aux clients.
 
@@ -60,12 +60,16 @@ Ayez la latitude de modifier les termes qui apparaissent sur les différents for
 
 ![](../../static/img/Parametres_Systeme_5.png)
 
-### Numérotations et Valeurs par défauts {#numerotations}
+### Numérotations {#numerotations}
 
-- Personnalisez la numérotation de vos différents formulaires.
-- Définir les valeurs par défaut de votre système.
+Personnalisez la numérotation de vos différents modules.
 
 ![](../../static/img/Parametres_Systeme_6.png)
+
+### Valeurs par défaut {#defauts}
+
+Définir les valeurs par défaut de votre système.
+
 ![](../../static/img/Parametres_Systeme_7.png)
 
 ### Listes de valeurs modifiables {#listes-valeurs}
@@ -114,7 +118,7 @@ Dans cette section, déterminez les éléments suivants :
 
 ![](../../static/img/Parametres_Systeme_11.png)
 
-### Paiement & Crédit {#paiement}
+### Paiements & Crédits {#paiements}
 
 Dans cette section, déterminez les éléments suivants :
 
@@ -126,13 +130,13 @@ Dans cette section, déterminez les éléments suivants :
 
 ![](../../static/img/Parametres_Systeme_12.png)
 
-### Comptes GL {#comptesgl}
+### Comptes {#comptes}
 
-Inscrivez la liste de vos comptes GL (Revenus et Dépenses)
+Inscrivez la liste de vos comptes GL (Revenus et Dépenses).
 
 ![](../../static/img/Parametres_Systeme_13.png)
 
-### Produits standards à facturer {#produits}
+### Produits standards à facturer {#produits-facturation}
 
 Section à compléter si vous travaillez avec des produits dans votre système comptable.
 
@@ -156,7 +160,7 @@ Système de gestion des imprimantes. Lié à votre compte Printnode, choisissez 
 
 ### Calendrier Dayback (Abonnement requis) {#dayback}
 
-Vous devez avoir activé le module pour avoir accès au calendrier Dayback. Voir section zzzzz\***\*URL à placer\*\***zzzzz
+Vous devez avoir activé le module pour avoir accès au calendrier Dayback. Voir section [calendrier](../production/calendrier.md) pour plus d'information.
 
 Dans cette section, vous pourrez contrôler les statuts d'opérations qui se trouvent dans le calendrier.
 

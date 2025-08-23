@@ -131,9 +131,9 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
 
     ![](../../static/img/Facturation_14.png)
 
-## Messages {#messages}
+## Messages {#formulaires}
 
-Le message au bas de la facture provient de vos [paramètres Système](../parametres/systeme.md#messages).
+Le message au bas de la facture provient de vos [paramètres Système](../parametres/systeme.md#formulaires).
 
 ![](../../static/img/Facturation_11.png)
 

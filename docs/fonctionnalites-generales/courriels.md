@@ -10,7 +10,7 @@ title: Courriels
 
 Tous les envois de courriel passe par ce module-ci.
 
-Les [modèles de courriels](../parametres/systeme.md#modeles) déjà remplit dans vos paramètres système vous ferons sauver du temps.
+Les [modèles de courriels](../parametres/systeme.md#courriels) déjà remplit dans vos paramètres système vous ferons sauver du temps.
 
 De plus, comme l'information est centralisé, il vous sera facile de retrouver vos communications et d'y visionner l'historique.
 
@@ -53,7 +53,7 @@ Enveloppe **en couleur** : contient des courriels
 
 ![](../../static/img/Courriels_Historique_1.png)
 
-#### Informations générales 
+#### Informations générales
 
 ![](../../static/img/Courriels_Historique_2.png)
 

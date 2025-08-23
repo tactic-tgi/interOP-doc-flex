@@ -38,7 +38,7 @@ Bien que vous ayez le contrôle absolu sur les filtres, nous vous conseillons de
 
 ## Création d'un dossier {#creation}
 
-### Créer un dossier depuis la soumission (par Soumissions) {#depuis-soumission}
+### Depuis une soumission (par l'écran soumission) {#depuis-soumission}
 
 Le plus commun est de créer un dossier à partir d'une soumission existante. Veuillez vous rendre dans le module soumission, puis dans l'item qui sera envoyé en dossier.
 
@@ -46,7 +46,7 @@ Faire ensuite le bouton Actions et choisir Créer dossier.
 
 ![](../../static/img/Dossiers_05.png)
 
-### Créer un dossier depuis la soumission (par la liste des dossiers) {#depuis-liste}
+### Depuis une soumission (par la liste des dossiers) {#depuis-liste}
 
 Il est aussi possible de créer votre dossier à partir du [mode liste](../fonctionnalites-generales/navigation.md#mode-liste) du module Dossiers.
 
@@ -76,7 +76,7 @@ Il est aussi possible de créer votre dossier à partir du [mode liste](../fonct
 
     Révisez votre dossier et lancez-le en production par le menu **Actions**.
 
-### Créer un dossier manuellement (sans soumission) {#creation-manuelle}
+### Manuellement (sans soumission) {#creation-manuelle}
 
 Vous ne voulez pas faire de soumission mais bien simplement créer un dossier ?
 Ceci est possible. Vous devez vous rendre dans le [mode liste](../fonctionnalites-generales/navigation.md#mode-liste) du module Dossiers.
@@ -105,41 +105,6 @@ Cliquez sur **Créer un dossier** et puis sur **Nouveau dossier**.
 
 ## Informations de base {#infos-base}
 
-Dans l'onglet informations de base, la portion de gauche représente l'information générale du projet, soit la description de l'item, le détails de celui-ci et la soumission de référence.
-
-Vous pouvez cliquer sur le numéro de soumission pour vous y rendre rapidement.
-
-![](../../static/img/Dossiers_20.png)
-
-Dans le coin gauche en bas, vous pouvez inscrire un produit de facturation ou un compte GL associé au projet.
-
-À droite, vous aurez diverses informations générales à remplir, comme la date de livraison, le type de dossier, les épreuves, etc.
-
-![](../../static/img/Dossiers_10.png)
-
-**Approbation par courriel**
-
-Sélection des contacts d'approbation d'épreuves possible lorsque la méthode d'approbation est par courriel. Cliquez dans le champs Approbation - Par pour en faire la sélection.
-
-    *   Possibilité illimitée d'ajouter des contacts client en CC.
-    *   Possibilité d'ajouter le Représentant.
-
-![](../../static/img/Dossiers_18.png)
-
-    *   Affichage des courriels sur le bon de production.
-
-![](../../static/img/Dossiers_19.png)
-
-**Notes sur le formulaire**
-
-    Ces notes seront visibles sur le formulaire pdf ou imprimé du dossier de production.
-
-    ![](../../static/img/Dossiers_17.png)
-
----
-
-## Détails du dossier {#details}
-
 ### Vendu à et Facturé à {#vendu-facture}
 
 Dans cet onglet, vous verrez les informations relatives au client lié à ce dossier (**Vendu à**) ainsi que celui lié à la facturation (**Facturé à**), qui peut être différent.
@@ -164,6 +129,43 @@ Si le client est manquant, veuillez aller le créer dans le module [Clients](../
 
   ![](../../static/img/Dossiers_21.png)
 
+### Autres informations
+
+À droite, vous aurez diverses informations générales à remplir, comme la date de livraison, le type de dossier, les épreuves, etc.
+
+![](../../static/img/Dossiers_10.png)
+
+### Approbation par courriel
+
+Sélection des contacts d'approbation d'épreuves possible lorsque la méthode d'approbation est par courriel. Cliquez dans le champs Approbation - Par pour en faire la sélection.
+
+    *   Possibilité illimitée d'ajouter des contacts client en CC.
+    *   Possibilité d'ajouter le Représentant.
+
+![](../../static/img/Dossiers_18.png)
+
+    *   Affichage des courriels sur le bon de production.
+
+![](../../static/img/Dossiers_19.png)
+
+### Notes sur le formulaire
+
+    Ces notes seront visibles sur le formulaire pdf ou imprimé du dossier de production.
+
+    ![](../../static/img/Dossiers_17.png)
+
+---
+
+## Détails du dossier {#details}
+
+Dans l'onglet informations de base, la portion de gauche représente l'information générale du projet, soit la description de l'item, le détails de celui-ci et la soumission de référence.
+
+Vous pouvez cliquer sur le numéro de soumission pour vous y rendre rapidement.
+
+![](../../static/img/Dossiers_20.png)
+
+Dans le coin gauche en bas, vous pouvez inscrire un produit de facturation ou un compte GL associé au projet.
+
 ### Enregistrements liés {#enregistrements}
 
 Dans la portion de droite, vous trouverez des portails qui vous permettront de voir et d'accéder rapidement à tout ce qui est lié à votre dossier : commande d'achat, expédition, factures et les notes.
@@ -184,6 +186,7 @@ Le dossier doit être lancé en production.
   Vous référez au [module Expéditions](../post-production/expeditions.md) pour en apprendre d'avantage.
 
 **Factures**
+
 ![](../../static/img/Dossiers_26.png)
 
 #### Créer une facture
@@ -206,7 +209,7 @@ Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
 Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](../fonctionnalites-generales/notes.md#notes-actions).
 
-## Détails du projet {#details-projets}
+## Détails du projet {#details-projet}
 
 Cet onglet représente le détail du travail à faire. Généralement, il provient de la soumission lié.
 
@@ -226,7 +229,7 @@ Pour toutes les informations relatives au fonctionnement des divers blocs prése
 - [Emballages globaux](../estimation/soumissions.md#emballages-globaux)
 - [Transports & Livraisons](../estimation/soumissions.md#transports)
 
-### Réquisitions et opérations {#requisitions}
+### Réquisitions et opérations {#requisitions-operations}
 
 Vous trouverez l'ensemble des **réquisitions d'achat** du dossier.
 

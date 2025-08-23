@@ -57,37 +57,37 @@ Vous pourrez cliquer sur Corriger pour voir les champs en surbrillance (contour 
 
 ## Informations de base {#infos-base}
 
-La portion du **haut** contient les informations de bases de la soumission.
+La portion du **haut** contient les informations de base de la soumission.
 
-**Vendu à**
+### Vendu à
 
 ![](../../static/img/Soumissions_04.png)
 
-**Facturé à**
+### Facturé à
 
 ![](../../static/img/Soumissions_05.png)
 
-**Divers**
+### Divers
 
 ![](../../static/img/Soumissions_06.png)
 
-- Pour changer le client
+#### Pour changer le client
 
-  Cliquez sur la **loupe** ![](../../static/img/Soumissions_loupe.png) pour faire une recherche et sélectionnez un client.
+Cliquez sur la **loupe** ![](../../static/img/Soumissions_loupe.png) pour faire une recherche et sélectionnez un client.
 
-  ![](../../static/img/Soumissions_07.png)
+![](../../static/img/Soumissions_07.png)
 
-  Si le client est manquant, veuillez aller le créer dans le module [Clients](../contacts/clients.md#creation).
+Si le client est manquant, veuillez aller le créer dans le module [Clients](../contacts/clients.md#creation).
 
-- Pour éditer le contact
+#### Pour éditer le contact
 
-  Cliquez sur le **crayon.**
+Cliquez sur le **crayon.**
 
-  ![](../../static/img/Soumissions_08.png)
+![](../../static/img/Soumissions_08.png)
 
-  Les changements apportés lors de l'édition du contact seront appliqués dans le système au complet.
+Les changements apportés lors de l'édition du contact seront appliqués dans le système au complet.
 
-  ![](../../static/img/Soumissions_09.png)
+![](../../static/img/Soumissions_09.png)
 
 La portion du **bas à gauche** contient des informations relatives au projet.
 
@@ -97,7 +97,7 @@ La portion du **bas à gauche** contient des informations relatives au projet.
 
 Cette section de notes est propre à la soumission et ne sera pas transférée au dossier de production.
 
-**Ajouter une note**
+#### Ajouter une note
 
 Cliquez sur **l'icône**![](../../static/img/Contacts_2_iconeajout.png)
 
@@ -130,7 +130,7 @@ Consultez la section [Actions diverses](#actions) pour découvrir les actions po
 
 Cliquez sur la ligne d'un des items pour consulter sa fiche, apporter des modifications et le supprimer.
 
-**Masquer un item de la proposition**
+#### Masquer un item de la proposition
 
 Cliquez sur l'oeil pour que le l'item soit masqué de la proposition client; il deviendra alors rouge. Re-cliquez dessus pour faire afficher l'item sur la proposition.
 
@@ -140,7 +140,7 @@ Fonctionnalité **⤵️**
 
 Maintenez \[ CTRL sur PC ou Command sur Mac\] + cliquez sur l'oeil pour faire afficher seulement cet item. Tous les autres seront masqués, et ce, peu importe si l'item sur lequel on clique était masqué ou non avant le clic.
 
-**Dossier lié**
+#### Dossier lié
 
 Si l'icône dossier est visible, c'est qu'un dossier de production a été ouvert pour cet item. Cliquez dessus pour l'afficher.
 
@@ -152,24 +152,24 @@ Cliquez sur l'icône ![](../../static/img/Contacts_2_iconeajout.png)
 
 ![](../../static/img/Soumissions_14.png)
 
-- Nouveau
+#### Nouveau
 
-  Sélectionnez un item.
+Sélectionnez un item.
 
-  ![](../../static/img/Soumissions_15.png)
+![](../../static/img/Soumissions_15.png)
 
-  Inscrivez vos quantités.
+Inscrivez vos quantités.
 
-  ![](../../static/img/Soumissions_16.png)
+![](../../static/img/Soumissions_16.png)
 
-  Remplissez les informations de la [composante.](../estimation/soumissions.md#composantes)
+Remplissez les informations de la [composante.](../estimation/soumissions.md#composantes)
 
-- Depuis un modèle
+#### Depuis un modèle
 
-  Créer un item depuis un [modèle existant](../estimation/soumissions.md#types) viendra créer automatiquement l'item et ses [composantes](../estimation/soumissions.md#composantes)
-  . Modifiez au besoin les informations.
+Créer un item depuis un [modèle existant](../estimation/soumissions.md#types) viendra créer automatiquement l'item et ses [composantes](../estimation/soumissions.md#composantes)
+. Modifiez au besoin les informations.
 
-  ![](../../static/img/Soumissions_17.png)
+![](../../static/img/Soumissions_17.png)
 
 ### Quantité(s) {#quantites}
 
@@ -236,9 +236,9 @@ Selon le procédé d'impression choisit, les champs [obligatoires](../fonctionna
 
   ![](../../static/img/Soumissions_20.png)
 
-**Dessin d'imposition**
+### Dessin d'imposition {#dessin}
 
-Cliquez sur le **crayon** situé à côté du **Nb Ups** pour afficher le dessin d'imposition.
+Cliquez sur le **crayon** situé à côté du champ **Ups** pour afficher le dessin d'imposition.
 
 ![](../../static/img/Soumissions_25.png)
 
@@ -249,8 +249,6 @@ Les valeurs des marges et du **bleed** peuvent être modifiées selon vos beso
 Le bouton avec les deux flèches permet de pivoter l'item pour valider l'optimisation de son format, dans la grandeur de feuille d'impression que vous avez pour votre composante.
 
 ![](../../static/img/Soumissions_27.png)
-
-####
 
 ### Prépresse {#prepresse}
 
@@ -271,15 +269,15 @@ Section disponible seulement lorsque le procédé d'impression utilise des plaqu
 
 ![](../../static/img/Soumissions_30.png)
 
-### Support & Impression {#support}
+### Support & Impression {#impression}
 
 Cette section contient tous les détails relatifs au support à imprimer et l'équipement d'impression.
 
-**Support à imprimer**
+#### Support à imprimer
 
 ![](../../static/img/Soumissions_31.png)
 
-**Impression**
+#### Impression
 
 ![](../../static/img/Soumissions_32.png)
 
@@ -289,7 +287,7 @@ Ici les opérations et l'emballage sont propres à une composante.
 
 ![](../../static/img/Soumissions_33.png)
 
-**Opérations**
+#### Opérations
 
 La procédure pour ajouter une nouvelle opération est la même que pour les [opérations globales](../estimation/soumissions.md#operations-globales).
 
@@ -311,7 +309,7 @@ Une seule différence est visible : l'encadré informatif **Composante visée**.
 
   Exemple ➝ la coupe peut ne pas être nécessaire pour le numérique ou si le travail est découpé.
 
-**Emballages**
+#### Emballages
 
 La procédure pour ajouter un nouvel emballage est la même que pour les [emballages globaux](../estimation/soumissions.md#emballages-globaux).
 

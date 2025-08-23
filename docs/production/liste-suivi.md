@@ -1,6 +1,6 @@
 ---
-id: suivi
-slug: /production/suivi
+id: liste-suivi
+slug: /production/liste-suivi
 title: Liste de suivi
 ---
 

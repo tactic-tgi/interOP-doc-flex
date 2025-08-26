@@ -83,14 +83,14 @@ Utilisez le bouton rouge **Supprimer l'accès à interOP** dans la fiche de l'ut
 
 ## Actions diverses {#actions}
 
-#### En mode [**consultation**](../fonctionnalites-generales/navigation.md#mode-consultation)
+### En mode [**consultation**](../fonctionnalites-generales/navigation.md#mode-consultation)
 
 ![](../../static/img/Parametres_Utilisateurs_Consultation.png)
 
 - Changer le mot de passe
 - Désactiver la fiche
 
-#### Définir attributions
+### Définir attributions {#attributions}
 
 Cette partie est en lien avec la [Saisie de temps](../saisie-temps/ecran-principal.md).
 

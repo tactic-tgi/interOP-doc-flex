@@ -72,9 +72,12 @@ Noter que si un frais d'ouverture a été ajouté dans la [fiche du client](../c
 
 ## Impression {#impression}
 
-### Équipements & Opérations simultanées {#equipements-operations}
+### Équipements {#equipements}
 
-![](../../static/img/Parametres_Standards_7.png)  
+![](../../static/img/Parametres_Standards_7.png)
+
+### Opérations simultanées {#operations-inline}
+
 ![](../../static/img/Parametres_Standards_8.png)
 
 ### Encres {#encres}
@@ -85,17 +88,17 @@ Noter que si un frais d'ouverture a été ajouté dans la [fiche du client](../c
 
 ## Matières premières {#matieres-premieres}
 
-### Majoration, valeurs par défaut et réquisitions {#majoration}
+### Majoration, valeurs par défaut {#matieres-parametres}
 
 ![](../../static/img/Parametres_Standards_10.png)
 
-### Catégories {#categories}
+### Catégories {#matieres-categories}
 
 Définissez vos catégories de produits ( matières premières ou autres), les couleurs et finis possible.
 
 ![](../../static/img/Parametres_Standards_11.png)
 
-### Couleurs et finis {#couleurs-finis}
+### Couleurs et finis {#couleurs}
 
 ![](../../static/img/Parametres_Standards_12.png)
 
@@ -104,13 +107,13 @@ Définissez vos catégories de produits ( matières premières ou autres), les c
 ![](../../static/img/Parametres_Standards_13.png)
 Voir explications dans module [Réquisitions](../achats/requisitions.md#parametrer)
 
-### Opérations {#operations}
+## Opérations {#operations}
 
-### Paramètres généraux {#parametres}
+### Paramètres généraux {#operations-parametres}
 
 ![](../../static/img/Parametres_Standards_14.png)
 
-### Familles {#familles}
+### Familles {#operations}
 
 ![](../../static/img/Parametres_Standards_15.png)
 

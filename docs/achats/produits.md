@@ -37,14 +37,14 @@ Cliquez sur **Créer un produit**, en haut à droite du mode liste.
 
 - Sélectionner une catégorie
 
-  les catégories sont définies dans vos [standards.](../parametres/standards.md#categories)
+  Les catégories sont définies dans vos [standards.](../parametres/standards.md#matieres-categories)
 
   Par exemple ici, après avoir sélectionné le type Papier, nous avons plusieurs catégories de ce type et il suffit d'en choisir une pour poursuivre la création.
 
   ![](../../static/img/Produits_10.png)
 
 Finaliser l'entrée des données de votre produit, en lui donnant une description, un format, etc.
-Les couleurs et finis sont définis dans vos [standards.](../parametres/standards.md#couleurs-finis)
+Les couleurs et finis sont définis dans vos [standards.](../parametres/standards.md#couleurs)
 
 Il est primordial que tous les champs marqués d'une [étoile](../fonctionnalites-generales/champs.md#champs-obligatoires) soient remplis, car ils sont obligatoires.
 
@@ -103,17 +103,15 @@ Cliquez sur une ligne pour consulter la commande.
 
       ![](../../static/img/Produits_09.png)
 
-
-
 ---
 
 ## Autres {#autres}
 
-### Majoration {#majoration}
+### Majoration {#matieres-parametres}
 
 À définir seulement si vous souhaitez un pourcentage fixe et différent du standard de base.
 
-Sinon, le pourcentage par défaut sera celui saisi dans vos [standards](../parametres/standards.md#majoration), au moment de la soumission.
+Sinon, le pourcentage par défaut sera celui saisi dans vos [standards](../parametres/standards.md#matieres-parametres), au moment de la soumission.
 
 ### Modification de prix {#modifications-prix}
 

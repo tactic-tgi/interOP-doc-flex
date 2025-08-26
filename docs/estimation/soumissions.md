@@ -414,8 +414,8 @@ La partie du bas permet de faire des modification, cliquez dessus pour y accéde
 
 - Modifications
 
-  - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../parametres/standards.md#majoration), mais peuvent aussi être propre à un client.
-  - Commission peut être définit par défaut dans les [standards](../parametres/standards.md#majoration), mais peut aussi être propre à un [représentant](../parametres/utilisateurs.md#creation).
+  - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../parametres/standards.md#matieres-parametres), mais peuvent aussi être propre à un client.
+  - Commission peut être définit par défaut dans les [standards](../parametres/standards.md#matieres-parametres), mais peut aussi être propre à un [représentant](../parametres/utilisateurs.md#creation).
     ![](../../static/img/Soumissions_55.png)
 
 Une fois vos coûts validés, vous avez la possibilité d'**Enregistrer** pour confirmer et fermer la fenêtre ou de valider la **proposition au client**.

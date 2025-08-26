@@ -111,7 +111,7 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
 ![](../../static/img/Facturation_18.png)
 
     Une ligne va se créer.
-    Pour éditer vos produits standards facturation, veuillez consulter la section [Paramètres](../parametres/systeme.md#produits).
+    Pour éditer vos produits standards facturation, veuillez consulter la section [Paramètres](../parametres/systeme.md#produits-facturation).
 
 ### Depuis un GL {#ajout-ligne-comptegl}
 
@@ -120,7 +120,7 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
 ![](../../static/img/Facturation_17.png)
 
     Une ligne contenant le compte GL va se créer.
-    Pour éditer vos comptes GL, veuillez consulter la section [Paramètres](../parametres/systeme.md#comptesgl).
+    Pour éditer vos comptes GL, veuillez consulter la section [Paramètres](../parametres/systeme.md#comptes).
 
 ### Ligne de texte {#ajout-ligne-texte}
 

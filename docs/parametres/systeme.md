@@ -78,8 +78,6 @@ Ces listes peuvent être modifiées. Elles apparaissent comme menu déroulant da
 
 ![](../../static/img/Parametres_Systeme_8.png)
 
-####
-
 ### Gestion des pays, provinces et devises {#pays-provinces}
 
 Pour rendre **actif** un Pays, une Province ou une Devise cliquez sur le bouton au bout de la ligne.

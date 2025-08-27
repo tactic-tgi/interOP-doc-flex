@@ -56,8 +56,6 @@ Ce statut changera pour **Envoyée** lorsqu'elle sera envoyé par courriel à un
 
 ![](../../static/img/Soustraitances_06.png)
 
-####
-
 ### Visualiser {#visualiser}
 
 Cliquez sur l'oeil afin de visualiser une demande.
@@ -87,7 +85,7 @@ Enveloppe **en couleu**r : courriel envoyé
 
 ## Actions diverses {#actions}
 
-#### **En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation)**
+#### En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation)
 
 - Dupliquer
 - Supprimer

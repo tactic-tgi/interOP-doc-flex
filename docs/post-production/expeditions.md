@@ -87,17 +87,17 @@ Cliquez sur le bouton **Étiquettes ➝ 4 x 6** pour visualiser l'étiquette et 
 
 ![](../../static/img/Expedition_10.png)
 
-#### **1\. Éditer le contact**
+#### 1\. Éditer le contact
 
 Les changements apportés lors de l'édition du contact seront appliqués dans le système au complet.
 
 ![](../../static/img/Expedition_11.png)
 
-#### **2\. Cueilllette par le client**
+#### 2\. Cueilllette par le client
 
 Cocher la case pour indiquer que le client vient chercher sa commande.
 
-#### **3\. Adresse Éxpédié à**
+#### 3\. Adresse Éxpédié à
 
 Cliquez sur la loupe pour faire une recherche.
 
@@ -106,7 +106,7 @@ Si l'adresse est manquante, veuillez vous rendre dans le module [client](../cont
 
 ![](../../static/img/Expedition_12.png)
 
-#### **4\. Identification Expéditeur**
+#### 4\. Identification Expéditeur
 
 Provient de la [fiche contact](../contacts/clients.md#creation) de votre client, dans l'onglet Informations additionnelles.
 

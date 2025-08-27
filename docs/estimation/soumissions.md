@@ -400,7 +400,7 @@ Pour modifier et/ou supprimer un transport, cliquez sur sa ligne pour l'ouvrir e
 
 ## Sommaire & Proposition {#sommaire-proposition}
 
-#### **Sommaire des coûts**
+#### Sommaire des coûts
 
 Permet de consulter le sommaire des coûts d'un item pour toutes ses quantités.
 Nous y accédons directement dans un item, en haut à droite.
@@ -420,7 +420,7 @@ La partie du bas permet de faire des modification, cliquez dessus pour y accéde
 
 Une fois vos coûts validés, vous avez la possibilité d'**Enregistrer** pour confirmer et fermer la fenêtre ou de valider la **proposition au client**.
 
-#### **Proposition par item**
+#### Proposition par item
 
 Cliquez sur **Proposition Client.**
 

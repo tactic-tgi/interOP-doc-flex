@@ -41,7 +41,7 @@ Par défaut, les enregistrements annulés ne sont pas visibles dans les listes, 
 
 Il faudra alors faire l'action de Réutiliser pour pouvoir remettre l'enregistrement actif.
 
-### **Icônes** {#icones}
+### Icônes {#icones}
 
 Positionner la flèche de votre souris sur l'un des icônes afin de faire afficher son utilité.
 
@@ -51,13 +51,12 @@ Exemple :
 
 ![](../../static/img/Divers_icones.gif)
 
-### **Information** {#infos}
+### Information {#infos}
 
 Cliquez sur ce bouton pour consulter le contenu informatif.
 
 ![](../../static/img/Information.png)
 
-###
 
 ### Verrouiller / déverrouiller {#cadenas}
 

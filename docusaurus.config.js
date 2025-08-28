@@ -55,9 +55,9 @@ const config = {
             },
           },
         },
-        /*theme: {
+        theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },*/
+        },
       }),
     ],
   ],

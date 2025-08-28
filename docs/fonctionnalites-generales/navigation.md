@@ -26,8 +26,8 @@ Cliquez sur le X pour effacer la recherche.
 
 Propre à chaque module, il vous est possible d'appliquer différents filtres et/ou tris afin d'avoir une sélection plus précise des fiches à afficher.
 
-Cliquez sur le bouton Appliquer au bas pour confirmer votre sélection.
-Pour voir toutes les fiches, vous pouvez cliquer sur le bouton Effacer tout, mais en faisant ceci, l'affichage des listes pourrait être ralenti, puisqu'à ce moment, tous les enregistrements faits depuis le début seront montrés.
+Cliquez sur le bouton `Appliquer` au bas pour confirmer votre sélection.
+Pour voir toutes les fiches, vous pouvez cliquer sur le bouton `Effacer tout`, mais en faisant ceci, l'affichage des listes pourrait être ralenti, puisqu'à ce moment, tous les enregistrements faits depuis le début seront montrés.
 
 Nous conseillons de sélectionner ce qui vous importe de voir, dans votre quotidien, plutôt que de chercher à tout montrer.
 

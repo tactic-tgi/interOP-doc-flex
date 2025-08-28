@@ -12,9 +12,13 @@ Le menu principal est accessible à travers le logiciel dans la plupart des écr
 
 Les modules, identifiés par des icônes, sont classés dans des sections pour une suite logique des opérations. Vous pouvez appuyer sur le bandeau de chaque section pour l'ouvrir ou la fermer.
 
-Tenir la touche "shift" en cliquant sur les sections pour toutes les dérouler ou les fermer en même temps.
-
 Un clic sur une ligne de module à l'intérieur d'une section vous déplacera à l'entrée de ce module, qui est généralement le mode liste.
+
+:::tip
+
+Si votre poste vous amène à toujours utiliser plusieurs des sections, ou que vous ne vous souvenez pas rapidement où un module se trouve, tenez la touche "shift" en cliquant sur les sections pour toutes les dérouler ou les fermer en même temps!
+
+:::
 
 ![](../static/img/Accueil_3_deroulement.gif)
 

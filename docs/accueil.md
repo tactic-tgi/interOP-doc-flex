@@ -16,6 +16,8 @@ Si un comportement du logiciel vous parait bizarre, comme l'accès à un module 
 
 Débutez votre navigation ou retournez à un enregistrement visité dans une session précédente en ouvrant le menu principal.
 
+Dans ce même menu principal, c'est l'icône de la maison qui vous fera revenir à l'accueil.
+
 ## Fermer le logiciel {#fermeture}
 
 Il est préférable de fermer complètement le logiciel à la fin de votre journée de travail. Utilisez le bouton à cet effet, dans le coin supérieur droit de l'écran.

@@ -6,32 +6,40 @@ title: Courriels
 
 ---
 
-### Survol {#survol}
+## Survol {#survol}
 
-Tous les envois de courriel passe par ce module-ci.
+L'envoi de courriel par interOP permet d'avoir un historique automatiquement classé par enregistrement de module dans votre logiciel.
 
-Les [modèles de courriels](../parametres/systeme.md#courriels) déjà remplit dans vos paramètres système vous ferons sauver du temps.
+Les envois de courriels se font toujours de la même façon et sont présents dans presque tous les modules.
 
-De plus, comme l'information est centralisé, il vous sera facile de retrouver vos communications et d'y visionner l'historique.
+:::tip
+Les [modèles de courriels](../parametres/systeme.md#courriels) déjà remplit dans vos paramètres système vous ferons sauver du temps. Ils peuvent dicter un sujet, un corps ainsi que le nom de fichier à utiliser.
+:::
 
-### Envoi de formulaire par courriel {#envoi}
+## Envoi de formulaire par courriel {#envoi}
+
+### Champs
 
 Par défaut, les champs suivants seront remplis, mais demeurent éditables :
 
 - Expéditeur
 - Destinataire
-- Bcc
-
-  Pour recevoir une copie du courriel dans votre boite de messagerie, laissez votre adresse, sinon vous pouvez l'enlever.
-
+- Bcc (si l'option a été choisie dans les paramètres d'inclure le destinataire en Bcc)
 - Sujet
 - Corps
-
-  Le corps du courriel se remplit selon vos Paramètres système. Il vous est possible d'éditer ce texte dans l'onglet Saisie. L'onglet Aperçu, permet de visualiser le courriel tel qu'il sera reçu par votre destinataire.
-
 - PDF du formulaire
 
-  Cliquez sur le trombone pour joindre des fichiers supplémentaires.
+Il vous est possible d'éditer le corps du courriel dans l'onglet **Saisie**. L'onglet **Aperçu** permet de visualiser le courriel tel qu'il sera reçu par votre destinataire, incluant votre signature si présente.
+
+### Pièces jointes
+
+Vous pouvez joindre des fichiers supplémentaires en déposant des fichiers ou en cliquant au bas de l'écran. Les actions habituelles de fichiers sont accessibles en cliquant sur les fichiers présents.
+
+:::tip
+Certains formulaires sont complexes. Même si vous vous attendez à ce que toutes les informations soient bonnes, il est toujours sage de visualiser un fichier généré automatiquement si vous ne l'avez pas fait préalablement, surtout si le destinataire est votre client.
+:::
+
+### Actions
 
 Dans le coin supérieur droit, la flèche envoie le courriel et la poubelle le supprime.
 
@@ -41,34 +49,25 @@ Dans le coin supérieur droit, la flèche envoie le courriel et la poubelle le s
 
 ---
 
-### Historique {#historique}
+## Historique {#historique}
 
-Vous pouvez consulter l'historique de courriel dans l'un des modules suivants : Soumission, Demande de sous-traitance, Commandes, Expéditions , Factures.
+Vous pouvez consulter l'historique de courriel dans tous les modules qui peuvent en envoyer un en cliquant sur l'icône **enveloppe**.
 
-Cliquez sur l'**enveloppe** pour visionner l'historique de courriels.
-
-Enveloppe **grisé** : aucun courriel envoyé
-
-Enveloppe **en couleur** : contient des courriels
+Si un courriel y est présent, elle sera colorée.
 
 ![](../../static/img/Courriels_Historique_1.png)
 
-#### Informations générales
+### Informations générales
 
 ![](../../static/img/Courriels_Historique_2.png)
 
-1. Cliquez pour un insérer un courriel supplémentaire sous forme de **eml**
-
-   - **eml** = courrier électronique sauvegardé en texte brut.
-   - Cliquez sur le bouton pour choisir votre pièce jointe.
-     ![](../../static/img/Courriels_Historique_3.png)
+1. Cliquez pour un insérer un courriel supplémentaire sous forme de **eml**, qui est un format que vous pouvez généralement produire avec les logiciels de courriels.
 
 2. Consultez un courriel
-   - Cliquez sur l'un des courriels afin d'afficher son contenu dans la partie de droite
+   - Cliquez sur l'un des courriels afin d'afficher son contenu dans la partie de droite.
 3. Actions
-   - Expédiez le courriel à nouveau
-   - Supprimer
-     Si le bouton est grisé, impossible de faire la suppression.
-4. Envoyez un nouveau courriel en lien avec la demande.
+   - Expédiez le courriel à nouveau s'il ne semble pas avoir été reçu par le destinataire.
+   - Supprimer (vous ne pouvez pas supprimer un courriel déjà expédié par le logiciel).
+4. Envoyez un nouveau courriel manuel en lien avec la demande.
 
 ![](../../static/img/Courriels_Nouveau_2.png)

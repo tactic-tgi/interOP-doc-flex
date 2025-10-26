@@ -53,6 +53,11 @@ const config = {
               badge: false,
               path: '/',
             },
+            '2.0': {
+              banner: 'none',
+              badge: false,
+              path: '/2.0',
+            },
           },
         },
         theme: {

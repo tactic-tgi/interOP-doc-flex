@@ -166,10 +166,17 @@ Cliquer dans le menu Actions, puis **Commande transporteurs**. Si le bouton est 
 ![](/img/Expedition_commTransporteur_1.png)
 
 
-Par défaut, les lignes des détails des colis représenteront vos lignes d'expédition. 
+Par défaut, les lignes du détail des colis représenteront vos lignes d'expédition. 
 
-Entrez ou modifiez les informations au niveau des boîtes (nombre, format, type, etc), puis remplissez les autres champs selon votre besoin (livraison le samedi, signature requise, date de cueillette, etc).
+Entrez ou modifiez les informations au niveau des boîtes (nombre, format, type, etc), puis remplissez les autres champs selon votre besoin (livraison le samedi, signature requise, date d'expédition, etc).
 ![](/img/Expedition_commTransporteur_2.png)
+
+**Type de paquet :** 
+- Courrier pack : sac préformaté fourni par le transporteur, maximum de 3 lbs.
+- Lettre courrier : seulement bon pour l'envoi d'un document dans une enveloppe. 
+- Mon emballage : tout emballage de votre choix, non fourni par le fournisseur (boîte, tube ou tout autre emballage).
+
+![](/img/Expedition_commTransporteur_2a.png)
 
 
 Vous pouvez ajouter facilement des lignes en utilisant **l'icône** ![](/img/Contacts_2_iconeajout.png).
@@ -178,9 +185,9 @@ Puis en utilisant la **loupe**, vous pourrez trouver des emballages déjà exist
 
 ![](/img/Expedition_commTransporteur_3.png)
 
-Pour la case Payeur : si vous choisissez une autre option qu'expéditeur, vous aurez une petite icône qui apparaitra pour inscrire le numéro de compte de votre client.
-- Destinaire : l'adresse sera celle déjà sélectionnée dans le bon de livraison, vous devrez entrer son numéro de compte seulement.
-- Tiere partie : en plus de devoir entrer le numéro du compte, vous devrez sélectionner l'adresse de la tierce partie en utilisant la loupe.
+**Case Payeur** : si vous choisissez une autre option qu'expéditeur, vous aurez une petite icône qui apparaitra pour inscrire le numéro de compte de votre client.
+- Destinataire : l'adresse sera celle déjà sélectionnée dans le bon de livraison, vous devrez entrer son numéro de compte seulement.
+- Tierce partie : en plus de devoir entrer le numéro du compte, vous devrez sélectionner l'adresse de la tierce partie en utilisant la loupe (adresses d'expédition liées à votre client).
 
 ![](/img/Expedition_commTransporteur_6.png)
 ![](/img/Expedition_commTransporteur_5.png)
@@ -214,11 +221,14 @@ Comme pour la récupération de taux, vous pourriez recevoir des alertes d'erreu
 
 Le système vous invitera ensuite à imprimer l'étiquette d'expédition. Vous pourrez la faire immédiatement ou appuyez sur `Plus tard` et retourner l'imprimer par le menu Actions [Imprimer les étiquettes](../post-production/expeditions.md#imprimer-commTransporteur). 
 
-L'information de la commande au transporteur sera visible dans le bas de l'écran de l'expédition. Pour actualiser le statut venant du transporteur, appuyez sur `Mettre à jour`. 
+L'information de la commande au transporteur sera visible dans le bas de l'écran de l'expédition. 
+
+Bien qu'une cédule sera en place pour mettre à jour régulièrement le statut de la commande tant qu'elle n'est pas complétée, vous pourrez actualiser manuellement le statut venant du transporteur, en appuyant sur `Mettre à jour`.
+
+![](/img/Expedition_commTransporteur_10.png)
 
 Le numéro de suivi sera automatiquement inscrit et vous pourrez faire des vérifications en allant dans l'action **Suivi de la livraison** (ceci ouvrira le site web du transporteur pour faire le suivi).
 
-![](/img/Expedition_commTransporteur_10.png)
 
 
 ### Imprimer étiquette transporteur {#imprimer-commTransporteur}
@@ -226,7 +236,7 @@ Le numéro de suivi sera automatiquement inscrit et vous pourrez faire des véri
 Après une commande réussie, on peut imprimer l'étiquette du fournisseur de transport par l'action **Imprimer étiquette transporteur**. L'action est aussi proposée tout de suite après le succès de la commande à votre fournisseur. 
 
 :::tip
-Vous pouvez préparer une commande et imprimer l'étiquette, mais demander la cueillette seulement le lendemain. 
+Vous pouvez préparer une commande et imprimer l'étiquette, mais demander la date d'expédition seulement le lendemain (date à laquelle vos colis quitteront vos bureaux). 
 :::
 
 ### Annulation d'une commande {#annuler-commTransporteur}

@@ -141,14 +141,43 @@ Section à compléter si vous travaillez avec des produits dans votre système c
 ![](/img/Parametres_Systeme_14.png)
 
 ---
+## Expédition {#expeditions-param}
 
-## Applications connectées {#applications}
+### Paramètres {#expeditions-parametres}
+
+Choisir ici l'unité de mesure habituelle de vos colis (information utilisée sur étiquettes d'expédition) et inscrivez l'adresse courriel de votre département d'expédition. 
+Elle servira lors de l'envoi de confirmation de livraison par courriel ou bien pour passer des commandes à votre transporteur (si abonnement APIs Expédition).
+
+![](/img/Parametres_Systeme_15_param.png)
+
 
 ### Transporteurs {#transporteurs}
 
-Gestion de vos différents transporteurs.
+Gestion de vos différents transporteurs. 
+
+Lorsque ceux-ci sont liés à l'Api Expédition, vous ne pourrez pas supprimer le transporteur, mais vous pourrez le désactiver pour l'exclure de vos menus. 
+Vous pouvez ajouter des transporteurs en utilisant **l'icône** ![](/img/Contacts_2_iconeajout.png) en haut à droite.
 
 ![](/img/Parametres_Systeme_15.png)
+
+## Applications connectées {#applications}
+
+### Apis Expédition (Abonnement requis) {#apis-expedition}
+
+Nous pouvons connecter interOP à de nombreux services d’estimation des coûts de transport. Purolator, Flagship ou Shippo, choisissez ce qui vous convient le mieux. 
+
+Avec l’une ou l’autre de ces intégrations directement dans interOP, vous pouvez obtenir des tarifs, demander des cueillettes et produire des étiquettes d’expédition chez les transporteurs offerts par ces services sans devoir quitter votre progiciel de gestion interOP. C’est une grande économie de temps qui permet de rentabiliser très vite ces connexions.
+
+Pour informations : 
+[https://tactic-tgi.com](https://tactic-tgi.com)
+☎️ 1 800 960-4542
+📧 [info@tactic-tgi.com](mailto:info@tactic-tgi.com)
+
+![](/img/Parametres_Systeme_ApiEXP_2.png)
+
+Dans cette fenêtre, vous pourrez choisir le format d'impression par défaut des étiquettes de votre transporteur (requis pour Shippo). 
+![](/img/Parametres_Systeme_ApiEXP_1.png)
+
 
 ### Printnode {#printnode}
 

@@ -42,15 +42,19 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
    - **Coordonnées**
      Les champs marqués d'une [étoile](../fonctionnalites-generales/champs.md#champs-obligatoires) sont obligatoires.
 
-     **Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).
+     **Remplissage automatique par Google : Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).
      ![](/img/Googlemaps.png)
+     
+    
      Adresse à compléter ici ⤵️
-     ![](/img/Fournisseurs_5.png)
+
+     À noter que si la sélection d'un pays fait en sorte qu'il n'y a pas de province liée, le champ Province ne sera pas obligatoire. 
+     ![](/img/Fournisseurs_7.png)
 
    - **Renseignement additionnels**
      ![](/img/Fournisseurs_6.png)
-   - **Administration**
-     ![](/img/Fournisseurs_7.png)
+   - **Comptabilité**
+     ![](/img/Fournisseurs_5.png)
 
 2\. **Enregistrer**
 

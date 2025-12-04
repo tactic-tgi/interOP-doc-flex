@@ -43,19 +43,39 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
 
 1. Revenir dans la liste des clients et cliquer sur **Créer un client**
    ![](/img/Clients_4_création.png)
-   - **Coordonnées**
+  ### Coordonnées
      Les champs marqués d'une [étoile](../fonctionnalites-generales/champs.md#champs-obligatoires) sont obligatoires.
      ![](/img/Clients_5.png)
-     **Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md)
-     Adresse à compléter ici ⤵️ ![](/img/Clients_6_google.png)
-     - **Informations additionnelles**
+     **Remplissage automatique par Google : Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).
+     
+     Vous devrez compléter l'adresse ici ⤵️ 
+     
+     À noter que si la sélection d'un pays fait en sorte qu'il n'y a pas de province liée, le champ Province ne sera pas obligatoire. Par défaut, à la création d'un client, le Canada et Québec seront inscrits comme Pays et Province.
+     
+     ![](/img/Clients_6_google.png)
+  ### Informations additionnelles
        Identification expéditeur sur le bon d'expédition et les étiquettes.
        **Standard** ➝ Logo & coordonnées de votre entreprise.
        **Client** ➝ Logo de votre client à ajouter.
        **Aucune** ➝ Blank shipping (aucun logo/identification) ![](/img/Clients_7_infosadd_std.png)
-   - **Administration**
-     Les champs à compléter sont en fonction de votre système comptable. À noter que vous pouvez choisir de facturer à une autre entité (autre client de votre base de donnée).
+  ### Comptabilité
+     Les champs à compléter sont en fonction de votre système comptable. 
      ![](/img/Clients_8_admin.png)
+
+      
+     Dans cet onglet, vous pourrez identifier un client comme étant **Prospect**, ce qui veut dire que vous pourrez faire des soumissions à un client sans devoir l'envoyer dans votre système comptable. Lorsque ce client vous demandera une vraie commande, il ne sera donc plus un prospect et vous devrez le synchroniser pour pouvoir éventuellement produire une facture.
+
+     Si vous voulez que vos nouveaux clients créés soient toujours des Prospects par défaut, il suffit d'aller cocher la case dans les Paramètres, section [Valeurs par défaut](../parametres/systeme.md#defauts). 
+
+     ![](/img/Clients_Prospect_defaut.png)
+
+     À noter que si un client a déjà un dossier lié, la case prospect ne sera plus visible. 
+
+     ![](/img/Clients_prospect.png)
+
+
+     C'est aussi dans cet onglet que vous pouvez choisir de facturer à une autre entité (autre client de votre base de donnée).
+     ![](/img/Clients_9_admin.png)
 
 2\. **Enregistrer**
 
@@ -124,12 +144,14 @@ Icônes possibles à côté d'une adresse :
 - Cliquer sur **l'icône** ![](/img/Contacts_2_iconeajout.png)
 - Remplir la fiche
 
-  **Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).
-
-  ![](/img/Googlemaps.png)
-
+**Remplissage automatique par Google : Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).
+ ![](/img/Googlemaps.png)
+     
   Adresse à compléter ⤵️ les champs marqués d'une [étoile](../fonctionnalites-generales/champs.md#champs-obligatoires) sont obligatoires.
-
+  
+  À noter que si la sélection d'un pays fait en sorte qu'il n'y a pas de province liée, le champ Province ne sera pas obligatoire. 
+  Par défaut, le Canada et le Québec sont inscrits dans les cases Pays et Province.
+ 
   ![](/img/AdressesExp_2_creation.png)
 
 - **Enregistrer**

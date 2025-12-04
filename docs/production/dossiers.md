@@ -175,7 +175,7 @@ Pour accéder à l'enregistrement, cliquer sur la ligne directement.
 **Commande(s) liées**
 ![](/img/Dossiers_24.png)
 
-**Bon(s) d'éxpédition liés**
+**Bon(s) d'expédition liés**
 ![](/img/Dossiers_25.png)
 
 #### Créer un bon d'expédition
@@ -197,6 +197,12 @@ Le dossier doit être lancé en production.
 
   Vous référez au [module Factures](../post-production/factures.md) pour en apprendre d'avantage.
 
+
+:::tip
+Si votre dossier était au statut Complété (donc livré et facturé), mais que vous avez besoin de faire un nouveau bon d'expédition ou une facture, vous ne pourrez le faire que par le module dossier, car celui-ci ne sera plus disponible dans les fenêtres de recherche à l'expédition et à la facturation. 
+:::
+
+
 **Notes de production**
 
 Les notes de production sont propres à un dossier et peuvent être consultées à l'écran seulement. Elles ne se retrouvent pas sur le dossier pdf ou imprimé.
@@ -208,6 +214,27 @@ Les notes de production sont propres à un dossier et peuvent être consultées 
 Cliquez sur **l'icône**![](/img/Contacts_2_iconeajout.png)
 
 Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](../fonctionnalites-generales/notes.md#notes-actions).
+
+
+## Notes de production {#notes-production}
+
+Cet onglet rassemble toutes les notes d'un dossier à un seul endroit (infographie, traitement de fichiers, supports, impression, opérations et emballage) et celles-ci sont montrées dans 3 onglets distincts.
+
+![](/img/Dossiers_notesProduction_01.png)
+
+Ces notes sont éditables à cet endroit (en cliquant sur la ligne) et elles se retrouvent sur le bon de production imprimé également, dans la section pertinente. 
+![](/img/Dossiers_notesProduction_02.png)
+![](/img/Dossiers_notesProduction_03.png)
+
+### Notes composantes
+![](/img/Dossiers_notesProduction_04.png)
+
+### Notes finitions
+![](/img/Dossiers_notesProduction_05.png)
+
+### Notes finitions
+![](/img/Dossiers_notesProduction_06.png)
+
 
 ## Détails du projet {#details-projet}
 

@@ -32,6 +32,10 @@ Un item avec une quantité produite ( colonne **Produits**) ne peut pas être su
 
 ![](/img/Parametres_Standards_4.png)
 
+![](/img/Parametres_Standards_epreuves_edition.png)
+
+
+
 ### Divers {#divers}
 
 Sur la **Proposition client,** vous avez la possibilité de :

@@ -71,6 +71,10 @@ La portion du **haut** contient les informations de base de la soumission.
 
 ![](/img/Soumissions_06.png)
 
+Si la soumission sur laquelle ont se trouve est le résultat d'une duplication, vous pouvez naviguer vers la soumission originale en cliquant sur `Duplicata` et ensuite, sur la ligne de la soumission. 
+
+![](/img/Soumission_duplicata.gif)
+
 #### Pour changer le client
 
 Cliquez sur la **loupe** ![](/img/Soumissions_loupe.png) pour faire une recherche et sélectionnez un client.
@@ -263,6 +267,11 @@ Exemple ➝ Du graphisme, de la mise en page, de la calibration de couleurs etc.
   Cliquez sur **l'icône**![](/img/Contacts_2_iconeajout.png)
   ![](/img/Soumissions_29.png)
 
+  
+  Le prix vendant unitaire et les frais de départ proviennent des [standards des épreuves](../parametres/standards.md#epreuves), mais vous pouvez également figer un montant manuellement.
+  ![](/img/Soumissions_30_epreuves.png)
+
+
 ### Plaques {#plaques}
 
 Section disponible seulement lorsque le procédé d'impression utilise des plaques.
@@ -280,6 +289,10 @@ Cette section contient tous les détails relatifs au support à imprimer et l'é
 #### Impression
 
 ![](/img/Soumissions_32.png)
+
+Pour voir le détail des clics (impression numérique), appuyez sur le petit crayon. 
+
+![](/img/Soumission_impression_clics.gif)
 
 ### Opérations et emballages {#operations-emballages}
 
@@ -324,6 +337,11 @@ Ici les opérations sont globales pour l'item.
 Pour ajouter une nouvelle opération, cliquez sur **l'icône**![](/img/Contacts_2_iconeajout.png)
 
 ![](/img/Soumissions_38.png)
+
+Vous pouvez choisir d'activer le calcul pour toutes les quantités ou juste pour certaines (exemple : au-delà de 500 dépliants, vous voulez faire plutôt une demande de prix à un fournisseur externe en sous-traitance, vous allez donc désactiver la quantité de 1000 dans l'exemple ci-dessous).
+
+![](/img/Soumissions_Opinterne_qteactive.gif)
+
 
 ### Interne {#interne}
 
@@ -425,6 +443,18 @@ Une fois vos coûts validés, vous avez la possibilité d'**Enregistrer** pour c
 Cliquez sur **Proposition Client.**
 
 Révisez et modifiez aux besoin les informations.
+Le texte se génère de façon automatique une première fois. Pour ajuster du texte, cliquez dans la boîte, il deviendra orangé. Vous pouvez alors changer des termes ou ajouter des mots. 
+
+
+:::warning
+
+Si vous supprimez tout le texte, la case sera alors vidée et le texte original ne sera pas reporté.
+
+:::
+ 
+
+![](/img/Proposition_texteManuel_1.png)
+![](/img/Proposition_texteManuel_2.png)
 
 **Enregistrer** pour confirmer et fermer la fenêtre.
 

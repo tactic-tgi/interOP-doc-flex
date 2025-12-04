@@ -31,7 +31,12 @@ La partie **droite** présente les divers accès à interOP.
 ## Création d'utilisateur {#creation}
 
 1. Cliquez sur **Créer un utilisateur**
-2. Remplir les informations de base
+2. Remplir les 3 champs, ils sont obligatoires. Le courriel servira à envoyer un mot de passe temporaire et à plein de fonctions dans interOP, assurez-vous de bien l'inscrire ! 
+![](/img/utilisateurs_creation_1.png)
+
+
+3. Une fois la fiche créée, remplir les informations de base
+![](/img/utilisateurs_creation_2.png)
 
    - **Partie gauche**
 
@@ -48,6 +53,19 @@ La partie **droite** présente les divers accès à interOP.
    - **Partie droite**
      - Entrez un nom d'utilisateur qui servira à la connexion au système.
      - Cliquez sur **Créer l'accès à interOP**. Un courriel s'ouvrira pour faire parvenir à l'utilisateur son mot de passe lors de sa première connexion.
+
+    ![](/img/utilisateurs_creation_5.png)
+    ![](/img/utilisateurs_creation_6.png)
+    ![](/img/utilisateurs_creation_7.png)
+
+     - À noter que quand l'utilisateur se connectera la première fois, il devra ensuite choisir un nouveau mot de passe. 
+     
+     Idéalement, utilisez l'outil pour générer un mot de passe fort, pour plus de protection de votre base de données.
+
+     ![](/img/utilisateurs_creation_3.png)
+     ![](/img/utilisateurs_creation_4.png)
+
+
 
 ## Accès & privilèges aux modules {#acces}
 

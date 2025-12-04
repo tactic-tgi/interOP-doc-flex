@@ -54,11 +54,32 @@ Pour préciser le nom que vous voudrez donner à la soumission (client) et au do
 
     ![](/img/Produits_06.png)
 
-Chaque produit doit avoir, au moins, un fournisseur de base avec un prix coutant et son unité d'achat ainsi qu'une unité de vente.
+Chaque produit doit avoir au moins un fournisseur de base avec un prix coûtant et son unité d'achat.
+Vous devez identifier quel fournisseur sera celui par défaut et qui servira à bâtir le prix vendant pour la soumission. 
 
+La devise utilisée est en lien avec le fournisseur, au besoin, vous rendrez dans le module Fournisseurs pour l'ajuster.
       ![](/img/Produits_07.png)
 
       ![](/img/Produits_11.png)
+
+Pour ajouter ou éditer un prix d'un fournisseur, cliquez sur la ligne pour ouvrir la fenêtre d'édition. 
+      ![](/img/Produits_editionPrixFournisseur.png)
+
+
+### Choix d'une unité (coûtant / vendant) et facteur de conversion {#unite}
+
+Que ce soit pour le coûtant (prix de votre fournisseur) ou le vendant (prix de la soumission), vous pouvez sélectionner des unités qui sont pertinentes à un type de produit. 
+Par exemple, un papier numérique n'aura pas les choix de pouces carrés, mais plutôt le choix "Mille", au "100 lbs" ou à l'unité. 
+Inversement, une boîte d'emballage aura seulement un choix "Unité". 
+
+Le facteur de conversion sert à calculer le prix unitaire. Par exemple, si vous commandez par boîte de 100 items, mais que vous vendez votre item en unité, il faudra alors inscrire 100 dans le facteur de conversion pour que le prix se divise par la bonne quantité.
+
+Une note apparaitra si une conversion automatique est possible et à ce moment, vous n'aurez pas besoin d'inscrire le facteur, car le système calculera le bon prix unitaire. 
+
+
+      ![](/img/Produits_Unite_1.png)
+
+
 
 ### Modifier un produit {#modifier}
 

@@ -58,6 +58,10 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris
 
     ![](/img/Facturation_06.png)
 
+    :::tip
+Si votre dossier était au statut Complété (donc livré et facturé), mais que vous avez besoin de faire une nouvelle facture, vous pourez le faire en vous rendant dans le module Dossiers, dans l'onglet [Détails du dossier](../production/dossiers.md#enregistrements), dans les factures liées.
+:::
+
 ### Nouvelle facture (vide, à partir d'un client) {#nouvelle-facture}
 
     Sélectionner un client.

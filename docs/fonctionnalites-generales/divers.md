@@ -28,6 +28,34 @@ En mode Liste, on retrouve l'étoile bleue à l'extrémité de chaque ligne.
 
 À noter que tous vos favoris se retrouveront dans le module [Mes Préférences](../parametres/preferences.md), dans la Gestion des enregistrements, où vous pourrez facilement y retourner en cliquant sur celui-ci.
 
+### Exporter en Excel ou imprimer une liste ou un rapport {#excel}
+
+Dans toutes les modes listes des modules et tous les rapports, vous trouverez dans l'icône [Actions](../fonctionnalites-generales/actions.md#action-principale), un bouton `Exporter en Excel` et un bouton `Imprimer`.
+
+![](/img/exportExcel_01.png)
+
+#### Exportation Excel
+
+Le dialogue pour sauvegarder propose un nom de fichier de base, que vous pouvez changer à votre guise, ainsi que l'endroit où le fichier sera sauvegardé. 
+
+Dans le fichier Excel :
+- Les données qui étaient visibles à l'écran seront présentes.
+- Les entêtes de colonnes porteront le nom se trouvant dans votre mode liste ou votre rapport. 
+- Une flèche sera présente sur les entêtes pour pouvoir trier ou filtrer facilement.
+
+![](/img/exportExcel_02.png)
+![](/img/exportExcel_03.png)
+
+#### Imprimer (ou produire un pdf)
+
+Lorsque vous cliquerez sur le bouton `Imprimer`, une boîte de configuration d'impression s'ouvrira.
+Vous pourrez sélectionner votre imprimante et le format de papier.
+
+Pour produire un pdf, vous pourrez simplement sélectionner votre application qui visionne vos pdf et faire le bouton `Enregistrer`.
+
+![](/img/impressionListe_02.png) ![](/img/impressionListe_01.png)
+
+
 ### Fiche annulée {#fiche-annulee}
 
 Son statut changera pour Annulée.

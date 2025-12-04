@@ -15,6 +15,8 @@ Une barre verticale vous permet de dérouler par le bas.
 
 Pour trier les informations de la liste, cliquez sur l'entête d'une colonne pour trier la liste en fonction de celle-ci.
 
+Chaque mode liste peut être **imprimer** ou **exporter en fichier Excel**. Veuillez vous référez [**ici**](../fonctionnalites-generales/divers.md#excel) pour plus d'explications. 
+
 ## Barre de recherche {#barre-recherche}
 
 Inscrire l'information à rechercher.

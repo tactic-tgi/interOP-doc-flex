@@ -20,6 +20,9 @@ Remplir les critères souhaités dans la fenêtre **Filtres**, puis cliquez sur
 
 Cochez les produits que vous souhaitez inclure dans la commande, en choissisant les lignes manuellement ou en cochant la case située dans l'entête bleue du fournisseur (ou selon le regroupement choisit) pour sélectionner tous les produits associés à celui-ci.
 
+Vous pouvez également sélectionner une case, puis tenir la touche Majuscule enfoncée en sélectionnant une case plus bas pour sélectionner tous les items entre les deux.
+Voir la section [**Sélections**](../fonctionnalites-generales/selections.md#cases-cocher) pour plus de détails. 
+
 Une fois votre sélection faite, cliquez sur **Actions** pour procéder soit à la commande des produits ou pour annuler les réquisitions.
 
 Un message de confirmation apparaitra pour vous mentionner que la commande a été faite. Vous devez ensuite vous rendre dans les commandes par le menu principal pour la trouver. Vous pouvez donc faire plusieurs commandes avant de quitter les réquisitions pour aller les compléter dans l'autre module.

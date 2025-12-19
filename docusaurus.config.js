@@ -146,6 +146,14 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  scripts: [
+    {
+      src: 'https://js.hs-scripts.com/8973259.js',
+      id: 'hs-script-loader',
+      async: true,
+      defer: true,
+    },
+  ],
 };
 
 export default config;

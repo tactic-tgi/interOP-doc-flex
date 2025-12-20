@@ -59,6 +59,7 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris
     ![](/img/Facturation_06.png)
 
     :::tip
+
 Si votre dossier était au statut Complété (donc livré et facturé), mais que vous avez besoin de faire une nouvelle facture, vous pourez le faire en vous rendant dans le module Dossiers, dans l'onglet [Détails du dossier](../production/dossiers.md#enregistrements), dans les factures liées.
 :::
 
@@ -90,7 +91,7 @@ Par défaut, le responsable de la facturation sera dans l'envoi courriel ainsi q
 
 ## Ajouter une ligne de facture {#ajout-ligne}
 
-Cliquez sur **l'icône**![](/img/Contacts_2_iconeajout.png) et choisir l'option désirée.
+Cliquez sur **l'icône** ![](/img/Contacts_2_iconeajout.png) et choisir l'option désirée.
 
 Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des flèches se situant à droite du portail.
 
@@ -131,7 +132,7 @@ Ne pas oublier que vous pouvez changer ensuite l'ordre des lignes à l'aide des 
     Une ligne vierge va se créer.
 
     Remplir les informations (description, quantité et prix), puis Enregistrer.
-    Vous pouvez ajouter d'autres lignes de texte directement dans cette fenêtre, en cliquant sur **l'icône**![](/img/Contacts_2_iconeajout.png)
+    Vous pouvez ajouter d'autres lignes de texte directement dans cette fenêtre, en cliquant sur **l'icône** ![](/img/Contacts_2_iconeajout.png)
 
     ![](/img/Facturation_14.png)
 

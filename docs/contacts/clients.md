@@ -46,11 +46,16 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
   ### Coordonnées
      Les champs marqués d'une [étoile](../fonctionnalites-generales/champs.md#champs-obligatoires) sont obligatoires.
      ![](/img/Clients_5.png)
-     **Remplissage automatique par Google : Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).
+
+     :::info
+    **Remplissage automatique par Google : Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).![](/img/Googlemaps.png)
+    :::
      
      Vous devrez compléter l'adresse ici ⤵️ 
      
      À noter que si la sélection d'un pays fait en sorte qu'il n'y a pas de province liée, le champ Province ne sera pas obligatoire. Par défaut, à la création d'un client, le Canada et Québec seront inscrits comme Pays et Province.
+
+     Également, si votre client est un **Prospect**, vous pourrez sortir sans écrire d'adresse et y revenir quand il deviendra un client actif. 
      
      ![](/img/Clients_6_google.png)
   ### Informations additionnelles
@@ -144,8 +149,10 @@ Icônes possibles à côté d'une adresse :
 - Cliquer sur **l'icône** ![](/img/Contacts_2_iconeajout.png)
 - Remplir la fiche
 
-**Remplissage automatique par Google : Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).
- ![](/img/Googlemaps.png)
+:::info
+**Remplissage automatique par Google : Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).![](/img/Googlemaps.png)
+:::
+ 
      
   Adresse à compléter ⤵️ les champs marqués d'une [étoile](../fonctionnalites-generales/champs.md#champs-obligatoires) sont obligatoires.
   

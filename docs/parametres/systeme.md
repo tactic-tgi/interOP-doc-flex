@@ -64,6 +64,8 @@ Ayez la latitude de modifier les termes qui apparaissent sur les différents for
 
 Personnalisez la numérotation de vos différents modules.
 
+Le Numéro alternatif de série sert à définir la séquence de vos factures finales, puis vos modèles de soumissions.
+
 ![](/img/Parametres_Systeme_6.png)
 
 ### Valeurs par défaut {#defauts}

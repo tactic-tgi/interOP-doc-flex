@@ -42,8 +42,9 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
    - **Coordonnées**
      Les champs marqués d'une [étoile](../fonctionnalites-generales/champs.md#champs-obligatoires) sont obligatoires.
 
-     **Remplissage automatique par Google : Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).
-     ![](/img/Googlemaps.png)
+    :::info
+    **Remplissage automatique par Google : Abonnement requis** pour cette [fonction](../fonctionnalites-generales/recherche-adresse.md).![](/img/Googlemaps.png)
+    :::
      
     
      Adresse à compléter ici ⤵️

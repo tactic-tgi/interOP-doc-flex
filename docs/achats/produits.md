@@ -87,6 +87,32 @@ Simplement modifier les informations directement dans la fiche du produit.
 
 Aucune sauvegarde n'est nécessaire.
 
+
+### Vêtements {#vetements}
+
+Puisque la définition d'un produit Vêtements est un peu particulière, nous avons prévu une section pour ce type.
+
+  - Vous pouvez définir un prix par grandeur dans les fournisseurs.
+    - Les grandeurs sont les suivantes : OS (one size), S, M, L, XL, 2XL, 3XL et 4XL
+    - Vous pouvez également copier-coller l'URL de votre produit sur le site web de votre fournisseur.
+  ![](/img/Vetements_01a.png)
+  
+  - Il est possible d'attribuer un modèle aux vêtements (homme, femme, enfants, unisexe).
+  ![](/img/Vetements_02.png)
+  ![](/img/Vetements_06.png)
+
+
+  - Ces modèles peuvent être gérés dans les [Standards](../parametres/standards.md#modeles)
+  ![](/img/Vetements_Modeles_01.png)
+
+  - Les prix coûtant et vendant sont affichés dans des nouveaux "popover", étant donné la possibilité d'en avoir plusieurs.
+  ![](/img/Vetements_04.png)
+  ![](/img/Vetements_05.png)
+
+  - Dans la liste virtuelle, s'il y a plusieurs prix différents par grandeur, le prix le plus élevé sera affiché.
+  ![](/img/Vetements_08.png)
+
+
 ---
 
 ## Historique de commande {#historique}
@@ -97,7 +123,9 @@ Cliquez sur une ligne pour consulter la commande.
 
     ![](/img/Produits_08.png)
 
+
 ---
+
 
 ## Actions diverses {#acions}
 

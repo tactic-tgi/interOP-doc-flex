@@ -55,6 +55,13 @@ Vous pourrez cliquer sur Corriger pour voir les champs en surbrillance (contour 
 
   Sert de modèle de base duquel repartir pour créer une nouvelle soumission (dupliquer), permet de sauver du temps et d'avoir des soumissions uniformes. Les items d'une soumission modèle ne peuvent être ni révisés ni servir pour la création d'un dossier.
 
+
+### Numérotation {#numerotation}
+
+Comme dans la plupart des modules, vous avez accès à définir la numérotation de vos soumissions ainsi que de vos modèles (Numéro alternatif de série).
+Veuillez vous rendre dans les [Paramètres Système](../parametres/systeme.md#numerotations) pour les modifier. 
+
+
 ## Informations de base {#infos-base}
 
 La portion du **haut** contient les informations de base de la soumission.
@@ -274,7 +281,7 @@ Exemple ➝ Du graphisme, de la mise en page, de la calibration de couleurs etc.
 
 ### Plaques {#plaques}
 
-Section disponible seulement lorsque le procédé d'impression utilise des plaques.
+Section disponible seulement lorsque le procédé d'impression utilise des plaques. Sinon, l'onglet sera masqué et l'information "plaques/blanchets" sera masquée au sommaire.
 
 ![](/img/Soumissions_30.png)
 
@@ -318,9 +325,14 @@ Une seule différence est visible : l'encadré informatif **Composante visée**.
 
   ![](/img/Soumissions_36.png)
 
-  Le système évalue systématiquement la nécessité de couteau avant et/ou après impression. Dans certains cas, il est possible que vous n'en ayez pas besoin, dans ces cas précis cochez la case. Cela évite un recalcul constant.
+:::note
+  Le système évalue systématiquement la nécessité de **couteau avant et/ou après** impression et créera une opération automatiquement. Dans certains cas, il est possible que vous n'en ayez pas besoin, dans ces cas précis cochez la case. Cela évite un recalcul constant.
 
   Exemple ➝ la coupe peut ne pas être nécessaire pour le numérique ou si le travail est découpé.
+
+  L'opération de coupe avant se créera toujours au début de la liste, puisqu'elle doit être faite avant l'impression. 
+
+:::
 
 #### Emballages
 
@@ -426,6 +438,10 @@ Nous y accédons directement dans un item, en haut à droite.
 
 ![](/img/Soumissions_53.png)
 
+:::note
+Si aucun procédé n'utilise des Plaques/blanchets ou des Encres, ces lignes seront masquées.
+:::
+
 La partie du bas permet de faire des modification, cliquez dessus pour y accéder.
 
 ![](/img/Soumissions_56.png)
@@ -456,6 +472,10 @@ Si vous supprimez tout le texte, la case sera alors vidée et le texte original 
 ![](/img/Proposition_texteManuel_1.png)
 ![](/img/Proposition_texteManuel_2.png)
 
+Vous pouvez masquer des options de quantité à votre client, simplement en cliquant sur le petit oeil au bout de la ligne. 
+![](/img/Proposition_masque.png)
+
+
 **Enregistrer** pour confirmer et fermer la fenêtre.
 
 **Enregistrer & Envoyer** pour envoyer la proposition au client par [courriel](../fonctionnalites-generales/courriels.md).
@@ -469,6 +489,12 @@ Si vous supprimez tout le texte, la case sera alors vidée et le texte original 
 #### En mode consultation, fenêtre de la Soumission
 
 - Dupliquer
+
+Si vous avez plusieurs items sur une soumission, une fenêtre ouvrira pour sélectionner ceux que vous voulez dupliquer. 
+Si un seul item existe, il sera automatiquement dupliqué. 
+
+![](/img/Soumissions_dupliquer.png)
+
 - Supprimer
 
   Si le bouton est grisé, impossible de faire la suppression.

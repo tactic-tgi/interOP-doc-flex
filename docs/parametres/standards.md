@@ -106,6 +106,12 @@ Définissez vos catégories de produits ( matières premières ou autres), les c
 
 ![](/img/Parametres_Standards_12.png)
 
+### Modèles {#modeles}
+
+Définissez vos modèles par type de produits.
+
+![](/img/Vetements_Modeles_01.png)
+
 ### Réquisitions {#requisitions}
 
 ![](/img/Parametres_Standards_13.png)

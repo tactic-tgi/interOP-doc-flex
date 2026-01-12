@@ -146,6 +146,7 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  /*Bot IA, inconcluant pour le moment
   scripts: [
     {
       src: 'https://js.hs-scripts.com/8973259.js',
@@ -154,6 +155,7 @@ const config = {
       defer: true,
     },
   ],
+  */
 };
 
 export default config;

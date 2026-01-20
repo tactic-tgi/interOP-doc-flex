@@ -140,6 +140,8 @@ Inscrivez la liste de vos comptes GL (Revenus et Dépenses).
 
 Section à compléter si vous travaillez avec des produits dans votre système comptable.
 
+À noter que certains systèmes comptables permettent d'aller chercher directement les produits dans celui-ci (par exemple : Quickbooks). À ce moment, le bouton pour ajouter un nouveau produit ne sera pas présent, vous aurez plutôt une synchronisation à faire. 
+
 ![](/img/Parametres_Systeme_14.png)
 
 ---

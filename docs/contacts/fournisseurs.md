@@ -52,7 +52,9 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
      À noter que si la sélection d'un pays fait en sorte qu'il n'y a pas de province liée, le champ Province ne sera pas obligatoire. 
      ![](/img/Fournisseurs_7.png)
 
-   - **Renseignement additionnels**
+   - **Informations additionnelles**
+   
+      Inscrire la catégorie de ce fournisseur et choisir également votre **entité commerciale**. Par défaut, ce sera celle sélectionnée dans les [Paramètres Système](../parametres/systeme.md#coordonnees).
      ![](/img/Fournisseurs_6.png)
    - **Comptabilité**
      ![](/img/Fournisseurs_5.png)

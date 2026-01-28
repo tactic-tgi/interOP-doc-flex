@@ -141,4 +141,18 @@ Voir explications dans module [Réquisitions](../achats/requisitions.md#parametr
 
 ### Transport {#transport}
 
+Ajoutez vos transporteurs ici. 
+
 ![](/img/Parametres_Standards_18.png)
+
+En cliquant sur la ligne, une fenêtre ouvrira pour vous permettre de détailler les prix, soit par quantité/poids et de pouvoir inscrire votre préférence entre boîtes/palettes.
+
+Une case **Notes** vous permettra de consigner de courtes informations importantes, qui seront reportées dans le menu de sélection d'un transporteur (à la soumission ou au dossier dans la section [Transports & Livraisons](../estimation/soumissions.md#transports)), dans le but de vous permettre une sélection pour efficaceé
+
+![](/img/Standards_transporteur_01.png)
+
+![](/img/Standards_transporteur_02.png)
+
+
+
+

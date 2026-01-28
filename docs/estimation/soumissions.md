@@ -422,44 +422,59 @@ Pour modifier et/ou supprimer un emballage, cliquez sur sa ligne pour l'ouvrir e
   ![](/img/Soumissions_50.png)
 
   ![](/img/Soumissions_51.png)
+
+  :::tip
+  Pour que votre menu soit plus complet et facile d'utilisation, rendez-vous dans les standards de transport pour ajouter une courte note et mieux identifier votre prix par transporteur. Suivre ce [lien](../parametres/standards.md#transport) pour plus de détails. 
+  ![](/img/Standards_transporteur_03.png)
+  :::
+
   ![](/img/Soumissions_52.png)
 
 Pour modifier et/ou supprimer un transport, cliquez sur sa ligne pour l'ouvrir et pour le supprimer, appuyer sur Supprimer dans le menu Actions.
+
+
 
 ---
 
 ## Sommaire & Proposition {#sommaire-proposition}
 
-#### Sommaire des coûts
+Nous y accédons directement dans un item, en haut à droite. Permet de valider les coûts dans un sommaire entièrement web, ainsi que de réviser votre proposition client avant de l'envoyer par courriel.
 
-Permet de consulter le sommaire des coûts d'un item pour toutes ses quantités.
-Nous y accédons directement dans un item, en haut à droite.
 ![](/img/Soumissions_54.png)
 
+#### Sommaire des coûts
+
+Il est possible d'activer / désactiver des quantités pour ne plus les voir dans le sommaire en cliquant sur les quantités.
 ![](/img/Soumissions_53.png)
+
+Chaque sous-section est fermée à l'ouverture du sommaire, mais elles peuvent toutes être ouvertes en cliquant sur les lignes respectives (Pré-presse, impression, opérations internes, opérations externes, logistique et totaux).
+
+![](/img/Soumissions_55.png)
 
 :::note
 Si aucun procédé n'utilise des Plaques/blanchets ou des Encres, ces lignes seront masquées.
 :::
 
-La partie du bas permet de faire des modification, cliquez dessus pour y accéder.
-
+Pour modifier les différentes valeurs qui auront un effet sur votre prix vendant, cliquez sur le bouton Éditer.
 ![](/img/Soumissions_56.png)
+
 
 - Modifications
 
   - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../parametres/standards.md#matieres-parametres), mais peuvent aussi être propre à un client.
   - Commission peut être définit par défaut dans les [standards](../parametres/standards.md#matieres-parametres), mais peut aussi être propre à un [représentant](../parametres/utilisateurs.md#creation).
-    ![](/img/Soumissions_55.png)
 
-Une fois vos coûts validés, vous avez la possibilité d'**Enregistrer** pour confirmer et fermer la fenêtre ou de valider la **proposition au client**.
+    ![](/img/Soumissions_Sommaire3.png)
 
-#### Proposition par item
 
-Cliquez sur **Proposition Client.**
+#### Proposition client
+
+Cliquez sur l'onglet **Proposition Client.**
 
 Révisez et modifiez aux besoin les informations.
 Le texte se génère de façon automatique une première fois. Pour ajuster du texte, cliquez dans la boîte, il deviendra orangé. Vous pouvez alors changer des termes ou ajouter des mots. 
+
+![](/img/Soumissions_SommaireProp.png)
 
 
 :::warning
@@ -472,15 +487,23 @@ Si vous supprimez tout le texte, la case sera alors vidée et le texte original 
 ![](/img/Proposition_texteManuel_1.png)
 ![](/img/Proposition_texteManuel_2.png)
 
+#### Quantités et prix
+
+Cliquez sur l'onglet **Quantités et prix** pour visualiser les prix par quantités et les unités utilisées (prix unitaire ou au mille)
+
 Vous pouvez masquer des options de quantité à votre client, simplement en cliquant sur le petit oeil au bout de la ligne. 
 ![](/img/Proposition_masque.png)
 
 
-**Enregistrer** pour confirmer et fermer la fenêtre.
+Cliquez sur le bouton Actions en haut à droite pour **Envoyer** la proposition au client par [courriel](../fonctionnalites-generales/courriels.md) ou retourner à votre soumission par la flèche en haut à gauche.
+![](/img/Proposition_envoi_retour.png)
 
-**Enregistrer & Envoyer** pour envoyer la proposition au client par [courriel](../fonctionnalites-generales/courriels.md).
+:::note
 
-![](/img/Soumissions_60.png)
+Pour visualiser la proposition dans son ensemble (dans votre navigateur), avant de l'envoyer à votre client, retournez dans votre soumission et utilisez le bouton Actions puis "Visualiser la proposition". 
+
+:::
+
 
 ---
 

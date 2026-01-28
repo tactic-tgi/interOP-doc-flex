@@ -59,10 +59,20 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
      
      ![](/img/Clients_6_google.png)
   ### Informations additionnelles
-       Identification expéditeur sur le bon d'expédition et les étiquettes.
-       **Standard** ➝ Logo & coordonnées de votre entreprise.
-       **Client** ➝ Logo de votre client à ajouter.
-       **Aucune** ➝ Blank shipping (aucun logo/identification) ![](/img/Clients_7_infosadd_std.png)
+       Identification du secteur d'activité, du représentant, de la langue, puis de l'expéditeur sur le bon d'expédition et les étiquettes.
+
+          - **Standard** ➝ Logo & coordonnées de votre entreprise.
+          - **Client** ➝ Logo de votre client à ajouter.
+          - **Aucune** ➝ Blank shipping (aucun logo/identification) 
+
+      ![](/img/Clients_7_infosadd_std.png)
+
+       Choisissez également votre **entité commerciale**. Par défaut, ce sera celle sélectionnée dans les [Paramètres Système](../parametres/systeme.md#coordonnees).
+
+       ![](/img/Clients_7_infosadd_std2.png)
+          
+      
+
   ### Comptabilité
      Les champs à compléter sont en fonction de votre système comptable. 
      ![](/img/Clients_8_admin.png)

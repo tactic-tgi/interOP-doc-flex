@@ -12,7 +12,6 @@ Cette section du logiciel vous permet de le personnaliser selon votre entreprise
 
 Tout changement ici, sera reproduit ailleurs dans le logiciel.
 
-![](/img/Parametres_Systeme_1.png)
 
 ---
 
@@ -20,9 +19,30 @@ Tout changement ici, sera reproduit ailleurs dans le logiciel.
 
 ### Coordonnées {#coordonnees}
 
-Inscrire vos coordonnées d'entreprise , ajouter vos logos et sélectionner le logo à utiliser dans les différents formulaires.
+Ajouter ici vos entités commerciales : chaque société a ses propres coordonnées, sa propre adresse, ses logos ainsi qu'une liste visuelle des différents clients et fournisseurs qui lui sont associés.
 
-![](/img/Parametres_Systeme_2.png)
+Vous pouvez créer autant d'entités commerciales que vous souhaitez et en définir une par **défaut**. Ceci fera en sorte qu'à la création d'un client ou fournisseur, c'est cette entité qui lui sera associée.
+
+Si une entité commerciale est associée à un client ou un fournisseur, celle-ci ne pourra pas être supprimée. Elle pourra toutefois être désactivée.
+
+![](/img/Parametres_Systeme_1.png)
+
+Lorsqu'on clique sur une ligne du portail, on ouvre une fenêtre d'édition de l'entité.
+Veillez à bien remplir toutes les informations dans les 3 premiers onglets.
+
+![](/img/Parametres_Systeme_1b.png)
+![](/img/Parametres_Systeme_1c.png)
+![](/img/Parametres_Systeme_1d.png)
+
+Les onglets Clients et fournisseurs vous permettent de voir en un coup d'oeil les clients et fournisseurs associés à cette entité. 
+![](/img/Parametres_Systeme_1e.png)
+![](/img/Parametres_Systeme_1f.png)
+
+Pour associer une entité commerciale à un client ou un fournisseur, il suffit de se rendre dans sa fenêtre d'édition, onglet "Informations additionnelles", puis de trouver la rubrique "Entité commerciale associée". Suivre ce [lien](../contacts/clients.md#informations-additionnelles) au besoin. 
+
+Lorsqu'une entité commerciale est associée à un client/fournisseur, les formulaires officiels qui seront produit pour celui-ci (soumissions, expéditions et factures) porteront les logos et adresses de l'entité sélectionnée.
+
+![](/img/Parametres_Systeme_1g.png)
 
 ### Textes / Modèles de courriels {#courriels}
 

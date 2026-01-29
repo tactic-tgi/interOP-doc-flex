@@ -438,7 +438,12 @@ Pour modifier et/ou supprimer un transport, cliquez sur sa ligne pour l'ouvrir e
 
 ## Sommaire & Proposition {#sommaire-proposition}
 
-Nous y accédons directement dans un item, en haut à droite. Permet de valider les coûts dans un sommaire entièrement web, ainsi que de réviser votre proposition client avant de l'envoyer par courriel.
+Nous y accédons directement dans un item, en haut à droite. 
+
+En cliquant sur le bouton Sommaire et Proposition, il sera possible pour vous de vérifier les données générales de production de votre projet avant de l'envoyer au client. Vous aurez accès aux sections suivantes :
+- Sommaire des coûts
+- Proposition du client
+- Quantité et prix
 
 ![](/img/Soumissions_54.png)
 
@@ -447,7 +452,8 @@ Nous y accédons directement dans un item, en haut à droite. Permet de valider 
 Il est possible d'activer / désactiver des quantités pour ne plus les voir dans le sommaire en cliquant sur les quantités.
 ![](/img/Soumissions_53.png)
 
-Chaque sous-section est fermée à l'ouverture du sommaire, mais elles peuvent toutes être ouvertes en cliquant sur les lignes respectives (Pré-presse, impression, opérations internes, opérations externes, logistique et totaux).
+Chaque sous-section est fermée à l'ouverture du sommaire, mais vous pourrez déployer les sections afin de voir plus de détail sur le coûtant et le vendant selon les étapes de réalisation du projet.
+
 
 ![](/img/Soumissions_55.png)
 
@@ -463,6 +469,10 @@ Pour modifier les différentes valeurs qui auront un effet sur votre prix vendan
 
   - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../parametres/standards.md#matieres-parametres), mais peuvent aussi être propre à un client.
   - Commission peut être définit par défaut dans les [standards](../parametres/standards.md#matieres-parametres), mais peut aussi être propre à un [représentant](../parametres/utilisateurs.md#creation).
+
+  :::note
+  À noter que si ces chiffres sont en noir, c’est qu’ils ont été déterminés selon les Standards par défaut. Si vous remplacez une de ces données manuellement, celle-ci sera affichée en rouge. Si vous effacez une donnée en rouge, la donnée standard sera à nouveau utilisée.
+  :::
 
     ![](/img/Soumissions_Sommaire3.png)
 
@@ -500,7 +510,7 @@ Cliquez sur le bouton Actions en haut à droite pour **Envoyer** la proposition 
 
 :::note
 
-Pour visualiser la proposition dans son ensemble (dans votre navigateur), avant de l'envoyer à votre client, retournez dans votre soumission et utilisez le bouton Actions puis "Visualiser la proposition". 
+Pour visualiser la proposition dans son ensemble (dans votre navigateur), avant de l'envoyer à votre client, cliquez sur le pdf et faire ouvrir, ou retournez dans votre soumission et utilisez le bouton Actions puis "Visualiser la proposition". 
 
 :::
 

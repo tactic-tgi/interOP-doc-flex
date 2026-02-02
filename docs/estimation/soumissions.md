@@ -467,11 +467,13 @@ Pour modifier les différentes valeurs qui auront un effet sur votre prix vendan
 
 - Modifications
 
-  - Majoration, Escompte et Frais d'ouverture peuvent être définis dans les [standards par défaut](../parametres/standards.md#matieres-parametres), mais peuvent aussi être propre à un client.
-  - Commission peut être définit par défaut dans les [standards](../parametres/standards.md#matieres-parametres), mais peut aussi être propre à un [représentant](../parametres/utilisateurs.md#creation).
+  - **Majoration, Escompte et Frais d'ouverture** peuvent être définis dans les [standards par défaut](../parametres/standards.md#matieres-parametres), mais peuvent aussi être propre à un [client](../contacts/clients.md#comptabilité). 
+  - **Commission** peut être définit par défaut dans les [standards](../parametres/standards.md#matieres-parametres), mais peut aussi être propre à un [représentant](../parametres/utilisateurs.md#creation).
 
   :::note
-  À noter que si ces chiffres sont en noir, c’est qu’ils ont été déterminés selon les Standards par défaut. Si vous remplacez une de ces données manuellement, celle-ci sera affichée en rouge. Si vous effacez une donnée en rouge, la donnée standard sera à nouveau utilisée.
+  À noter que si ces chiffres sont en noir, c’est qu’ils ont été déterminés selon les **Standards par défaut ou dans la fiche du client**. Si vous remplacez une de ces données manuellement, celle-ci sera affichée en rouge. Si vous effacez une donnée en rouge, la donnée standard sera à nouveau utilisée.
+
+  Aussi : si vous changez l'attribution de la soumission à un autre client **avant l'ouverture du dossier**, l'escompte s'ajustera automatiquement au nouveau client, si défini directement dans sa fiche. 
   :::
 
     ![](/img/Soumissions_Sommaire3.png)

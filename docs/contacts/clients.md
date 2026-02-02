@@ -74,11 +74,18 @@ Le dernier onglet permet de consigner différentes [notes](../fonctionnalites-ge
       
 
   ### Comptabilité
-     Les champs à compléter sont en fonction de votre système comptable. 
+     La plupart des champs à compléter sont en fonction de votre **système comptable**. Également, vous pourrez définir un **escompte** et une **majoration** applicable sur chaque soumission produite, ainsi que des frais d'ouverture de dossier.
+
+    :::info
+     À noter que ces frais peuvent être définis dans les [standards par défaut](../parametres/standards.md#matieres-parametres) et appliqués globalement à tous les clients.
+     ::: 
+
+     Vous pourrez aussi inscrire si les travaux faits pour ce client doivent être **facturés à une autre entité** et contrôler certains blocages comme "P.O Obligatoire" et "Commande permise". 
+
      ![](/img/Clients_8_admin.png)
 
       
-     Dans cet onglet, vous pourrez identifier un client comme étant **Prospect**, ce qui veut dire que vous pourrez faire des soumissions à un client sans devoir l'envoyer dans votre système comptable. Lorsque ce client vous demandera une vraie commande, il ne sera donc plus un prospect et vous devrez le synchroniser pour pouvoir éventuellement produire une facture.
+     Aussi, dans cet onglet, vous pourrez identifier un client comme étant **Prospect**, ce qui veut dire que vous pourrez faire des soumissions à un client sans devoir l'envoyer dans votre système comptable. Lorsque ce client vous demandera une vraie commande, il ne sera donc plus un prospect et vous devrez le synchroniser pour pouvoir éventuellement produire une facture.
 
      Si vous voulez que vos nouveaux clients créés soient toujours des Prospects par défaut, il suffit d'aller cocher la case dans les Paramètres, section [Valeurs par défaut](../parametres/systeme.md#defauts). 
 

@@ -88,6 +88,10 @@ Noter que si un frais d'ouverture a été ajouté dans la [fiche du client](../c
 
 ![](/img/Parametres_Standards_9.png)
 
+À noter qu'il est également possible de créer des groupes d'encres dans les standards pour le procédé "Sous-traitance", mais sans spécifier de couleur. Cela permet de conserver les coûts à 0 dans les soumissions et d'avoir des choix d'impression standardisés.
+
+![](/img/Standards_encres_STR.png)
+
 ---
 
 ## Matières premières {#matieres-premieres}

@@ -55,12 +55,10 @@ Vous pourrez cliquer sur Corriger pour voir les champs en surbrillance (contour 
 
   Sert de modèle de base duquel repartir pour créer une nouvelle soumission (dupliquer), permet de sauver du temps et d'avoir des soumissions uniformes. Les items d'une soumission modèle ne peuvent être ni révisés ni servir pour la création d'un dossier.
 
-
 ### Numérotation {#numerotation}
 
 Comme dans la plupart des modules, vous avez accès à définir la numérotation de vos soumissions ainsi que de vos modèles (Numéro alternatif de série).
-Veuillez vous rendre dans les [Paramètres Système](../parametres/systeme.md#numerotations) pour les modifier. 
-
+Veuillez vous rendre dans les [Paramètres Système](../parametres/systeme.md#numerotations) pour les modifier.
 
 ## Informations de base {#infos-base}
 
@@ -78,7 +76,7 @@ La portion du **haut** contient les informations de base de la soumission.
 
 ![](/img/Soumissions_06.png)
 
-Si la soumission sur laquelle ont se trouve est le résultat d'une duplication, vous pouvez naviguer vers la soumission originale en cliquant sur `Duplicata` et ensuite, sur la ligne de la soumission. 
+Si la soumission sur laquelle ont se trouve est le résultat d'une duplication, vous pouvez naviguer vers la soumission originale en cliquant sur `Duplicata` et ensuite, sur la ligne de la soumission.
 
 ![](/img/Soumission_duplicata.gif)
 
@@ -274,10 +272,8 @@ Exemple ➝ Du graphisme, de la mise en page, de la calibration de couleurs etc.
   Cliquez sur **l'icône**![](/img/Contacts_2_iconeajout.png)
   ![](/img/Soumissions_29.png)
 
-  
   Le prix vendant unitaire et les frais de départ proviennent des [standards des épreuves](../parametres/standards.md#epreuves), mais vous pouvez également figer un montant manuellement.
   ![](/img/Soumissions_30_epreuves.png)
-
 
 ### Plaques {#plaques}
 
@@ -297,7 +293,7 @@ Cette section contient tous les détails relatifs au support à imprimer et l'é
 
 ![](/img/Soumissions_32.png)
 
-Pour voir le détail des clics (impression numérique), appuyez sur le petit crayon. 
+Pour voir le détail des clics (impression numérique), appuyez sur le petit crayon.
 
 ![](/img/Soumission_impression_clics.gif)
 
@@ -326,11 +322,11 @@ Une seule différence est visible : l'encadré informatif **Composante visée**.
   ![](/img/Soumissions_36.png)
 
 :::note
-  Le système évalue systématiquement la nécessité de **couteau avant et/ou après** impression et créera une opération automatiquement. Dans certains cas, il est possible que vous n'en ayez pas besoin, dans ces cas précis cochez la case. Cela évite un recalcul constant.
+Le système évalue systématiquement la nécessité de **couteau avant et/ou après** impression et créera une opération automatiquement. Dans certains cas, il est possible que vous n'en ayez pas besoin, dans ces cas précis cochez la case. Cela évite un recalcul constant.
 
-  Exemple ➝ la coupe peut ne pas être nécessaire pour le numérique ou si le travail est découpé.
+Exemple ➝ la coupe peut ne pas être nécessaire pour le numérique ou si le travail est découpé.
 
-  L'opération de coupe avant se créera toujours au début de la liste, puisqu'elle doit être faite avant l'impression. 
+L'opération de coupe avant se créera toujours au début de la liste, puisqu'elle doit être faite avant l'impression.
 
 :::
 
@@ -353,7 +349,6 @@ Pour ajouter une nouvelle opération, cliquez sur **l'icône**![](/img/Contacts_
 Vous pouvez choisir d'activer le calcul pour toutes les quantités ou juste pour certaines (exemple : au-delà de 500 dépliants, vous voulez faire plutôt une demande de prix à un fournisseur externe en sous-traitance, vous allez donc désactiver la quantité de 1000 dans l'exemple ci-dessous).
 
 ![](/img/Soumissions_Opinterne_qteactive.gif)
-
 
 ### Interne {#interne}
 
@@ -424,7 +419,7 @@ Pour modifier et/ou supprimer un emballage, cliquez sur sa ligne pour l'ouvrir e
   ![](/img/Soumissions_51.png)
 
   :::tip
-  Pour que votre menu soit plus complet et facile d'utilisation, rendez-vous dans les standards de transport pour ajouter une courte note et mieux identifier votre prix par transporteur. Suivre ce [lien](../parametres/standards.md#transport) pour plus de détails. 
+  Pour que votre menu soit plus complet et facile d'utilisation, rendez-vous dans les standards de transport pour ajouter une courte note et mieux identifier votre prix par transporteur. Suivre ce [lien](../parametres/standards.md#transport) pour plus de détails.
   ![](/img/Standards_transporteur_03.png)
   :::
 
@@ -432,15 +427,14 @@ Pour modifier et/ou supprimer un emballage, cliquez sur sa ligne pour l'ouvrir e
 
 Pour modifier et/ou supprimer un transport, cliquez sur sa ligne pour l'ouvrir et pour le supprimer, appuyer sur Supprimer dans le menu Actions.
 
-
-
 ---
 
 ## Sommaire & Proposition {#sommaire-proposition}
 
-Nous y accédons directement dans un item, en haut à droite. 
+Nous y accédons directement dans un item, en haut à droite.
 
 En cliquant sur le bouton Sommaire et Proposition, il sera possible pour vous de vérifier les données générales de production de votre projet avant de l'envoyer au client. Vous aurez accès aux sections suivantes :
+
 - Sommaire des coûts
 - Proposition du client
 - Quantité et prix
@@ -454,7 +448,6 @@ Il est possible d'activer / désactiver des quantités pour ne plus les voir dan
 
 Chaque sous-section est fermée à l'ouverture du sommaire, mais vous pourrez déployer les sections afin de voir plus de détail sur le coûtant et le vendant selon les étapes de réalisation du projet.
 
-
 ![](/img/Soumissions_55.png)
 
 :::note
@@ -464,37 +457,32 @@ Si aucun procédé n'utilise des Plaques/blanchets ou des Encres, ces lignes ser
 Pour modifier les différentes valeurs qui auront un effet sur votre prix vendant, cliquez sur le bouton Éditer.
 ![](/img/Soumissions_56.png)
 
-
 - Modifications
-
-  - **Majoration, Escompte et Frais d'ouverture** peuvent être définis dans les [standards par défaut](../parametres/standards.md#matieres-parametres), mais peuvent aussi être propre à un [client](../contacts/clients.md#comptabilité). 
+  - **Majoration, Escompte et Frais d'ouverture** peuvent être définis dans les [standards par défaut](../parametres/standards.md#matieres-parametres), mais peuvent aussi être propre à un [client](../contacts/clients.md#comptabilite).
   - **Commission** peut être définit par défaut dans les [standards](../parametres/standards.md#matieres-parametres), mais peut aussi être propre à un [représentant](../parametres/utilisateurs.md#creation).
 
   :::note
   À noter que si ces chiffres sont en noir, c’est qu’ils ont été déterminés selon les **Standards par défaut ou dans la fiche du client**. Si vous remplacez une de ces données manuellement, celle-ci sera affichée en rouge. Si vous effacez une donnée en rouge, la donnée standard sera à nouveau utilisée.
 
-  Aussi : si vous changez l'attribution de la soumission à un autre client **avant l'ouverture du dossier**, l'escompte s'ajustera automatiquement au nouveau client, si défini directement dans sa fiche. 
+  Aussi : si vous changez l'attribution de la soumission à un autre client **avant l'ouverture du dossier**, l'escompte s'ajustera automatiquement au nouveau client, si défini directement dans sa fiche.
   :::
 
-    ![](/img/Soumissions_Sommaire3.png)
-
+  ![](/img/Soumissions_Sommaire3.png)
 
 #### Proposition client
 
 Cliquez sur l'onglet **Proposition Client.**
 
 Révisez et modifiez aux besoin les informations.
-Le texte se génère de façon automatique une première fois. Pour ajuster du texte, cliquez dans la boîte, il deviendra orangé. Vous pouvez alors changer des termes ou ajouter des mots. 
+Le texte se génère de façon automatique une première fois. Pour ajuster du texte, cliquez dans la boîte, il deviendra orangé. Vous pouvez alors changer des termes ou ajouter des mots.
 
 ![](/img/Soumissions_SommaireProp.png)
-
 
 :::warning
 
 Si vous supprimez tout le texte, la case sera alors vidée et le texte original ne sera pas reporté.
 
 :::
- 
 
 ![](/img/Proposition_texteManuel_1.png)
 ![](/img/Proposition_texteManuel_2.png)
@@ -503,19 +491,17 @@ Si vous supprimez tout le texte, la case sera alors vidée et le texte original 
 
 Cliquez sur l'onglet **Quantités et prix** pour visualiser les prix par quantités et les unités utilisées (prix unitaire ou au mille)
 
-Vous pouvez masquer des options de quantité à votre client, simplement en cliquant sur le petit oeil au bout de la ligne. 
+Vous pouvez masquer des options de quantité à votre client, simplement en cliquant sur le petit oeil au bout de la ligne.
 ![](/img/Proposition_masque.png)
-
 
 Cliquez sur le bouton Actions en haut à droite pour **Envoyer** la proposition au client par [courriel](../fonctionnalites-generales/courriels.md) ou retourner à votre soumission par la flèche en haut à gauche.
 ![](/img/Proposition_envoi_retour.png)
 
 :::note
 
-Pour visualiser la proposition dans son ensemble (dans votre navigateur), avant de l'envoyer à votre client, cliquez sur le pdf et faire ouvrir, ou retournez dans votre soumission et utilisez le bouton Actions puis "Visualiser la proposition". 
+Pour visualiser la proposition dans son ensemble (dans votre navigateur), avant de l'envoyer à votre client, cliquez sur le pdf et faire ouvrir, ou retournez dans votre soumission et utilisez le bouton Actions puis "Visualiser la proposition".
 
 :::
-
 
 ---
 
@@ -525,8 +511,8 @@ Pour visualiser la proposition dans son ensemble (dans votre navigateur), avant 
 
 - Dupliquer
 
-Si vous avez plusieurs items sur une soumission, une fenêtre ouvrira pour sélectionner ceux que vous voulez dupliquer. 
-Si un seul item existe, il sera automatiquement dupliqué. 
+Si vous avez plusieurs items sur une soumission, une fenêtre ouvrira pour sélectionner ceux que vous voulez dupliquer.
+Si un seul item existe, il sera automatiquement dupliqué.
 
 ![](/img/Soumissions_dupliquer.png)
 

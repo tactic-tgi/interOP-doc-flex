@@ -39,7 +39,7 @@ Le fournisseur associé à une réquisition dont le statut est **À traiter** pe
 
 ![](/img/Requisition_06.png)
 
-## Réquisitions traitées {#requisitions-traitees}
+## Réquisitions Traitées {#requisitions-traitees}
 
 Par le tri, si vous décidez de visualiser les réquisitions qui ont été traitées, donc passées en commande, vous y verrez le numéro de commande au bout à droite.
 
@@ -51,9 +51,9 @@ Si votre magasinier a réceptionné le matériel, donc qu'il a [coché la case "
 
 ## Réquisitions Annulées {#requisitions-annulees}
 
-Si vous ne voulez pas passer en commande une réquisition, vous pouvez la sélectionner par la case et dans le menu Actions, faire **Annuler Réquisition**
+Si vous ne voulez pas passer en commande une réquisition, vous pouvez la sélectionner par la case et dans le menu Actions, faire **Annuler Réquisitions**
 
-Attention toutefois : une réquisition annulée ne pourra pas être réutilisée. Au besoin, il faudra aller manuellement ajouter l'achat sur une commande existante, en mentionnant le numéro de dossier.
+Pour la réactiver, appuyez sur le même menu et faire **Réactiver Réquisitions**
 
 ![](/img/Requisition_07.png)
 

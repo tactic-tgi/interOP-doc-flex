@@ -448,6 +448,10 @@ Il est possible d'activer / désactiver des quantités pour ne plus les voir dan
 
 Chaque sous-section est fermée à l'ouverture du sommaire, mais vous pourrez déployer les sections afin de voir plus de détail sur le coûtant et le vendant selon les étapes de réalisation du projet.
 
+:::tip
+Pour ouvrir ou fermer plusieurs sections à la fois, tenir le bouton majuscule (shift) avant de cliquer sur la section. 
+:::
+
 ![](/img/Soumissions_55.png)
 
 :::note

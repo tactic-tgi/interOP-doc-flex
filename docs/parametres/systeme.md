@@ -156,6 +156,11 @@ Inscrivez la liste de vos comptes GL (Revenus et Dépenses).
 
 ![](/img/Parametres_Systeme_13.png)
 
+### Factures {#factures}
+
+Cocher la case pour faire apparaitre le numéro de dossier sur vos formulaires de facturation. 
+![](/img/Facturation_NoDossier_02.png)
+
 ### Produits standards à facturer {#produits-facturation}
 
 Section à compléter si vous travaillez avec des produits dans votre système comptable.

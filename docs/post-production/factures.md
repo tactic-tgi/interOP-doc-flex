@@ -152,6 +152,11 @@ Le message au bas de la facture provient de vos [paramètres Système](../parame
 
 - Visualiser
 
+:::note
+Si vous désirez faire afficher le numéro de dossier sur votre formulaire de facturation, vous pouvez aller activer la fonction dans les [paramètres Système](../parametres/systeme.md#factures).
+:::
+![](/img/Facturation_NoDossier_01.png)
+
 - Envoyer par [courriel](../fonctionnalites-generales/courriels.md)
 
 - Imprimer

@@ -91,6 +91,23 @@ Cliquez sur le bouton `Étiquettes ➝ 4 x 6` pour visualiser l'étiquette et l'
 
 ![](/img/Expedition_09.png)
 
+### Valider une expédition {#valider}
+
+Dans le bouton Actions, vous trouverez l'action **"Valider l'expédition"**. 
+Ceci permettra de figer le bon de livraison et de pouvoir l'imprimer et/ou l'envoyer au client une fois validé.
+Si des informations sont manquantes, le système vous affichera un message d'erreur avec le détail.
+
+![](/img/Expedition_15.png)
+
+À noter qu'une fois validé, le bon de livraison sera non modifiable, autant au niveau des champs globaux que sur les lignes de l'expédition. Si quelqu'un tentait de modifier une donnée, un message d'erreur apparaitra. 
+
+![](/img/Expedition_Invalider_02.png)
+
+Pour pouvoir modifier une information, un utilisateur qui a les accès requis dans sa fiche, pourra cliquer sur le bouton **"Invalider l'expédition"**, dans le menu Actions. À ce moment, le bon de livraison redeviendra modifiable. 
+
+![](/img/Expedition_Invalider_01.png)
+
+
 ### Divers {#divers}
 
 ![](/img/Expedition_10.png)
@@ -125,13 +142,6 @@ Provient de la [fiche contact](../contacts/clients.md#creation) de votre client,
 ### Actions diverses {#actions}
 
 #### En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation)
-
-- Valider l'expédition
-
-Cette action vous permettra de pouvoir l'imprimer et/ou l'envoyer au client une fois validé.
-Si des informations sont manquantes, le système vous affichera un message d'erreur avec le détail.
-
-![](/img/Expedition_15.png)
 
 - Visualiser le bon
 

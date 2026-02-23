@@ -18,7 +18,7 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris
 
 ![](/img/Soumissions_01.png)
 
-### Statut {#statut}
+## Statut {#statut}
 
 En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation), le statut d'une soumission est indiqué dans le coin supérieur droit.
 
@@ -40,7 +40,7 @@ En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultat
 
 N'oubliez pas que tous les temps, coûts etc. proviennent de vos [Standards](../parametres/standards.md).
 
-### Créer une soumission {#creation}
+## Créer une soumission {#creation}
 
 Cliquez sur **Créer une soumission** et choisissez un type.
 
@@ -60,21 +60,21 @@ Vous pourrez cliquer sur Corriger pour voir les champs en surbrillance (contour 
 Comme dans la plupart des modules, vous avez accès à définir la numérotation de vos soumissions ainsi que de vos modèles (Numéro alternatif de série).
 Veuillez vous rendre dans les [Paramètres Système](../parametres/systeme.md#numerotations) pour les modifier.
 
-## Informations de base {#infos-base}
+### Informations de base {#infos-base}
 
-La portion du **haut** contient les informations de base de la soumission.
-
-### Vendu à
+La portion du **haut** contient les informations de base de la soumission, comme le **"Vendu à"**, le **"Facturé À"** ainsi que des éléments divers comme l'estimateur, le représentant, la langue et le choix du délai de livraison (optionnel).
 
 ![](/img/Soumissions_04.png)
 
-### Facturé à
+:::note
+Pour en savoir plus sur les **délais de livraison** et comment les paramétrer, vous pouvez vous référer à la section [Standards - Emballage & Transport](../parametres/standards.md#delais). 
+Ceux-ci apparaitront sur la proposition au client. 
 
-![](/img/Soumissions_05.png)
+![](/img/Parametres_Preferences_Delais03.png)
+:::
+
 
 ### Divers
-
-![](/img/Soumissions_06.png)
 
 Si la soumission sur laquelle ont se trouve est le résultat d'une duplication, vous pouvez naviguer vers la soumission originale en cliquant sur `Duplicata` et ensuite, sur la ligne de la soumission.
 
@@ -167,7 +167,7 @@ Sélectionnez un item.
 
 ![](/img/Soumissions_15.png)
 
-Inscrivez vos quantités.
+Inscrivez vos quantités : vous aurez une possibilité **maximum de 8 quantités** par item. Au-delà de ce chiffre, vous devrez faire un 2e item (vous pourrez dupliquer le premier pour gagner du temps⏱️).
 
 ![](/img/Soumissions_16.png)
 
@@ -285,9 +285,14 @@ Section disponible seulement lorsque le procédé d'impression utilise des plaqu
 
 Cette section contient tous les détails relatifs au support à imprimer et l'équipement d'impression.
 
+
 #### Support à imprimer
 
 ![](/img/Soumissions_31.png)
+
+Dans la petite icône près du format d'impression, vous aurez les informations relatives au minimum et maximum de la presse sélectionnée. Pour modifier ou entrer ces chiffres, veuillez vous rendre dans les [Standards - Équipement](../parametres/standards.md#equipements). 
+
+![](/img/Soumissions_MinMax_Presse01.png)
 
 #### Impression
 
@@ -305,7 +310,7 @@ Ici les opérations et l'emballage sont propres à une composante.
 
 #### Opérations
 
-La procédure pour ajouter une nouvelle opération est la même que pour les [opérations globales](../estimation/soumissions.md#operations-globales).
+La procédure pour ajouter une nouvelle opération est la même que pour les [opérations globales](../estimation/soumissions.md#operations-globales). Donc consulter la section juste en dessous pour plus de détails. 
 
 Une seule différence est visible : l'encadré informatif **Composante visée**.
 
@@ -364,7 +369,19 @@ Remplir les informations dans l'écran.
 
 ![](/img/Soumissions_41.png)
 
-- Externe
+Dans la petite icône près du format de la feuille de presse, vous aurez les informations relatives au **minimum et maximum** selon la finition sélectionnée. Pour modifier ou entrer ces chiffres, veuillez vous rendre dans les [Standards - Familles](../parametres/standards.md#operations), dans l'onglet Détails. 
+
+![](/img/Soumissions_MinMax_Operations01.png)
+
+Si la finition sélectionnée le demande, un champ apparaitra pour valider le **défilement ou le périmètre**, qui sera essentiel dans le calcul de l'opération interne. Pour modifier ou entrer ces chiffres, veuillez vous rendre dans les [Standards - Familles](../parametres/standards.md#operations), dans l'onglet Détails. 
+
+![](/img/Soumissions_Perimetre_Defilement.png)
+
+
+
+
+
+### Externe {#externe}
 
   Sélectionnez une famille d'opération. Ici on choisit **Reliure Externe**.
   ![](/img/Soumissions_42.png)
@@ -419,7 +436,8 @@ Pour modifier et/ou supprimer un emballage, cliquez sur sa ligne pour l'ouvrir e
   ![](/img/Soumissions_51.png)
 
   :::tip
-  Pour que votre menu soit plus complet et facile d'utilisation, rendez-vous dans les standards de transport pour ajouter une courte note et mieux identifier votre prix par transporteur. Suivre ce [lien](../parametres/standards.md#transport) pour plus de détails.
+  Pour que votre menu soit plus complet et facile d'utilisation, rendez-vous dans les standards de transport pour ajouter une courte note et mieux identifier votre prix par transporteur. Vous pouvez vous référer à la section [Standards - Emballage & Transport](../parametres/standards.md#transport) pour plus de détails.
+
   ![](/img/Standards_transporteur_03.png)
   :::
 

@@ -119,7 +119,28 @@ Cliquez sur une ligne pour consulter la commande.
 
 ---
 
-## Actions diverses {#acions}
+## Validation prix {#validation}
+- Menu Actions : Valider prix
+
+  Vous permet, en tant que gestionnaire, de valider les prix et d'inscrire la date du jour comme validation. 
+
+  L'information se retrouve dans le coin inférieur droit de la fiche du produit ou dans la colonne date validation en mode liste.
+
+     ![](/img/Produits_13.png)
+     ![](/img/Produits_09.png)
+
+  :::info
+  Si certains champs obligatoires pour la validation d'un prix ne sont pas remplis (selon le type de produit), vous obtiendrez un message d'erreur et vous devrez les remplir correctement pour poursuivre. 
+
+     ![](/img/Produits_12.png)
+  :::
+
+
+
+
+---
+
+## Actions diverses {#actions}
 
 #### En mode consultation
 
@@ -138,15 +159,11 @@ Cliquez sur une ligne pour consulter la commande.
   Si le produit a été utilisé dans le système, la fiche ne pourra être supprimée, rendre plutôt le produit **Inactif**.
 
 - Dupliquer
-- Valider prix
 
-  Cliquez pour inscrire la date du jour comme validation. L'information se retrouve dans le coin inférieur droit de la fiche du produit ou dans la colonne date validation en mode liste.
-
-      ![](/img/Produits_09.png)
 
 ---
 
-## Autres {#autres}
+## Divers {#autres}
 
 ### Majoration {#matieres-parametres}
 

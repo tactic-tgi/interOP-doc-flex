@@ -131,6 +131,12 @@ Voir explications dans module [Réquisitions](../achats/requisitions.md#parametr
 
 ![](/img/Parametres_Standards_15.png)
 
+![](/img/Parametres_Standards_19.png)
+
+![](/img/Parametres_Standards_20.png)
+
+![](/img/Parametres_Standards_21.png)
+
 ### Tâches {#taches}
 
 ![](/img/Parametres_Standards_16.png)
@@ -142,6 +148,17 @@ Voir explications dans module [Réquisitions](../achats/requisitions.md#parametr
 ### Emballage {#emballage}
 
 ![](/img/Parametres_Standards_17.png)
+
+### Délais de livraison {#delais}
+
+Entrez ici vos délais de livraison, qui pourront être sélectionnés à la soumission, puis présentés sur la proposition au client. 
+Vous pourrez également sélectionner le délai à utiliser par défaut, ainsi que choisir ceux qui seront présents dans le menu déroulant en les cochant comme étant actifs. 
+
+![](/img/Parametres_Preferences_Delais01.png)
+
+![](/img/Parametres_Preferences_Delais02.png)
+
+![](/img/Parametres_Preferences_Delais03.png)
 
 ### Transport {#transport}
 

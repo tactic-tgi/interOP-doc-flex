@@ -24,7 +24,11 @@ Ce statut changera pour **Envoyée** lorsqu'elle sera envoyé par courriel à un
 
 ## Demande de sous-traitance {#sous-traitance}
 
-### Créer {#creation}
+### Création depuis la soumission {#creationsoum}
+
+Pour la création depuis une soumission, veuillez vous référez à la section se trouvant dans [Soumissions - Opérations Externes](../estimation/soumissions.md#externe)
+
+### Création manuelle {#creation}
 
 1. Cliquez sur **Créer une demande**
 2. Remplir la fiche
@@ -83,6 +87,16 @@ Enveloppe **en couleu**r : courriel envoyé
 
 ---
 
+## Transformer la demande en bon de commande {#commande}
+
+Une fois votre demande faite et vos prix inscrits dans la soumission, vous pourrez transformer votre demande en commande complète, une fois le dossier créé. Vous référez à la section [Dossier - Créer une commande.](../production/dossiers.md#soustraitance) 
+
+Si une commande existe déjà, vous pourrez vous y rendre facilement en cliquant sur l'icône de lien en haut à droite, puis sur la commande.
+
+![](/img/DemandePrix_lienversCommande.png)
+
+---
+
 ## Actions diverses {#actions}
 
 #### En mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation)
@@ -103,6 +117,7 @@ Si une soumission est liée à votre demande, vous pouvez la consulter en cliqua
 ![](/img/Soustraitances_12.png)
 
 - Une demande de sous-traitance peut être créée à partir d'une [opération externe](../estimation/soumissions.md#operations-globales) d'une soumission.
+
 
 ---
 

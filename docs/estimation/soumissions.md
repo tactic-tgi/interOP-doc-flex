@@ -384,6 +384,7 @@ Si la finition sélectionnée le demande, un champ apparaitra pour valider le **
 ### Externe {#externe}
 
   Sélectionnez une famille d'opération. Ici on choisit **Reliure Externe**.
+  
   ![](/img/Soumissions_42.png)
 
   Sélectionnez une opération. Ici on choisit **Broché à cheval**.
@@ -397,7 +398,7 @@ Si la finition sélectionnée le demande, un champ apparaitra pour valider le **
 
   ![](/img/Soumissions_45.png)
 
-  **Créer une demande** : vous référez à cette [section](./sous-traitances.md)
+  **Compléter une demande** : vous référez à cette [section](./sous-traitances.md)
 
   Pour lier l'opération à une demande déjà existante, cliquez sur **Lier une demande** et sélectionnez la dans la liste.
 

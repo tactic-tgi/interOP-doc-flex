@@ -25,7 +25,7 @@ Vous pouvez aussi cliquer sur une opération et la terminer par la case Complet 
 
 ![](/img/Liste_suivi_03.png)
 
-### Opérations {#operations}
+## Opérations {#operations}
 
 Cliquez sur la ligne d'une des opération pour accéder à son détail, dans la portion de droite.
 
@@ -41,6 +41,20 @@ Cliquez sur **Enregistrer**.
 Exemple : Opération Traitement des fichiers
 
 ![](/img/Liste_suivi_04.png)
+
+## Tolérance {#tolerance}
+
+L'information inscrite dans la colonne Tolérance provient du dossier de production lié. Parfaite pour identifier vos travaux nécessitant une attention particulière pour la livraison (ex : sans faute, rush, date flexible, etc). Pour modifier ces choix, rendez-vous dans les [Paramètres Standards](../parametres/standards.md#tolerance), section Emballage & Transport. 
+
+![](/img/ToleranceLiv_04.png)
+
+
+## Lien vers dossier lié {#lien}
+
+Pour se rendre dans le dossier lié par la liste de suivi, ouvrir la fenêtre d'opérations, puis cliquez sur le bouton `Actions` et puis sur `Aller à ce dossier`. 
+
+![](/img/Liste_suivi_aller01.png)
+
 
 ---
 

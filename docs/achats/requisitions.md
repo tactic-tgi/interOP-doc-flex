@@ -29,7 +29,7 @@ Un message de confirmation apparaitra pour vous mentionner que la commande a ét
 
 ![](/img/Requisition_03.gif)
 
-Cliquez sur le bouton **Rafraîchir** pour actualiser la liste des réquisitions affichées, pour vous assurez que toutes les réquisitions récentes s'y trouvent.
+Cliquez sur le bouton `Rafraîchir` pour actualiser la liste des réquisitions affichées, pour vous assurez que toutes les réquisitions récentes s'y trouvent.
 
 ![](/img/Requisition_04.png)
 

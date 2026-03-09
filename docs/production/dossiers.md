@@ -42,7 +42,7 @@ Bien que vous ayez le contrôle absolu sur les filtres, nous vous conseillons de
 
 Le plus commun est de créer un dossier à partir d'une soumission existante. Veuillez vous rendre dans le module soumission, puis dans l'item qui sera envoyé en dossier.
 
-Faire ensuite le bouton Actions et choisir Créer dossier.
+Faire ensuite le bouton `Actions` et choisir Créer dossier.
 
 ![](/img/Dossiers_05.png)
 
@@ -135,6 +135,14 @@ Si le client est manquant, veuillez aller le créer dans le module [Clients](../
 
 ![](/img/Dossiers_10.png)
 
+:::info
+À noter que si vous sélectionnez une tolérance de livraison, elle apparaitra en haut à droite de votre dossier imprimé ainsi qu'en rouge dans la liste de suivi. Pour modifier ces choix, rendez-vous dans les [Paramètres Standards](../parametres/standards.md#tolerance), section Emballage & Transport. 
+
+![](/img/ToleranceLiv_03.png)
+:::
+
+
+
 ### Approbation par courriel
 
 Sélection des contacts d'approbation d'épreuves possible lorsque la méthode d'approbation est par courriel. Cliquez dans le champs Approbation - Par pour en faire la sélection.
@@ -216,6 +224,20 @@ Cliquez sur **l'icône**![](/img/Contacts_2_iconeajout.png)
 Pour consulter, modifier, supprimer une note ou insérer et consulter des pièces jointes, vous référez à cette [section](../fonctionnalites-generales/notes.md#notes-actions).
 
 
+## Frais extra {#frais-extra}
+
+Dans cet onglet, vous pourrez ajouter des frais qui devront être facturés en extra, pendant la production, pour vous assurer qu'ils suivront à la facturation. Au moment de faire votre facture, ces frais seront automatiquement ajoutés. 
+
+:::info
+    À noter que les frais seront ajoutés à votre première facture. Si vous voulez les facturer partiellement, vous pouvez réduire la quantité ou supprimer les lignes complètement. Les frais seront présents lorsque vous referez une 2e facture, depuis le dossier de production. 
+    :::
+
+![](/img/Dossiers_fraisextra01.png)
+
+![](/img/Dossiers_fraisextra02.png)
+
+Pour définir vos frais extra qui apparaitront dans le menu, veuillez vous rendre dans les [Paramètres Système](../parametres/systeme.md#factures), section Factures. 
+
 ## Notes de production {#notes-production}
 
 Cet onglet rassemble toutes les notes d'un dossier à un seul endroit (infographie, traitement de fichiers, supports, impression, opérations et emballage) et celles-ci sont montrées dans 3 onglets distincts.
@@ -255,6 +277,18 @@ Pour toutes les informations relatives au fonctionnement des divers blocs prése
 - [Opérations globales](../estimation/soumissions.md#operations-globales)
 - [Emballages globaux](../estimation/soumissions.md#emballages-globaux)
 - [Transports & Livraisons](../estimation/soumissions.md#transports)
+
+
+
+### Opérations Externes - Créer une commande {#soustraitance}
+Depuis votre dossier, vous pourrez créer votre commande liée à votre demande de sous-traitance en passant par le bouton `Actions`, puis sur `Créer une commande`.
+
+![](/img/DemandePrix_Commande_10.png)
+
+![](/img/DemandePrix_Commande_11.png)
+
+Ceci reportera les informations de la demande de prix et le coût du fournisseur directement dans un bon de commande en bloc de texte. Veuillez vous rendre dans cette [section](../achats/commandes.md#blocs) pour plus d'informations. 
+
 
 ### Réquisitions et opérations {#requisitions-operations}
 

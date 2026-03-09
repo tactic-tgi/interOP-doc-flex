@@ -45,6 +45,33 @@ Vous permet de consulter la fiche détaillée d'un des enregistrements.
 
 Pour modifier des informations, vous devrez généralement passer par le menu Actions, puis modifier, pour ouvrir une fenêtre d'édition.
 
+## Liens vers enregistrements liés {#liens}
+
+Dans la plupart des modules, une icône apparaitra dans le haut à droite pour vous amenez rapidement vers l'enregistrement lié selon où vous vous trouvez.
+
+![](/img/Navigation_icone.png)
+
+
+
+Par exemple : 
+
+- À la soumission : lien vers la soumission originale avant la duplication et vers les soumissions créées à partir de celle-ci.
+
+![](/img/Navigation_lien01.png)
+
+- Dans une demande de sous-traitance : lien vers la soumission ou le dossier lié à cette demande. 
+
+![](/img/Navigation_lien02.png)
+
+- Dans une commande : lien vers la demande de sous-traitance
+
+![](/img/Navigation_lien03.png)
+
+:::note
+Certains liens se retrouveront plutôt dans des portails, quand il y a une possibilité de plusieurs enregistrements. Exemple : tous les enregistrements liés au dossier (bon de livraison, facture, etc). En passant votre souris sur la ligne, le curseur deviendra une main et vous saurez que vous pourrez cliquer sur l'enregistrement pour vous rendre dans celui-ci. 
+:::
+
+
 ## Retour en arrière {#retour}
 
 Lorsque vous êtes en mode consultation, une icône en flèche vous permet de revenir à la liste.

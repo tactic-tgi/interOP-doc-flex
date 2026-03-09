@@ -160,6 +160,19 @@ Vous pourrez également sélectionner le délai à utiliser par défaut, ainsi q
 
 ![](/img/Parametres_Preferences_Delais03.png)
 
+### Tolérance de livraison {#tolerance}
+
+Dans ces standards, vous pourrez contrôler les données affichées dans le menu de tolérance de livraison, affiché au dossier et dans la liste de suivi.
+
+Parfait pour identifier facilement les dossiers à livrer à une date fixe ou un "rush". 
+
+Vous pourrez sélectionner celui à utiliser par défaut, ou bien laisser la case vide pour les choisir manuellement au dossier, selon votre besoin.
+
+![](/img/ToleranceLiv_01.png)
+
+![](/img/ToleranceLiv_02.png)
+
+
 ### Transport {#transport}
 
 Ajoutez vos transporteurs ici. 

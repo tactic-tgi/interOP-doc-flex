@@ -158,8 +158,13 @@ Inscrivez la liste de vos comptes GL (Revenus et Dépenses).
 
 ### Factures {#factures}
 
-Cocher la case pour faire apparaitre le numéro de dossier sur vos formulaires de facturation. 
+Cochez la case pour faire apparaitre le numéro de dossier sur vos formulaires de facturation. 
+
+Également, à cet endroit, vous pourrez définir vos frais extra que vous voudrez utiliser au dossier, avant la facturation finale.
+
 ![](/img/Facturation_NoDossier_02.png)
+
+
 
 ### Produits standards à facturer {#produits-facturation}
 

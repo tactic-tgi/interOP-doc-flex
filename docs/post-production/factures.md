@@ -46,7 +46,13 @@ Par défaut, le [filtre](../fonctionnalites-generales/navigation.md#filtres-tris
 
     La **Qté facturée est** la quantité totale du dossier, à laquelle on soustrait les quantités qui pourraient avoir déjà été facturées pour ce dossier. Assurez-vous de la remplir si elle ne l'est pas déjà, en cliquant sur la ligne pour faire apparaitre la boîte d'édition.
 
-    Également, selon votre logiciel comptable, déterminez un compte GL par ligne, s'il n'est pas déjà rempli ( préalablement défini dans le dossier.
+    Également, selon votre logiciel comptable, déterminez un compte GL par ligne, s'il n'est pas déjà rempli (préalablement défini dans le dossier).
+
+    :::info
+    Si votre dossier contenait des **frais extra**, ils seront ajoutés automatiquement à la première facture qui sera produite. Si vous avez livré partiellement que vous faites une 2e facture, les frais qui n'ont pas été facturés au complet vont apparaitre. Vous pouvez supprimer les lignes au besoin ou ajuster les quantités.
+    
+     Voir section [Dossiers - Frais extra](../production/dossiers.md#frais-extra) pour plus de détails. 
+    :::
 
     ![](/img/Facturation_05.png)
 

@@ -497,15 +497,12 @@ Pour modifier les différentes valeurs qui auront un effet sur votre prix vendan
 Cliquez sur l'onglet **Proposition Client.**
 
 Révisez et modifiez aux besoin les informations.
-Le texte se génère de façon automatique une première fois. Pour ajuster du texte, cliquez dans la boîte, il deviendra orangé. Vous pouvez alors changer des termes ou ajouter des mots.
+Le texte se génère de façon automatique une première fois. Pour **ajuster** du texte, cliquez dans la boîte, il deviendra orangé. Vous pouvez alors changer des termes ou ajouter des mots.
+
+Pour revenir au **texte original**, appuyez sur la petite icône de rafraîchissement. Et pour le **supprimer** complètement et laisser la case vide, utilisez le petit X. 
 
 ![](/img/Soumissions_SommaireProp.png)
 
-:::warning
-
-Si vous supprimez tout le texte, la case sera alors vidée et le texte original ne sera pas reporté.
-
-:::
 
 ![](/img/Proposition_texteManuel_1.png)
 ![](/img/Proposition_texteManuel_2.png)

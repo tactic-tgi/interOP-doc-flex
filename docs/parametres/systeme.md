@@ -162,7 +162,13 @@ Cochez la case pour faire apparaitre le numéro de dossier sur vos formulaires d
 
 Également, à cet endroit, vous pourrez définir vos frais extra que vous voudrez utiliser au dossier, avant la facturation finale.
 
+À noter qu'il est obligatoire de saisir un **compte GL ou Produits** pour que le frais soit correctement utilisable au dossier de production. 
+S'il n'est pas rempli, l'utilisateur aura un message d'erreur au moment de l'ajouter au dossier.
+
+Par contre, le prix unitaire est facultatif. 
+
 ![](/img/Facturation_NoDossier_02.png)
+![](/img/Facturation_NoDossier_02b.png)
 
 
 

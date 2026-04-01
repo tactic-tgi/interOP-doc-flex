@@ -237,6 +237,11 @@ Dans cet onglet, vous pourrez ajouter des frais qui devront être facturés en e
 ![](/img/Dossiers_fraisextra02.png)
 
 Pour définir vos frais extra qui apparaitront dans le menu, veuillez vous rendre dans les [Paramètres Système](../parametres/systeme.md#factures), section Factures. 
+:::warning
+    Si vous n'aviez pas rempli de compte GL ou de Produits préalablement, vous obtiendrez un message d'erreur. Vous devrez vous rendre dans les [Paramètres Système](../parametres/systeme.md#factures) pour corriger la situation et pouvoir ajouter le frais au dossier.
+    ![](/img/Facturation_NoDossier_02b.png)
+    :::
+
 
 ## Notes de production {#notes-production}
 

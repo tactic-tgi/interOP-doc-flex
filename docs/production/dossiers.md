@@ -22,15 +22,21 @@ Bien que vous ayez le contrôle absolu sur les filtres, nous vous conseillons de
 
 ![](/img/Dossiers_02.png)
 
-**Statuts**
+## Statuts des dossiers {#status}
 
-- Attente lancement
+- **Attente lancement** : dossier ouvert mais pas lancé en production
 
-  Le dossier n'a pas encore été lancé en production.
+- **En production** : toutes les étapes de production ne sont pas terminées
 
-- Annulé
+- **Production terminée** : toutes les étapes de production sont terminées.
 
-  un dossier **annulé** apparaitra grisé dans la liste et avec un fond rouge en mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation).
+- **Expédié** : la production est terminée et un bon d'expédition a été fait mais aucune une facture n'a été faite.
+
+- **Facturé** : la production est terminée et une facture a été faite mais aucun bon d'expédition n'a été fait.
+
+- **Complété** : la production est terminée, un bon de livraison ainsi qu'une facture a été faite
+
+- **Annulé** : un dossier **annulé** apparaitra grisé dans la liste et avec un fond rouge en mode [consultation](../fonctionnalites-generales/navigation.md#mode-consultation).
 
 ![](/img/Dossiers_03.png)
 

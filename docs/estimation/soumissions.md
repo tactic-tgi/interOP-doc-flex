@@ -394,7 +394,7 @@ Si la finition sélectionnée le demande, un champ apparaitra pour valider le **
   Remplir les informations dans l'écran, en choisissant le fournisseur.
   ![](/img/Soumissions_44.png)
 
-  Pour créer ou ajouter une demande de sous-traitance , cliquez sur le bouton Actions
+  Pour créer ou ajouter une demande de sous-traitance , cliquez sur le bouton `Actions`
 
   ![](/img/Soumissions_45.png)
 
@@ -452,7 +452,7 @@ Pour modifier et/ou supprimer un transport, cliquez sur sa ligne pour l'ouvrir e
 
 Nous y accédons directement dans un item, en haut à droite.
 
-En cliquant sur le bouton Sommaire et Proposition, il sera possible pour vous de vérifier les données générales de production de votre projet avant de l'envoyer au client. Vous aurez accès aux sections suivantes :
+En cliquant sur le bouton `Sommaire et Proposition`, il sera possible pour vous de vérifier les données générales de production de votre projet avant de l'envoyer au client. Vous aurez accès aux sections suivantes :
 
 - Sommaire des coûts
 - Proposition du client
@@ -477,7 +477,7 @@ Pour ouvrir ou fermer plusieurs sections à la fois, tenir le bouton majuscule (
 Si aucun procédé n'utilise des Plaques/blanchets ou des Encres, ces lignes seront masquées.
 :::
 
-Pour modifier les différentes valeurs qui auront un effet sur votre prix vendant, cliquez sur le bouton Éditer.
+Pour modifier les différentes valeurs qui auront un effet sur votre prix vendant, cliquez sur le bouton `Éditer`.
 ![](/img/Soumissions_56.png)
 
 - Modifications
@@ -491,6 +491,13 @@ Pour modifier les différentes valeurs qui auront un effet sur votre prix vendan
   :::
 
   ![](/img/Soumissions_Sommaire3.png)
+
+
+Pour imprimer le sommaire, cliquez sur le bouton `Actions` en haut à droite.
+
+![](/img/Soumissions_impressionSommaire.png)
+![](/img/Soumissions_impressionSommaire_02.png)
+
 
 #### Proposition client
 
@@ -519,7 +526,7 @@ Cliquez sur le bouton Actions en haut à droite pour **Envoyer** la proposition 
 
 :::note
 
-Pour visualiser la proposition dans son ensemble (dans votre navigateur), avant de l'envoyer à votre client, cliquez sur le pdf et faire ouvrir, ou retournez dans votre soumission et utilisez le bouton Actions puis "Visualiser la proposition".
+Pour visualiser la proposition dans son ensemble (dans votre navigateur), avant de l'envoyer à votre client, cliquez sur le pdf et faire ouvrir, ou retournez dans votre soumission et utilisez le bouton `Actions` puis "Visualiser la proposition".
 
 :::
 

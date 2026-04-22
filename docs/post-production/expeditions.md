@@ -99,8 +99,9 @@ Si des informations sont manquantes, le système vous affichera un message d'err
 
 ![](/img/Expedition_15.png)
 
-À noter qu'une fois validé, le bon de livraison sera non modifiable, autant au niveau des champs globaux que sur les lignes de l'expédition. Si quelqu'un tentait de modifier une donnée, un message d'erreur apparaitra. 
+À noter qu'une fois validé, la plupart des informations du bon seront verrouillées, sauf la date et le numéro de suivi. Si quelqu'un tentait de modifier une donnée, un message d'erreur apparaitra. 
 
+![](/img/Expedition_Invalider_03.png)
 ![](/img/Expedition_Invalider_02.png)
 
 Pour pouvoir modifier une information, un utilisateur qui a les accès requis dans sa fiche, pourra cliquer sur le bouton **"Invalider l'expédition"**, dans le menu Actions. À ce moment, le bon de livraison redeviendra modifiable. 

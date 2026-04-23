@@ -67,12 +67,11 @@ La portion du **haut** contient les informations de base de la soumission, comme
 ![](/img/Soumissions_04.png)
 
 :::note
-Pour en savoir plus sur les **délais de livraison** et comment les paramétrer, vous pouvez vous référer à la section [Standards - Emballage & Transport](../parametres/standards.md#delais). 
-Ceux-ci apparaitront sur la proposition au client. 
+Pour en savoir plus sur les **délais de livraison** et comment les paramétrer, vous pouvez vous référer à la section [Standards - Emballage & Transport](../parametres/standards.md#delais).
+Ceux-ci apparaitront sur la proposition au client.
 
 ![](/img/Parametres_Preferences_Delais03.png)
 :::
-
 
 ### Divers
 
@@ -285,12 +284,11 @@ Section disponible seulement lorsque le procédé d'impression utilise des plaqu
 
 Cette section contient tous les détails relatifs au support à imprimer et l'équipement d'impression.
 
-
 #### Support à imprimer
 
 ![](/img/Soumissions_31.png)
 
-Dans la petite icône près du format d'impression, vous aurez les informations relatives au minimum et maximum de la presse sélectionnée. Pour modifier ou entrer ces chiffres, veuillez vous rendre dans les [Standards - Équipement](../parametres/standards.md#equipements). 
+Dans la petite icône près du format d'impression, vous aurez les informations relatives au minimum et maximum de la presse sélectionnée. Pour modifier ou entrer ces chiffres, veuillez vous rendre dans les [Standards - Équipement](../parametres/standards.md#equipements).
 
 ![](/img/Soumissions_MinMax_Presse01.png)
 
@@ -310,7 +308,7 @@ Ici les opérations et l'emballage sont propres à une composante.
 
 #### Opérations
 
-La procédure pour ajouter une nouvelle opération est la même que pour les [opérations globales](../estimation/soumissions.md#operations-globales). Donc consulter la section juste en dessous pour plus de détails. 
+La procédure pour ajouter une nouvelle opération est la même que pour les [opérations globales](../estimation/soumissions.md#operations-globales). Donc consulter la section juste en dessous pour plus de détails.
 
 Une seule différence est visible : l'encadré informatif **Composante visée**.
 
@@ -369,38 +367,34 @@ Remplir les informations dans l'écran.
 
 ![](/img/Soumissions_41.png)
 
-Dans la petite icône près du format de la feuille de presse, vous aurez les informations relatives au **minimum et maximum** selon la finition sélectionnée. Pour modifier ou entrer ces chiffres, veuillez vous rendre dans les [Standards - Familles](../parametres/standards.md#operations), dans l'onglet Détails. 
+Dans la petite icône près du format de la feuille de presse, vous aurez les informations relatives au **minimum et maximum** selon la finition sélectionnée. Pour modifier ou entrer ces chiffres, veuillez vous rendre dans les [Standards - Familles](../parametres/standards.md#operations), dans l'onglet Détails.
 
 ![](/img/Soumissions_MinMax_Operations01.png)
 
-Si la finition sélectionnée le demande, un champ apparaitra pour valider le **défilement ou le périmètre**, qui sera essentiel dans le calcul de l'opération interne. Pour modifier ou entrer ces chiffres, veuillez vous rendre dans les [Standards - Familles](../parametres/standards.md#operations), dans l'onglet Détails. 
+Si la finition sélectionnée le demande, un champ apparaitra pour valider le **défilement ou le périmètre**, qui sera essentiel dans le calcul de l'opération interne. Pour modifier ou entrer ces chiffres, veuillez vous rendre dans les [Standards - Familles](../parametres/standards.md#operations), dans l'onglet Détails.
 
 ![](/img/Soumissions_Perimetre_Defilement.png)
 
-
-
-
-
 ### Externe {#externe}
 
-  Sélectionnez une famille d'opération. Ici on choisit **Reliure Externe**.
-  
-  ![](/img/Soumissions_42.png)
+Sélectionnez une famille d'opération. Ici on choisit **Reliure Externe**.
 
-  Sélectionnez une opération. Ici on choisit **Broché à cheval**.
+![](/img/Soumissions_42.png)
 
-  ![](/img/Soumissions_43.png)
+Sélectionnez une opération. Ici on choisit **Broché à cheval**.
 
-  Remplir les informations dans l'écran, en choisissant le fournisseur.
-  ![](/img/Soumissions_44.png)
+![](/img/Soumissions_43.png)
 
-  Pour créer ou ajouter une demande de sous-traitance , cliquez sur le bouton `Actions`
+Remplir les informations dans l'écran, en choisissant le fournisseur.
+![](/img/Soumissions_44.png)
 
-  ![](/img/Soumissions_45.png)
+Pour créer ou ajouter une demande de sous-traitance , cliquez sur le bouton `Actions`
 
-  **Compléter une demande** : vous référez à cette [section](./sous-traitances.md)
+![](/img/Soumissions_45.png)
 
-  Pour lier l'opération à une demande déjà existante, cliquez sur **Lier une demande** et sélectionnez la dans la liste.
+**Compléter une demande** : vous référez à cette [section](./sous-traitances.md)
+
+Pour lier l'opération à une demande déjà existante, cliquez sur **Lier une demande** et sélectionnez la dans la liste.
 
 Pour modifier et/ou supprimer une opération globale, cliquez sur sa ligne pour l'ouvrir et pour le supprimer, appuyer sur Supprimer dans le menu Actions.
 
@@ -468,7 +462,8 @@ Il est possible d'activer / désactiver des quantités pour ne plus les voir dan
 Chaque sous-section est fermée à l'ouverture du sommaire, mais vous pourrez déployer les sections afin de voir plus de détail sur le coûtant et le vendant selon les étapes de réalisation du projet.
 
 :::tip
-Pour ouvrir ou fermer plusieurs sections à la fois, tenir le bouton majuscule (shift) avant de cliquer sur la section. 
+Pour ouvrir ou fermer plusieurs sections à la fois, tenir le bouton majuscule (shift) avant de cliquer sur la section.
+Ceci fonctionne aussi pour masquer ou afficher toutes les quantités.
 :::
 
 ![](/img/Soumissions_55.png)
@@ -485,19 +480,17 @@ Pour modifier les différentes valeurs qui auront un effet sur votre prix vendan
   - **Commission** peut être définit par défaut dans les [standards](../parametres/standards.md#matieres-parametres), mais peut aussi être propre à un [représentant](../parametres/utilisateurs.md#creation).
 
   :::note
-  À noter que si ces chiffres sont en noir, c’est qu’ils ont été déterminés selon les **Standards par défaut ou dans la fiche du client**. Si vous remplacez une de ces données manuellement, celle-ci sera affichée en rouge. Si vous effacez une donnée en rouge, la donnée standard sera à nouveau utilisée.
+  À noter que si ces chiffres sont en noir, c’est qu’ils ont été déterminés selon les **Standards par défaut ou dans la fiche du client**. Si vous remplacez une de ces données manuellement, celle-ci sera affichée en orange. Si vous effacez une donnée en orange, la donnée standard sera à nouveau utilisée.
 
   Aussi : si vous changez l'attribution de la soumission à un autre client **avant l'ouverture du dossier**, l'escompte s'ajustera automatiquement au nouveau client, si défini directement dans sa fiche.
   :::
 
   ![](/img/Soumissions_Sommaire3.png)
 
-
 Pour imprimer le sommaire, cliquez sur le bouton `Actions` en haut à droite.
 
 ![](/img/Soumissions_impressionSommaire.png)
 ![](/img/Soumissions_impressionSommaire_02.png)
-
 
 #### Proposition client
 
@@ -506,10 +499,9 @@ Cliquez sur l'onglet **Proposition Client.**
 Révisez et modifiez aux besoin les informations.
 Le texte se génère de façon automatique une première fois. Pour **ajuster** du texte, cliquez dans la boîte, il deviendra orangé. Vous pouvez alors changer des termes ou ajouter des mots.
 
-Pour revenir au **texte original**, appuyez sur la petite icône de rafraîchissement. Et pour le **supprimer** complètement et laisser la case vide, utilisez le petit X. 
+Pour revenir au **texte original**, appuyez sur la petite icône de rafraîchissement. Et pour le **supprimer** complètement et laisser la case vide, utilisez le petit X.
 
 ![](/img/Soumissions_SommaireProp.png)
-
 
 ![](/img/Proposition_texteManuel_1.png)
 ![](/img/Proposition_texteManuel_2.png)
